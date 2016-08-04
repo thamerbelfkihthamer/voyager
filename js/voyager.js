@@ -52,6 +52,8 @@ var VOYAGER;
         },
 
         getContent: function(org, category, language) {
+            // TODO(ejpark): Implement filtering of content based on input
+            // parameters
             return VOYAGER.content;
         },
 
