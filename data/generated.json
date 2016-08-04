@@ -1,0 +1,106 @@
+{
+    "strings": {
+        "en": {
+            "app_name": "Voyager",
+            "categories": "Categories",
+            "orgs": "Organizations"
+        },
+        "de": {
+            "app_name": "de-Voyager",
+            "categories": "de-Categories",
+            "orgs": "de-Organizations"
+        },
+        "ar": {
+            "app_name": "ar-Voyager",
+            "categories": "ar-Categories",
+            "orgs": "ar-Organizations"
+        }
+    },
+
+    "content": [
+        {
+            "type": "video",
+            "categories": [
+                "technology",
+                "language"
+            ],
+            "author": "PBS Idea Channel",
+            "logo": "https://yt3.ggpht.com/-5e2ls1wwdG0/AAAAAAAAAAI/AAAAAAAAAAA/WVxsK9zID3w/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "url": "https://www.youtube.com/watch?v=vRNVf-1M7xQ",
+            "title": {
+                "en": "Can You Speak Emoji?",
+                "de": "de-Can You Speak Emoji?",
+                "ar": "ar-Can You Speak Emoji?"
+            },
+            "lang_support": {
+                "en": "yes",
+                "de": "autotrans",
+                "ar": "no"
+            }
+        },
+        {
+            "type": "video",
+            "categories": [
+                "coding",
+                "technology",
+                "design",
+                "art"
+            ],
+            "author": "Android Developer Story",
+            "logo": "https://yt3.ggpht.com/-5e2ls1wwdG0/AAAAAAAAAAI/AAAAAAAAAAA/WVxsK9zID3w/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "url": "https://www.youtube.com/watch?v=e7t3svG9PTk",
+            "title": {
+                "en": "Music app developer DJIT builds higher quality experiences on Android",
+                "de": "de-Music app developer DJIT builds higher quality experiences on Android",
+                "ar": "ar-Music app developer DJIT builds higher quality experiences on Android"
+            },
+            "lang_support": {
+                "en": "yes",
+                "de": "yes",
+                "ar": "yes"
+            }
+        }
+    ],
+
+    "orgs": [
+        {
+            "name": "unicef",
+            "title": {
+                "en": "Unicef",
+                "de": "de-Unicef",
+                "ar": "ar-Unicef"
+            },
+            "image": ""
+        },
+        {
+            "name": "stanford",
+            "title": {
+                "en": "Stanford",
+                "de": "de-Stanford",
+                "ar": "ar-Stanford"
+            },
+            "image": ""
+        }
+    ],
+
+    "categories": [
+        {
+            "name": "science",
+            "title": {
+                "en": "Science",
+                "de": "de-Science",
+                "ar": "ar-Science"
+            },
+            "image": ""
+        },
+        {
+            "name": "math",
+            "title": {
+                "en": "Math",
+                "de": "de-Math",
+                "ar": "ar-Math"
+            },
+            "image": ""
+        }
+    ]
+}

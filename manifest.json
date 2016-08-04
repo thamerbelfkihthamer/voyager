@@ -1,0 +1,22 @@
+{
+  "name": "Voyager",
+  "description": "Ready to start your journey?",
+  "version": "0.2",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["js/background.js"]
+    }
+  },
+  "icons": {
+    "16": "img/icon_16.png",
+    "128": "img/icon_128.png"
+  },
+  "sandbox": {
+    "pages": ["templates.html"]
+  },
+  "permissions": [
+    "storage",
+    "webview"
+  ]
+}

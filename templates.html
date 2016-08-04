@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <script src="js/handlebars-4.0.5.min.js"></script>
+  </head>
+  <body>
+
+    <script type="text/x-handlebars-template" id="template_main">
+      <div id="main_header">
+        <!-- Organizations -->
+        <div>{{strings.orgs}}
+          <ul>
+            {{#each orgs}}
+            <li>{{lookup this.title ../lang}} - img url: {{this.image}}</li>
+            {{/each}}
+          </ul>
+        </div>
+
+        <!-- Categories -->
+        <div>{{strings.categories}}
+          <ul>
+            {{#each categories}}
+            <li>{{lookup this.title ../lang}} - img url: {{this.image}}</li>
+            {{/each}}
+          </ul>
+        </div>
+
+        <!-- Languages -->
+        <div>
+          <ul>
+            <li>
+              <a href="#" id="lang_en"
+                 class="lang{{#if_eq lang 'en'}} active_lang{{/if_eq}}">
+                English</a>
+            </li>
+            <li>
+              <a href="#" id="lang_de"
+                 class="lang{{#if_eq lang 'de'}} active_lang{{/if_eq}}">
+                Deutch</a>
+            </li>
+            <li>
+              <a href="#" id="lang_ar"
+                 class="lang{{#if_eq lang 'ar'}} active_lang{{/if_eq}}">
+                Arabic</a>
+            </li>
+          </ul>
+        </div>
+
+        <div id="main_content">
+          <h1>Content</h1>
+          {{#each content}}
+          <p>{{this.author}}</p>
+          <img src="{{this.logo}}">
+          <a href="{{this.url}}" target="_blank">
+            {{lookup this.title ../lang}}
+          </a>
+          {{/each}}
+        </div>
+      </div>
+    </script>
+
+    <script>
+      Handlebars.registerHelper('if_eq', function(a, b, opts) {
+          if(a == b) // Or === depending on your needs
+              return opts.fn(this);
+          else
+              return opts.inverse(this);
+      });
+      
+      // Precompile all templates
+      var templates = {};
+      $("script[type='text/x-handlebars-template']").each(function(i, e) {
+          var source = $(e).html();
+          var name = $(e).attr("id");
+          templates[name] = Handlebars.compile(source);
+      });
+
+      // Message event handler
+      window.addEventListener("message", function(event) {
+      var command = event.data.command;
+          var template = templates[event.data.templateName];
+
+          if (!template) {
+              event.source.postMessage({"error": "Unrecognized template"}, event.origin);
+          } else {
+              switch(command) {
+                  case "render":
+                      event.source.postMessage({
+                          "result": template(event.data.context),
+                          "templateName": event.data.templateName
+                      }, event.origin);
+                      break;
+              }
+          }
+      });
+    </script>
+  </body>
+</html>
