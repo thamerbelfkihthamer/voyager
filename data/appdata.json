@@ -1,0 +1,232 @@
+{
+    "strings": {
+        "app_name": {
+            "en": "Voyager",
+            "de": "Seereisende",
+            "ar": "رحالة"
+        },
+        "categories": {
+            "en": "Categories",
+            "de": "Kategorien",
+            "ar": "فئة"
+        },
+        "orgs": {
+            "en": "Organizations",
+            "de": "Organisationen",
+            "ar": "منظمة"
+        }
+    },
+
+    "categories": [
+        {
+            "image": "",
+            "name": "space",
+            "title": {
+                "de": "Space",
+                "ar": "Space",
+                "en": "Space"
+            }
+        },
+        {
+            "image": "",
+            "name": "math_science",
+            "title": {
+                "de": "Math and Science",
+                "ar": "Math and Science",
+                "en": "Math and Science"
+            }
+        },
+        {
+            "image": "",
+            "name": "bci",
+            "title": {
+                "de": "BCI",
+                "ar": "BCI",
+                "en": "BCI"
+            }
+        },
+        {
+            "image": "",
+            "name": "language",
+            "title": {
+                "de": "Language",
+                "ar": "Language",
+                "en": "Language"
+            }
+        },
+        {
+            "image": "",
+            "name": "environmental",
+            "title": {
+                "de": "Environmental",
+                "ar": "Environmental",
+                "en": "Environmental"
+            }
+        },
+        {
+            "image": "",
+            "name": "comics",
+            "title": {
+                "de": "Comics",
+                "ar": "Comics",
+                "en": "Comics"
+            }
+        },
+        {
+            "image": "",
+            "name": "cars",
+            "title": {
+                "de": "Cars",
+                "ar": "Cars",
+                "en": "Cars"
+            }
+        },
+        {
+            "image": "",
+            "name": "bci",
+            "title": {
+                "de": "Brain Computer Interface",
+                "ar": "Brain Computer Interface",
+                "en": "Brain Computer Interface"
+            }
+        },
+        {
+            "image": "",
+            "name": "robotics",
+            "title": {
+                "de": "Robotics",
+                "ar": "Robotics",
+                "en": "Robotics"
+            }
+        },
+        {
+            "image": "",
+            "name": "coding",
+            "title": {
+                "de": "Coding",
+                "ar": "Coding",
+                "en": "Coding"
+            }
+        },
+        {
+            "image": "",
+            "name": "graphics_design",
+            "title": {
+                "de": "Graphic Design",
+                "ar": "Graphic Design",
+                "en": "Graphic Design"
+            }
+        },
+        {
+            "image": "",
+            "name": "culinary",
+            "title": {
+                "de": "Culinary",
+                "ar": "Culinary",
+                "en": "Culinary"
+            }
+        },
+        {
+            "image": "",
+            "name": "game_design",
+            "title": {
+                "de": "Game Design",
+                "ar": "Game Design",
+                "en": "Game Design"
+            }
+        },
+        {
+            "image": "",
+            "name": "design_art",
+            "title": {
+                "de": "Design and Art",
+                "ar": "Design and Art",
+                "en": "Design and Art"
+            }
+        },
+        {
+            "image": "",
+            "name": "architecture",
+            "title": {
+                "de": "Architecture",
+                "ar": "Architecture",
+                "en": "Architecture"
+            }
+        },
+        {
+            "image": "",
+            "name": "games",
+            "title": {
+                "de": "Games",
+                "ar": "Games",
+                "en": "Games"
+            }
+        },
+        {
+            "image": "",
+            "name": "education",
+            "title": {
+                "de": "Education",
+                "ar": "Education",
+                "en": "Education"
+            }
+        },
+        {
+            "image": "",
+            "name": "agriculture",
+            "title": {
+                "de": "Agriculture",
+                "ar": "Agriculture",
+                "en": "Agriculture"
+            }
+        },
+        {
+            "image": "",
+            "name": "vocational",
+            "title": {
+                "de": "Vocational and Trade Skills",
+                "ar": "Vocational and Trade Skills",
+                "en": "Vocational and Trade Skills"
+            }
+        },
+        {
+            "image": "",
+            "name": "professional",
+            "title": {
+                "de": "Professional Development",
+                "ar": "Professional Development",
+                "en": "Professional Development"
+            }
+        },
+        {
+            "image": "",
+            "name": "technology",
+            "title": {
+                "de": "Technology",
+                "ar": "Technology",
+                "en": "Technology"
+            }
+        }
+    ],
+
+    "orgs": [
+        {
+            "name": "unicef",
+            "title": {
+                "en": "Unicef",
+                "de": "de-Unicef",
+                "ar": "ar-Unicef"
+            },
+            "image": ""
+        },
+        {
+            "name": "stanford",
+            "title": {
+                "en": "Stanford",
+                "de": "de-Stanford",
+                "ar": "ar-Stanford"
+            },
+            "image": ""
+        }
+    ]
+}
