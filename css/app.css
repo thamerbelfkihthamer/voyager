@@ -1,3 +1,60 @@
+html {
+  overflow: auto;
+}
+
 .active_lang {
     color: #ff0000;
 }
+
+#cards-container {
+  width: 1000px;
+}
+
+.card {
+  width: 450px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 5px #888888;
+  margin-top: 10px;
+  border: 1px solid #DDD;
+}
+
+.card .metadata {
+  padding: 10px 10px 10px 10px;
+}
+
+.card .logo-container {
+  width: 50px;
+  float: left;
+  margin-right: 10px;
+}
+
+.card .author-title-container {
+  display: inline;
+}
+
+.card img.logo {
+  width: inherit;
+  vertical-align: middle;
+}
+
+.card img.yt-video-image {
+  width: inherit;
+}
+
+.card .title {
+  font-size: 20px;
+  display: inline;
+}
+
+.card .title a {
+  text-decoration: none;
+  font-weight: normal;
+  color: #333;
+}
+
+.card .author {
+  font-weight: bold;
+  color: #82A8E3;
+  font-size: 16px;
+}
+

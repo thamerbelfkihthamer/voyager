@@ -49,13 +49,28 @@
 
         <div id="main_content">
           <h1>Content</h1>
-          {{#each content}}
-          <p>{{this.author}}</p>
-          <img src="{{this.logo}}">
-          <a href="{{this.url}}" target="_blank">
-            {{lookup this.title ../lang}}
-          </a>
-          {{/each}}
+          <div id="cards-container">
+            {{#each content}}
+              <div class="card">
+                {{#if_eq this.type "video"}}
+                  <img class="yt-video-image load-image" id="display-{{this.youtube_id}}" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
+                {{/if_eq}}
+                <div class="metadata">
+                  <div class="logo-container">
+                    <img class="logo load-image" id="logo-{{this.youtube_id}}" data-src="{{this.logo}}"/>
+                  </div>
+                  <div class="author-title-container">
+                    <div class="author">{{this.author}}</div>
+                    <div class="title">
+                      <a href="{{this.url}}" target="_blank">
+                        {{lookup this.title ../lang}}
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            {{/each}}
+          </div>
         </div>
       </div>
     </script>
@@ -67,7 +82,7 @@
           else
               return opts.inverse(this);
       });
-      
+
       // Precompile all templates
       var templates = {};
       $("script[type='text/x-handlebars-template']").each(function(i, e) {

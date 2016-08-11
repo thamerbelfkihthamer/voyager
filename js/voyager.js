@@ -35,7 +35,7 @@ var VOYAGER;
 
             $.getJSON("/data/generated.json", function(data) {
                 VOYAGER.strings = data.strings;
-                VOYAGER.content = data.content;
+                VOYAGER.content = VOYAGER.transformContent(data.content);
                 VOYAGER.orgs = data.orgs;
                 VOYAGER.categories = data.categories;
 
@@ -43,7 +43,7 @@ var VOYAGER;
             });
 
         },
-        
+
         setLanguage: function(lang, callback) {
             VOYAGER.language = lang;
             chrome.storage.local.set({
@@ -88,6 +88,51 @@ var VOYAGER;
                     VOYAGER.refreshUI();
                 });
             });
+
+            // Load all the images
+            $("img.load-image").each(function() {
+                VOYAGER.loadImage($(this).attr('id'));
+            });
+
+            // Organize the loaded images into two columns
+            $("#cards-container img").on('load', function() {
+                $("#cards-container").masonry({
+                    itemSelector: ".card",
+                    columnWidth: ".card",
+                    gutter: 10,
+                    columns: 2
+                });
+            });
+        },
+
+        transformContent: function(content) {
+            for (var i = 0; i < content.length; i++) {
+                if (content[i].type == "video") {
+                    content[i].youtube_id = VOYAGER.extractYoutubeId(content[i].url);
+                }
+            }
+            return content;
+        },
+
+        extractYoutubeId: function(url) {
+            var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+            var match = url.match(regExp);
+
+            if (match && match[2].length == 11) {
+            return match[2];
+            } else {
+            return 'error';
+            }
+        },
+
+        loadImage: function(imgId) {
+            var xhr = new XMLHttpRequest();
+            xhr.responseType = 'blob';
+            xhr.onload = function() {
+                document.getElementById(imgId).src = window.URL.createObjectURL(xhr.response);
+            }
+            xhr.open('GET', $("#" + imgId).attr('data-src'), true);
+            xhr.send();
         }
     };
 })(jQuery);
