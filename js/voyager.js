@@ -42,6 +42,8 @@ var VOYAGER;
                 VOYAGER.refreshUI();
             });
 
+            // Video click handler
+            VOYAGER.registerVideoLinkHandlers();
         },
 
         setLanguage: function(lang, callback) {
@@ -133,6 +135,19 @@ var VOYAGER;
             }
             xhr.open('GET', $("#" + imgId).attr('data-src'), true);
             xhr.send();
+        },
+
+        registerVideoLinkHandlers: function() {
+            $("body").on("click", ".video-link", function() {
+                $(".video-modal-content").empty().html('<webview class="embedded-video" src="' 
+                    + $(this).attr("data-url") + '"></webview>');
+                $(".video-modal-content").append('<span class="close">×</span>');
+                $(".video-modal").show();
+            });
+
+            $("body").on("click", ".video-modal-content .close, .video-modal", function() {
+                $(".video-modal").hide();
+            });
         }
     };
 })(jQuery);
