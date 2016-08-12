@@ -1,76 +1,92 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="-8">
     <script src="js/jquery-2.2.4.min.js"></script>
     <script src="js/handlebars-4.0.5.min.js"></script>
   </head>
   <body>
 
+    <script type="text/x-handlebars-template" id="template_navbar">
+      <div>Voyager</div>
+
+      <!-- Organizations -->
+      <div id="orgs_label" class="nav-label">{{strings.orgs}}</div>
+      <div id="orgs_menu" class="nav-menu">
+        <ul>
+          {{#each orgs}}
+          <li>
+            <a href="#" id="org_{{this.name}}" class="org">
+              <img src="{{this.image}}">
+              {{lookup this.title ../lang}}
+            </a>
+          </li>
+          {{/each}}
+        </ul>
+      </div>
+
+      <!-- Categories -->
+      <div id="categories_label" class="nav-label">{{strings.categories}}</div>
+      <div id="categories_menu" class="nav-menu">
+        <ul>
+          {{#each categories}}
+          <li>
+            <a href="#" id="category_{{this.name}}" class="category">
+              <img src="{{this.image}}">
+              {{lookup this.title ../lang}}
+            </a>
+          </li>
+          {{/each}}
+        </ul>
+      </div>
+
+      <!-- Languages -->
+      <div>
+        <ul id="languages">
+          <li>
+            <a href="#" id="lang_ar"
+               class="lang{{#if_eq lang 'ar'}} active_lang{{/if_eq}}">
+              العربية</a>
+          </li>
+          <li>
+            <a href="#" id="lang_de"
+               class="lang{{#if_eq lang 'de'}} active_lang{{/if_eq}}">
+              Deutsche</a>
+          </li>
+          <li>
+            <a href="#" id="lang_en"
+               class="lang{{#if_eq lang 'en'}} active_lang{{/if_eq}}">
+              English</a>
+          </li>
+        </ul>
+      </div>
+    </script>
+
     <script type="text/x-handlebars-template" id="template_main">
-      <div id="main_header">
-        <!-- Organizations -->
-        <div>{{strings.orgs}}
-          <ul>
-            {{#each orgs}}
-            <li>{{lookup this.title ../lang}} - img url: {{this.image}}</li>
-            {{/each}}
-          </ul>
-        </div>
-
-        <!-- Categories -->
-        <div>{{strings.categories}}
-          <ul>
-            {{#each categories}}
-            <li>{{lookup this.title ../lang}} - img url: {{this.image}}</li>
-            {{/each}}
-          </ul>
-        </div>
-
-        <!-- Languages -->
-        <div>
-          <ul>
-            <li>
-              <a href="#" id="lang_en"
-                 class="lang{{#if_eq lang 'en'}} active_lang{{/if_eq}}">
-                English</a>
-            </li>
-            <li>
-              <a href="#" id="lang_de"
-                 class="lang{{#if_eq lang 'de'}} active_lang{{/if_eq}}">
-                Deutch</a>
-            </li>
-            <li>
-              <a href="#" id="lang_ar"
-                 class="lang{{#if_eq lang 'ar'}} active_lang{{/if_eq}}">
-                Arabic</a>
-            </li>
-          </ul>
-        </div>
-
-        <div id="main_content">
-          <h1>Content</h1>
-          <div id="cards-container">
-            {{#each content}}
-              <div class="card">
-                {{#if_eq this.type "video"}}
-                  <img class="yt-video-image load-image" id="display-{{this.youtube_id}}" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
-                {{/if_eq}}
-                <div class="metadata">
-                  <div class="logo-container">
-                    <img class="logo load-image" id="logo-{{this.youtube_id}}" data-src="{{this.logo}}"/>
-                  </div>
-                  <div class="author-title-container">
-                    <div class="author">{{this.author}}</div>
-                    <div class="title">
-                      <a href="{{this.url}}" target="_blank">
-                        {{lookup this.title ../lang}}
-                      </a>
-                    </div>
-                  </div>
+      <div id="main_navbar"></div>
+      <div id="main_content">
+        <h1>Content</h1>
+        <div id="cards-container">
+          {{#each content}}
+          <div class="card">
+            {{#if_eq this.type "video"}}
+            <img class="yt-video-image load-image" id="display-{{this.youtube_id}}" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
+            {{/if_eq}}
+            <div class="metadata">
+              <div class="logo-container">
+                <img class="logo load-image" id="logo-{{this.youtube_id}}" data-src="{{this.logo}}"/>
+              </div>
+              <div class="author-title-container">
+                <div class="author">{{this.author}}</div>
+                <div class="title">
+                  <a href="{{this.url}}" target="_blank">
+                    {{lookup this.title ../lang}}
+                  </a>
                 </div>
               </div>
-            {{/each}}
+            </div>
           </div>
+          {{/each}}
         </div>
       </div>
     </script>
@@ -93,7 +109,7 @@
 
       // Message event handler
       window.addEventListener("message", function(event) {
-      var command = event.data.command;
+          var command = event.data.command;
           var template = templates[event.data.templateName];
 
           if (!template) {

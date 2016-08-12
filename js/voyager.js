@@ -30,6 +30,9 @@ var VOYAGER;
                 case "template_main":
                     VOYAGER.showMain(event.data.result);
                     break;
+                case "template_navbar":
+                    VOYAGER.showNavbar(event.data.result);
+                    break;
                 }
             });
 
@@ -44,6 +47,11 @@ var VOYAGER;
 
         },
 
+        sendMessage: function(message) {
+            document.getElementById("templates").contentWindow
+                .postMessage(message, "*");
+        },
+
         setLanguage: function(lang, callback) {
             VOYAGER.language = lang;
             chrome.storage.local.set({
@@ -51,43 +59,63 @@ var VOYAGER;
             }, callback);
         },
 
-        getContent: function(org, category, language) {
+        getContent: function() {
             // TODO(ejpark): Implement filtering of content based on input
             // parameters
             return VOYAGER.content;
         },
 
         refreshUI: function() {
-            var content = VOYAGER.getContent(VOYAGER.org, VOYAGER.category,
-                VOYAGER.language);
             var context = {
-                "strings": VOYAGER.strings[VOYAGER.language],
-                "orgs": VOYAGER.orgs,
-                "categories": VOYAGER.categories,
-
-                "org": VOYAGER.org,
-                "category": VOYAGER.category,
                 "lang": VOYAGER.language,
-                "content": content
+                "content": VOYAGER.getContent()
             };
+
             var message = {
                 command: "render",
                 templateName: "template_main",
                 context: context
             };
-            document.getElementById("templates").contentWindow.postMessage(message, "*");
+            VOYAGER.sendMessage(message);
         },
 
-        showMain: function(rendered) {
-            $("#content").html(rendered);
+        showNavbar: function(rendered) {
+            $("#main_navbar").html(rendered);
+
+            // Dropdown click handler
+            $("#orgs_label").on("click", function(e) {
+                $("#orgs_menu").toggle();
+            });
+
+            $("#categories_label").on("click", function(e) {
+                $("#categories_menu").toggle();
+            });
+
+            // Organization click handler
+            $(".org").on("click", function(e) {
+                // Strip off "org_" prefix from id
+                VOYAGER.org = e.target.id.substring(4);
+                VOYAGER.refreshUI();
+            });
+
+            // Category click handler
+            $(".category").on("click", function(e) {
+                // Strip off "category_" prefix from id
+                VOYAGER.category = e.target.id.substring(9);
+                VOYAGER.refreshUI();
+            });
 
             // Language click handler
             $(".lang").on("click", function(e) {
-                // Strip off "lang_" prefix from id and use it to set language
+                // Strip off "lang_" prefix from id
                 VOYAGER.setLanguage(e.target.id.substring(5), function() {
                     VOYAGER.refreshUI();
                 });
             });
+        },
+
+        showMain: function(rendered) {
+            $("#content").html(rendered);
 
             // Load all the images
             $("img.load-image").each(function() {
@@ -103,6 +131,23 @@ var VOYAGER;
                     columns: 2
                 });
             });
+
+            var context = {
+                "strings": VOYAGER.strings[VOYAGER.language],
+                "orgs": VOYAGER.orgs,
+                "categories": VOYAGER.categories,
+
+                "org": VOYAGER.org,
+                "category": VOYAGER.category,
+                "lang": VOYAGER.language
+            };
+
+            var message = {
+                command: "render",
+                templateName: "template_navbar",
+                context: context
+            };
+            VOYAGER.sendMessage(message);
         },
 
         transformContent: function(content) {

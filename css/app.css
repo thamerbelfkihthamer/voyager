@@ -1,9 +1,53 @@
 html {
   overflow: auto;
+  font-size: 14pt;
 }
 
-.active_lang {
-    color: #ff0000;
+#main_navbar {
+  padding: 0px 20px;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  border-bottom: 1px solid #ff0000;
+  z-index: 2;
+  background-color: white;
+}
+
+#main_content {
+  padding-top: 100px;
+  z-index: 1;
+}
+
+.nav-label {
+
+}
+
+.nav-menu {
+  display: none;
+}
+
+.nav-menu li {
+  display: inline;
+}
+
+#languages {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+#languages li {
+  display: inline;
+}
+
+#languages li a {
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+}
+
+li a.active_lang {
+  border-bottom: 5px solid #673AB7;
 }
 
 #cards-container {
