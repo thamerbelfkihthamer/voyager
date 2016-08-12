@@ -143,6 +143,7 @@ def parseContent(i, fields):
         "author":       fields[9].strip(),
         "logo":         fields[10].strip(),
         "duration":     fields[11].strip(),
+        "org":          "google",	# TODO: update when sheet has org column
     }
     return record
 

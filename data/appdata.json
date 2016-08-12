@@ -211,6 +211,15 @@
 
     "orgs": [
         {
+            "name": "google",
+            "title": {
+                "en": "Google",
+                "de": "Google",
+                "ar": "Google"
+            },
+            "image": ""
+        },
+        {
             "name": "unicef",
             "title": {
                 "en": "Unicef",
