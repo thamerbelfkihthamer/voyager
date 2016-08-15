@@ -103,10 +103,16 @@ var VOYAGER;
 
             // Dropdown click handler
             $("#orgs_label").on("click", function(e) {
+                if ($("#categories_menu").css("display") != "none") {
+                    $("#categories_menu").hide();
+                }
                 $("#orgs_menu").toggle();
             });
 
             $("#categories_label").on("click", function(e) {
+                if ($("#orgs_menu").css("display") != "none") {
+                    $("#orgs_menu").hide();
+                }
                 $("#categories_menu").toggle();
             });
 
