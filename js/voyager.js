@@ -62,7 +62,25 @@ var VOYAGER;
         getContent: function() {
             // TODO(ejpark): Implement filtering of content based on input
             // parameters
-            return VOYAGER.content;
+            var filteredContent = [];
+            if (VOYAGER.language === undefined || VOYAGER.language === null) {
+                VOYAGER.language == "en";
+            }
+
+            console.log(VOYAGER.content);
+
+            if (VOYAGER.category != null && VOYAGER.org != null) {
+                for (var element in VOYAGER.content) {
+
+                    if (VOYAGER.content[element]["lang_support"][VOYAGER.language] === "yes" &&
+                        VOYAGER.content[element]["categories"].indexOf(VOYAGER.category) >=0 &&
+                        VOYAGER.content[element]["org"] === VOYAGER.org) {
+                       filteredContent.push(VOYAGER.content[element]);
+                    }
+                }
+            }
+
+            return filteredContent;
         },
 
         refreshUI: function() {
@@ -77,6 +95,7 @@ var VOYAGER;
                 context: context
             };
             VOYAGER.sendMessage(message);
+
         },
 
         showNavbar: function(rendered) {
