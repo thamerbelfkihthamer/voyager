@@ -81,8 +81,8 @@ var VOYAGER;
             if (VOYAGER.category != null && VOYAGER.org != null) {
                 for (var element in VOYAGER.content) {
 
-                    if (VOYAGER.content[element]["lang_support"][VOYAGER.language] === "yes" &&
-                        VOYAGER.content[element]["categories"].indexOf(VOYAGER.category.name) >=0 &&
+                    if (VOYAGER.content[element]["lang_support"][VOYAGER.language] &&
+                        VOYAGER.content[element]["categories"].indexOf(VOYAGER.category.name) >= 0 &&
                         VOYAGER.content[element]["org"] === VOYAGER.org.name) {
                        filteredContent.push(VOYAGER.content[element]);
                     }
