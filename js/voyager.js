@@ -5,7 +5,9 @@ var VOYAGER;
         strings: {},
         content: {},
         orgs: [],
+        orgsObj: {},
         categories: [],
+        categoriesObj: {},
 
         // Currently active field
         org: null,
@@ -42,6 +44,15 @@ var VOYAGER;
                 VOYAGER.orgs = data.orgs;
                 VOYAGER.categories = data.categories;
 
+                for (var i = 0; i < VOYAGER.orgs.length; i++) {
+                    var org = VOYAGER.orgs[i];
+                    VOYAGER.orgsObj[org.name] = org;
+                }
+                for (var i = 0; i < VOYAGER.categories.length; i++) {
+                    var category = VOYAGER.categories[i];
+                    VOYAGER.categoriesObj[category.name] = category;
+                }
+
                 VOYAGER.refreshUI();
             });
 
@@ -71,8 +82,8 @@ var VOYAGER;
                 for (var element in VOYAGER.content) {
 
                     if (VOYAGER.content[element]["lang_support"][VOYAGER.language] === "yes" &&
-                        VOYAGER.content[element]["categories"].indexOf(VOYAGER.category) >=0 &&
-                        VOYAGER.content[element]["org"] === VOYAGER.org) {
+                        VOYAGER.content[element]["categories"].indexOf(VOYAGER.category.name) >=0 &&
+                        VOYAGER.content[element]["org"] === VOYAGER.org.name) {
                        filteredContent.push(VOYAGER.content[element]);
                     }
                 }
@@ -84,6 +95,8 @@ var VOYAGER;
         refreshUI: function() {
             var context = {
                 "lang": VOYAGER.language,
+                "org": VOYAGER.org,
+                "category": VOYAGER.category,
                 "content": VOYAGER.getContent()
             };
 
@@ -120,17 +133,23 @@ var VOYAGER;
                 }
             });
 
+            $("#navigation .home-label").on("click", function(e) {
+                VOYAGER.org = null;
+                VOYAGER.category = null;
+                VOYAGER.refreshUI();
+            });
+
             // Organization click handler
             $(".org").on("click", function(e) {
                 // Strip off "org_" prefix from id
-                VOYAGER.org = e.target.id.substring(4);
+                VOYAGER.org = VOYAGER.orgsObj[e.target.id.substring(4)];
                 VOYAGER.refreshUI();
             });
 
             // Category click handler
             $(".category").on("click", function(e) {
                 // Strip off "category_" prefix from id
-                VOYAGER.category = e.target.id.substring(9);
+                VOYAGER.category = VOYAGER.categoriesObj[e.target.id.substring(9)];
                 VOYAGER.refreshUI();
             });
 

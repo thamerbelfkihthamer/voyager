@@ -10,7 +10,7 @@
     <script type="text/x-handlebars-template" id="template_navbar">
       <!-- Orgs and categories -->
       <div id="navigation">
-        <div id="home_label" class="nav-label">
+        <div class="home-label nav-label">
             &#9660;&nbsp;Voyager
         </div>
         <div id="orgs_label" class="nav-label">
@@ -20,7 +20,6 @@
           {{strings.categories}}&nbsp;&#711;
         </div>
       </div>
-      <div style="clear:both"></div>
 
       <!-- Languages -->
       <div id="languages">
@@ -34,6 +33,8 @@
           English
         </div>
       </div>
+
+      <!-- clear navigation and languages float -->
       <div style="clear:both"></div>
 
       <!-- Organizations -->
@@ -60,7 +61,7 @@
     <script type="text/x-handlebars-template" id="template_main">
       <div id="main_navbar"></div>
       <div id="main_content">
-        <h1>Content</h1>
+        <h1>{{lookup category.title lang}}</h1>
         <div id="cards-container">
           {{#each content}}
           <div class="card">
