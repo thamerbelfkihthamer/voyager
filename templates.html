@@ -8,45 +8,51 @@
   <body>
 
     <script type="text/x-handlebars-template" id="template_navbar">
-      <div><a href="#" id="home">&#9660;&nbsp;Voyager</a></div>
-
-      <div id="orgs_label" class="nav-label">{{strings.orgs}}&nbsp;&#9660;</div>
-      <div id="categories_label" class="nav-label">{{strings.categories}}&nbsp;&#9660;</div>
+      <!-- Orgs and categories -->
+      <div id="navigation">
+        <div id="home_label" class="nav-label">
+            &#9660;&nbsp;Voyager
+        </div>
+        <div id="orgs_label" class="nav-label">
+          {{strings.orgs}}&nbsp;&#711;
+        </div>
+        <div id="categories_label" class="nav-label">
+          {{strings.categories}}&nbsp;&#711;
+        </div>
+      </div>
+      <div style="clear:both"></div>
 
       <!-- Languages -->
-      <ul id="languages">
-        <li {{#if_eq lang 'ar'}}class="active_lang"{{/if_eq}}>
-          <a href="#" id="lang_ar" class="lang">العربية</a>
-        </li>
-        <li {{#if_eq lang 'de'}}class="active_lang"{{/if_eq}}>
-          <a href="#" id="lang_de" class="lang">Deutsche</a>
-        </li>
-        <li {{#if_eq lang 'en'}}class="active_lang"{{/if_eq}}>
-          <a href="#" id="lang_en" class="lang">English</a>
-        </li>
-      </ul>
+      <div id="languages">
+        <div id="lang_ar" {{#if_eq lang 'ar'}}class="active_lang"{{/if_eq}}>
+          العربية
+        </div>
+        <div id="lang_de" {{#if_eq lang 'de'}}class="active_lang"{{/if_eq}}>
+          Deutsche
+        </div>
+        <div id="lang_en" {{#if_eq lang 'en'}}class="active_lang"{{/if_eq}}>
+          English
+        </div>
+      </div>
+      <div style="clear:both"></div>
 
       <!-- Organizations -->
       <div id="orgs_menu" class="nav-menu">
         {{#each orgs}}
-        <a href="#" id="org_{{this.name}}" class="org">
-          <div>
-            <img src="{{this.image}}">
-            {{lookup this.title ../lang}}
-          </div>
-        </a>
+        <div id="org_{{this.name}}" class="org">
+          <img src="{{this.image}}">
+          {{lookup this.title ../lang}}
+        </div>
         {{/each}}
       </div>
 
       <!-- Categories -->
       <div id="categories_menu" class="nav-menu">
         {{#each categories}}
-        <a href="#" id="category_{{this.name}}" class="category">
-          <div>
-            <img src="{{this.image}}">
-            {{lookup this.title ../lang}}
-          </div>
-        </a>
+        <div id="category_{{this.name}}" class="category">
+          <img src="{{this.image}}">
+          {{lookup this.title ../lang}}
+        </div>
         {{/each}}
       </div>
     </script>

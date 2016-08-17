@@ -67,8 +67,6 @@ var VOYAGER;
                 VOYAGER.language == "en";
             }
 
-            console.log(VOYAGER.content);
-
             if (VOYAGER.category != null && VOYAGER.org != null) {
                 for (var element in VOYAGER.content) {
 
@@ -104,16 +102,22 @@ var VOYAGER;
             // Dropdown click handler
             $("#orgs_label").on("click", function(e) {
                 if ($("#categories_menu").css("display") != "none") {
-                    $("#categories_menu").hide();
+                    $("#categories_menu").slideUp("fast", function() {
+                        $("#orgs_menu").slideDown("fast");
+                    });
+                } else {
+                    $("#orgs_menu").slideToggle("fast");
                 }
-                $("#orgs_menu").toggle();
             });
 
             $("#categories_label").on("click", function(e) {
                 if ($("#orgs_menu").css("display") != "none") {
-                    $("#orgs_menu").hide();
+                    $("#orgs_menu").slideUp("fast", function() {
+                        $("#categories_menu").slideDown("fast");
+                    });
+                } else {
+                    $("#categories_menu").slideToggle("fast");
                 }
-                $("#categories_menu").toggle();
             });
 
             // Organization click handler
@@ -131,7 +135,7 @@ var VOYAGER;
             });
 
             // Language click handler
-            $(".lang").on("click", function(e) {
+            $("#languages div").on("click", function(e) {
                 // Strip off "lang_" prefix from id
                 VOYAGER.setLanguage(e.target.id.substring(5), function() {
                     VOYAGER.refreshUI();
