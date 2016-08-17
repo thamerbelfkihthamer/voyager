@@ -26,13 +26,20 @@ a {
 
 .nav-label {
     float: left;
-    padding-right: 40px;
-    margin-top: 3px;
+    margin-right: 40px;
 }
 
 .nav-label:hover {
     cursor: pointer;
     color: #333;
+}
+
+#orgs_label #orgs_uparrow {
+    display: none;
+}
+
+#categories_label #categories_uparrow {
+    display: none;
 }
 
 #languages {

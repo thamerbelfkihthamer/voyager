@@ -109,27 +109,67 @@ var VOYAGER;
 
         },
 
+        showCategoriesMenu: function(callback) {
+            $("#categories_menu").slideDown("fast");
+            $("#categories_downarrow").hide();
+            $("#categories_uparrow").show();
+            if (callback) {
+                callback();
+            }
+        },
+
+        hideCategoriesMenu: function(callback) {
+            $("#categories_menu").slideUp("fast");
+            $("#categories_downarrow").show();
+            $("#categories_uparrow").hide();
+            if (callback) {
+                callback();
+            }
+        },
+
+        showOrgsMenu: function(callback) {
+            $("#orgs_menu").slideDown("fast");
+            $("#orgs_downarrow").hide();
+            $("#orgs_uparrow").show();
+            if (callback) {
+                callback();
+            }
+        },
+
+        hideOrgsMenu: function(callback) {
+            $("#orgs_menu").slideUp("fast");
+            $("#orgs_downarrow").show();
+            $("#orgs_uparrow").hide();
+            if (callback) {
+                callback();
+            }
+        },
+
         showNavbar: function(rendered) {
             $("#main_navbar").html(rendered);
 
             // Dropdown click handler
             $("#orgs_label").on("click", function(e) {
                 if ($("#categories_menu").css("display") != "none") {
-                    $("#categories_menu").slideUp("fast", function() {
-                        $("#orgs_menu").slideDown("fast");
+                    VOYAGER.hideCategoriesMenu(function() {
+                        VOYAGER.showOrgsMenu();
                     });
+                } else if ($("#orgs_menu").css("display") != "none") {
+                    VOYAGER.hideOrgsMenu();
                 } else {
-                    $("#orgs_menu").slideToggle("fast");
+                    VOYAGER.showOrgsMenu();
                 }
             });
 
             $("#categories_label").on("click", function(e) {
                 if ($("#orgs_menu").css("display") != "none") {
-                    $("#orgs_menu").slideUp("fast", function() {
-                        $("#categories_menu").slideDown("fast");
+                    VOYAGER.hideOrgsMenu(function() {
+                        VOYAGER.showCategoriesMenu();
                     });
+                } else if ($("#categories_menu").css("display") != "none") {
+                    VOYAGER.hideCategoriesMenu();
                 } else {
-                    $("#categories_menu").slideToggle("fast");
+                    VOYAGER.showCategoriesMenu();
                 }
             });
 
