@@ -20,8 +20,6 @@ EXPECTED_LABELS = ['strings', 'orgs', 'categories']
 CATEGORIES = {
     "Agriculture": "agriculture",
     "Architecture": "architecture",
-    "BCI": "bci",
-    "Brain Computer Interface": "bci",
     "Cars": "cars",
     "Coding": "coding",
     "Comics": "comics",
@@ -116,34 +114,41 @@ def contentCategories(categories):
     return output
 
 def contentLangSupport(arabic, german):
-    # TODO(ejpark): Fix this
+    ar = de = False
+    if arabic.strip().lower() != "no":
+        ar = True
+    if german.strip().lower() != "no":
+        de = True
     return {
-        "ar": arabic,
-        "en": "yes",
-        "de": german,
+        "ar": ar,
+        "en": True,
+        "de": de,
     }
 
-def contentTitle(title):
-    title = title.strip()
+def contentTitle(title_ar, title_de, title_en):
+    if not title_ar:
+        title_ar = title_en
+    if not title_de:
+        title_de = title_en
     return {
-        "ar": title,
-        "en": title,
-        "de": title,
+        "ar": title_ar.strip(),
+        "de": title_de.strip(),
+        "en": title_en.strip(),
     }
 
 def parseContent(i, fields):
-    if fields[8] == "":
+    if fields[10] == "":
         return None
     record = {
         "type": "video",
         "categories":   contentCategories(fields[4]),
         "lang_support": contentLangSupport(fields[5], fields[6]),
-        "title":        contentTitle(fields[7]),
-        "url":          contentURL(fields[8]),
-        "author":       fields[9].strip(),
-        "logo":         fields[10].strip(),
-        "duration":     fields[11].strip(),
-        "org":          "google",	# TODO: update when sheet has org column
+        "title":        contentTitle(fields[9], fields[8], fields[7]),
+        "url":          contentURL(fields[10]),
+        "author":       fields[11].strip(),
+        "logo":         fields[12].strip(),
+        "duration":     fields[13].strip(),
+        "org":          fields[14].strip(),
     }
     return record
 
