@@ -217,7 +217,7 @@ var VOYAGER;
                 $("#cards-container").masonry({
                     itemSelector: ".card",
                     columnWidth: ".card",
-                    gutter: 10,
+                    gutter: 20,
                     columns: 2
                 });
             });
@@ -272,7 +272,7 @@ var VOYAGER;
 
         registerVideoLinkHandlers: function() {
             $("body").on("click", ".video-link", function() {
-                $(".video-modal-content").empty().html('<webview class="embedded-video" src="' 
+                $(".video-modal-content").html('<webview class="embedded-video" src="' 
                     + $(this).attr("data-url") + '"></webview>');
                 $(".video-modal-content").append('<span class="close">×</span>');
                 $(".video-modal").show();
@@ -280,6 +280,7 @@ var VOYAGER;
 
             $("body").on("click", ".video-modal-content .close, .video-modal", function() {
                 $(".video-modal").hide();
+                $(".video-modal-content").empty();
             });
         }
     };
