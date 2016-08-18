@@ -83,7 +83,7 @@
           {{#each content}}
             <div class="card" id="card-{{@index}}">
               {{#if_eq this.type "video"}}
-                <img class="yt-video-image load-image video-link" id="feature-img-{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
+                <img class="yt-video-image load-image video-link" id="feature-img-{{@index}}" data-index="{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
               {{/if_eq}}
               <div class="metadata">
                 <div class="logo-container">
@@ -93,7 +93,7 @@
                   <div class="author">{{this.author}}</div>
                   <div class="title">
                     {{#if_eq this.type "video"}}
-                      <a class="video-link" data-url="https://www.youtube.com/embed/{{this.youtube_id}}">
+                      <a class="video-link" data-index="{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}">
                     {{else}}
                       <a href="{{this.url}}" target="_blank">
                     {{/if_eq}}
