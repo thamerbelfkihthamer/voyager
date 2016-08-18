@@ -64,19 +64,19 @@ a {
   border-bottom: 5px solid #673AB7;
 }
 
-.nav-menu {
+.drawer {
   display: none;
   position: fixed;
   top: 80px;
   width: 100%;
   z-index: 2;
   background-color: white;
-  border: 1px solid #00ff00;
+  box-shadow: 0 1px 10px 0px #aaaaaa;
   overflow-x: scroll;
   white-space: nowrap;
 }
 
-.nav-menu div {
+.drawer div {
     display: inline-block;
     height: 80px;
     width: 100px;

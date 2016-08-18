@@ -52,9 +52,13 @@
 
       <!-- clear navigation and languages float -->
       <div style="clear:both"></div>
+    </script>
+
+    <script type="text/x-handlebars-template" id="template_main">
+      <div id="main_navbar"></div>
 
       <!-- Organizations -->
-      <div id="orgs_menu" class="nav-menu">
+      <div id="orgs_drawer" class="drawer">
         {{#each orgs}}
         <div id="org_{{this.name}}" class="org">
           <img src="{{this.image}}">
@@ -64,7 +68,7 @@
       </div>
 
       <!-- Categories -->
-      <div id="categories_menu" class="nav-menu">
+      <div id="categories_drawer" class="drawer">
         {{#each categories}}
         <div id="category_{{this.name}}" class="category">
           <img src="{{this.image}}">
@@ -72,10 +76,7 @@
         </div>
         {{/each}}
       </div>
-    </script>
 
-    <script type="text/x-handlebars-template" id="template_main">
-      <div id="main_navbar"></div>
       <div id="main_content">
         <h1>{{lookup category.title lang}}</h1>
         <div id="cards-container">

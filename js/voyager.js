@@ -97,8 +97,13 @@ var VOYAGER;
         refreshUI: function() {
             var context = {
                 "lang": VOYAGER.language,
+
+                "orgs": VOYAGER.orgs,
+                "categories": VOYAGER.categories,
+
                 "org": VOYAGER.org,
                 "category": VOYAGER.category,
+
                 "content": VOYAGER.getContent()
             };
 
@@ -111,38 +116,58 @@ var VOYAGER;
 
         },
 
-        showCategoriesMenu: function(callback) {
-            $("#categories_menu").slideDown("fast");
-            $("#categories_downarrow").hide();
-            $("#categories_uparrow").show();
-            if (callback) {
+        showCategoriesDrawer: function(callback) {
+            if ($("#categories_drawer").css("display") === "none") {
+                $("#categories_drawer").slideDown("fast", function() {
+                    if (callback) {
+                        callback();
+                    }
+                });
+                $("#categories_downarrow").hide();
+                $("#categories_uparrow").show();
+            } else if (callback) {
                 callback();
             }
         },
 
-        hideCategoriesMenu: function(callback) {
-            $("#categories_menu").slideUp("fast");
-            $("#categories_downarrow").show();
-            $("#categories_uparrow").hide();
-            if (callback) {
+        hideCategoriesDrawer: function(callback) {
+            if ($("#categories_drawer").css("display") !== "none") {
+                $("#categories_drawer").slideUp("fast", function() {
+                    if (callback) {
+                        callback();
+                    }
+                });
+                $("#categories_downarrow").show();
+                $("#categories_uparrow").hide();
+            } else if (callback) {
                 callback();
             }
         },
 
-        showOrgsMenu: function(callback) {
-            $("#orgs_menu").slideDown("fast");
-            $("#orgs_downarrow").hide();
-            $("#orgs_uparrow").show();
-            if (callback) {
+        showOrgsDrawer: function(callback) {
+            if ($("#orgs_drawer").css("display") === "none") {
+                $("#orgs_drawer").slideDown("fast", function() {
+                    if (callback) {
+                        callback();
+                    }
+                });
+                $("#orgs_downarrow").hide();
+                $("#orgs_uparrow").show();
+            } else if (callback) {
                 callback();
             }
         },
 
-        hideOrgsMenu: function(callback) {
-            $("#orgs_menu").slideUp("fast");
-            $("#orgs_downarrow").show();
-            $("#orgs_uparrow").hide();
-            if (callback) {
+        hideOrgsDrawer: function(callback) {
+            if ($("#orgs_drawer").css("display") !== "none") {
+                $("#orgs_drawer").slideUp("fast", function() {
+                    if (callback) {
+                        callback();
+                    }
+                });
+                $("#orgs_downarrow").show();
+                $("#orgs_uparrow").hide();
+            } else if (callback) {
                 callback();
             }
         },
@@ -152,46 +177,28 @@ var VOYAGER;
 
             // Dropdown click handler
             $("#orgs_label").on("click", function(e) {
-                if ($("#categories_menu").css("display") != "none") {
-                    VOYAGER.hideCategoriesMenu(function() {
-                        VOYAGER.showOrgsMenu();
-                    });
-                } else if ($("#orgs_menu").css("display") != "none") {
-                    VOYAGER.hideOrgsMenu();
-                } else {
-                    VOYAGER.showOrgsMenu();
-                }
+                VOYAGER.hideCategoriesDrawer(function() {
+                    if ($("#orgs_drawer").css("display") != "none") {
+                        VOYAGER.hideOrgsDrawer();
+                    } else {
+                        VOYAGER.showOrgsDrawer();
+                    }
+                });
             });
 
             $("#categories_label").on("click", function(e) {
-                if ($("#orgs_menu").css("display") != "none") {
-                    VOYAGER.hideOrgsMenu(function() {
-                        VOYAGER.showCategoriesMenu();
-                    });
-                } else if ($("#categories_menu").css("display") != "none") {
-                    VOYAGER.hideCategoriesMenu();
-                } else {
-                    VOYAGER.showCategoriesMenu();
-                }
+                VOYAGER.hideOrgsDrawer(function() {
+                    if ($("#categories_drawer").css("display") != "none") {
+                        VOYAGER.hideCategoriesDrawer();
+                    } else {
+                        VOYAGER.showCategoriesDrawer();
+                    }
+                });
             });
 
             $("#navigation .home-label").on("click", function(e) {
                 VOYAGER.org = null;
                 VOYAGER.category = null;
-                VOYAGER.refreshUI();
-            });
-
-            // Organization click handler
-            $(".org").on("click", function(e) {
-                // Strip off "org_" prefix from id
-                VOYAGER.org = VOYAGER.orgsObj[e.target.id.substring(4)];
-                VOYAGER.refreshUI();
-            });
-
-            // Category click handler
-            $(".category").on("click", function(e) {
-                // Strip off "category_" prefix from id
-                VOYAGER.category = VOYAGER.categoriesObj[e.target.id.substring(9)];
                 VOYAGER.refreshUI();
             });
 
@@ -206,6 +213,24 @@ var VOYAGER;
 
         showMain: function(rendered) {
             $("#content").html(rendered);
+
+            // Organization drawer click handler
+            $(".org").on("click", function(e) {
+                // Strip off "org_" prefix from id
+                VOYAGER.org = VOYAGER.orgsObj[e.target.id.substring(4)];
+                VOYAGER.hideOrgsDrawer(function() {
+                    VOYAGER.refreshUI();
+                });
+            });
+
+            // Category drawer click handler
+            $(".category").on("click", function(e) {
+                // Strip off "category_" prefix from id
+                VOYAGER.category = VOYAGER.categoriesObj[e.target.id.substring(9)];
+                VOYAGER.hideCategoriesDrawer(function() {
+                    VOYAGER.refreshUI();
+                });
+            });
 
             // Load all the images
             $("img.load-image").each(function() {
@@ -224,11 +249,6 @@ var VOYAGER;
 
             var context = {
                 "strings": VOYAGER.strings[VOYAGER.language],
-                "orgs": VOYAGER.orgs,
-                "categories": VOYAGER.categories,
-
-                "org": VOYAGER.org,
-                "category": VOYAGER.category,
                 "lang": VOYAGER.language
             };
 
