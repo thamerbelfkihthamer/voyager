@@ -81,13 +81,13 @@
         <h1>{{lookup category.title lang}}</h1>
         <div id="cards-container">
           {{#each content}}
-            <div class="card">
+            <div class="card" id="card-{{@index}}">
               {{#if_eq this.type "video"}}
-                <img class="yt-video-image load-image video-link" id="display-{{this.youtube_id}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
+                <img class="yt-video-image load-image video-link" id="feature-img-{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
               {{/if_eq}}
               <div class="metadata">
                 <div class="logo-container">
-                  <img class="logo load-image" id="logo-{{this.youtube_id}}" data-src="{{this.logo}}"/>
+                  <img class="logo load-image" id="logo-{{@index}}" data-src="{{this.logo}}"/>
                 </div>
                 <div class="author-title-container">
                   <div class="author">{{this.author}}</div>
