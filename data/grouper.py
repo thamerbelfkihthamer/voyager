@@ -11,8 +11,6 @@ import sys
 CATEGORIES = {
     "Agriculture": "agriculture",
     "Architecture": "architecture",
-    "BCI": "bci",
-    "Brain Computer Interface": "bci",
     "Cars": "cars",
     "Coding": "coding",
     "Comics": "comics",
@@ -73,7 +71,7 @@ def main():
                 german[de] = True
 
         print "\nCategories:"
-        for category in categories.keys():
+        for category in sorted(categories.keys()):
             print category
 
         print "\nArabic:"

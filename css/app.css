@@ -1,53 +1,104 @@
 html {
-  overflow: auto;
+  overflow-y: auto;
   font-size: 14pt;
 }
 
-#main_navbar {
-  padding: 0px 20px;
+body {
+  margin: 0px !important;
+  padding: 0px !important;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+}
+
+#navigation {
+    float: left;
+    margin: 27px 0px 0px 20px;
+}
+
+#navigation .home-label {
+  font-size: 1.2em;
+  margin-top: 0px;
+}
+
+.nav-label {
+    float: left;
+    margin-right: 40px;
+}
+
+.nav-label:hover {
+    cursor: pointer;
+    color: #333;
+}
+
+#orgs_label #orgs_uparrow {
+    display: none;
+}
+
+#categories_label #categories_uparrow {
+    display: none;
+}
+
+#languages {
+  float: right;
+  margin: 20px 30px 0px 0px;
+  padding: 0px;
+}
+
+#languages div {
+  float: left;
+  padding: 10px 0px;
+  width: 90px;
+  text-align: center;
+}
+
+#languages div:hover {
+    cursor: pointer;
+    color: #333;
+}
+
+.active_lang {
+  border-bottom: 5px solid #673AB7;
+}
+
+.nav-menu {
+  display: none;
   position: fixed;
-  top: 0px;
+  top: 80px;
   width: 100%;
-  border-bottom: 1px solid #ff0000;
   z-index: 2;
   background-color: white;
+  border: 1px solid #00ff00;
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+
+.nav-menu div {
+    display: inline-block;
+    height: 80px;
+    width: 100px;
+    box-shadow: 0 2px 1px rgba(0,0,0,0.1),0 0 1px rgba(0,0,0,0.1);
+    text-align: center;
+    cursor: pointer;
+}
+
+#main_navbar {
+  position: fixed;
+  top: 0px;
+  height: 80px;
+  width: 100%;
+  box-shadow: 0 1px 10px 0px #aaaaaa;
+  z-index: 3;
+  background-color: white;
+  color: #777;
 }
 
 #main_content {
   padding-top: 100px;
   z-index: 1;
-}
-
-.nav-label {
-
-}
-
-.nav-menu {
-  display: none;
-}
-
-.nav-menu li {
-  display: inline;
-}
-
-#languages {
-  list-style-type: none;
-  margin: 0px;
-  padding: 0px;
-}
-
-#languages li {
-  display: inline;
-}
-
-#languages li a {
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-}
-
-li a.active_lang {
-  border-bottom: 5px solid #673AB7;
 }
 
 #cards-container {

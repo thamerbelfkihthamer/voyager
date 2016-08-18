@@ -5,7 +5,9 @@ var VOYAGER;
         strings: {},
         content: {},
         orgs: [],
+        orgsObj: {},
         categories: [],
+        categoriesObj: {},
 
         // Currently active field
         org: null,
@@ -42,6 +44,15 @@ var VOYAGER;
                 VOYAGER.orgs = data.orgs;
                 VOYAGER.categories = data.categories;
 
+                for (var i = 0; i < VOYAGER.orgs.length; i++) {
+                    var org = VOYAGER.orgs[i];
+                    VOYAGER.orgsObj[org.name] = org;
+                }
+                for (var i = 0; i < VOYAGER.categories.length; i++) {
+                    var category = VOYAGER.categories[i];
+                    VOYAGER.categoriesObj[category.name] = category;
+                }
+
                 VOYAGER.refreshUI();
             });
 
@@ -64,12 +75,30 @@ var VOYAGER;
         getContent: function() {
             // TODO(ejpark): Implement filtering of content based on input
             // parameters
-            return VOYAGER.content;
+            var filteredContent = [];
+            if (VOYAGER.language === undefined || VOYAGER.language === null) {
+                VOYAGER.language == "en";
+            }
+
+            if (VOYAGER.category != null && VOYAGER.org != null) {
+                for (var element in VOYAGER.content) {
+
+                    if (VOYAGER.content[element]["lang_support"][VOYAGER.language] &&
+                        VOYAGER.content[element]["categories"].indexOf(VOYAGER.category.name) >= 0 &&
+                        VOYAGER.content[element]["org"] === VOYAGER.org.name) {
+                       filteredContent.push(VOYAGER.content[element]);
+                    }
+                }
+            }
+
+            return filteredContent;
         },
 
         refreshUI: function() {
             var context = {
                 "lang": VOYAGER.language,
+                "org": VOYAGER.org,
+                "category": VOYAGER.category,
                 "content": VOYAGER.getContent()
             };
 
@@ -79,6 +108,43 @@ var VOYAGER;
                 context: context
             };
             VOYAGER.sendMessage(message);
+
+        },
+
+        showCategoriesMenu: function(callback) {
+            $("#categories_menu").slideDown("fast");
+            $("#categories_downarrow").hide();
+            $("#categories_uparrow").show();
+            if (callback) {
+                callback();
+            }
+        },
+
+        hideCategoriesMenu: function(callback) {
+            $("#categories_menu").slideUp("fast");
+            $("#categories_downarrow").show();
+            $("#categories_uparrow").hide();
+            if (callback) {
+                callback();
+            }
+        },
+
+        showOrgsMenu: function(callback) {
+            $("#orgs_menu").slideDown("fast");
+            $("#orgs_downarrow").hide();
+            $("#orgs_uparrow").show();
+            if (callback) {
+                callback();
+            }
+        },
+
+        hideOrgsMenu: function(callback) {
+            $("#orgs_menu").slideUp("fast");
+            $("#orgs_downarrow").show();
+            $("#orgs_uparrow").hide();
+            if (callback) {
+                callback();
+            }
         },
 
         showNavbar: function(rendered) {
@@ -86,29 +152,51 @@ var VOYAGER;
 
             // Dropdown click handler
             $("#orgs_label").on("click", function(e) {
-                $("#orgs_menu").toggle();
+                if ($("#categories_menu").css("display") != "none") {
+                    VOYAGER.hideCategoriesMenu(function() {
+                        VOYAGER.showOrgsMenu();
+                    });
+                } else if ($("#orgs_menu").css("display") != "none") {
+                    VOYAGER.hideOrgsMenu();
+                } else {
+                    VOYAGER.showOrgsMenu();
+                }
             });
 
             $("#categories_label").on("click", function(e) {
-                $("#categories_menu").toggle();
+                if ($("#orgs_menu").css("display") != "none") {
+                    VOYAGER.hideOrgsMenu(function() {
+                        VOYAGER.showCategoriesMenu();
+                    });
+                } else if ($("#categories_menu").css("display") != "none") {
+                    VOYAGER.hideCategoriesMenu();
+                } else {
+                    VOYAGER.showCategoriesMenu();
+                }
+            });
+
+            $("#navigation .home-label").on("click", function(e) {
+                VOYAGER.org = null;
+                VOYAGER.category = null;
+                VOYAGER.refreshUI();
             });
 
             // Organization click handler
             $(".org").on("click", function(e) {
                 // Strip off "org_" prefix from id
-                VOYAGER.org = e.target.id.substring(4);
+                VOYAGER.org = VOYAGER.orgsObj[e.target.id.substring(4)];
                 VOYAGER.refreshUI();
             });
 
             // Category click handler
             $(".category").on("click", function(e) {
                 // Strip off "category_" prefix from id
-                VOYAGER.category = e.target.id.substring(9);
+                VOYAGER.category = VOYAGER.categoriesObj[e.target.id.substring(9)];
                 VOYAGER.refreshUI();
             });
 
             // Language click handler
-            $(".lang").on("click", function(e) {
+            $("#languages div").on("click", function(e) {
                 // Strip off "lang_" prefix from id
                 VOYAGER.setLanguage(e.target.id.substring(5), function() {
                     VOYAGER.refreshUI();

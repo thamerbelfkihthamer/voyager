@@ -2,15 +2,16 @@
     "content": [
         {
             "url": "https://www.youtube.com/watch?v=ziS7yYFT6jc",
+            "org": "google",
             "title": {
                 "de": "17-Year-Old Kenyan Creates Energy From Human Waste",
                 "ar": "17-Year-Old Kenyan Creates Energy From Human Waste",
                 "en": "17-Year-Old Kenyan Creates Energy From Human Waste"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-eUv0lmC_P7k/AAAAAAAAAAI/AAAAAAAAAAA/2MN1lWfuxQE/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:43",
@@ -24,15 +25,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=700gYRkhkLM",
+            "org": "google",
             "title": {
                 "de": "GinLemon - Breaking through with Google Play",
                 "ar": "GinLemon - Breaking through with Google Play",
                 "en": "GinLemon - Breaking through with Google Play"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:08",
@@ -45,82 +47,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=e7t3svG9PTk",
-            "title": {
-                "de": "Music app developer DJIT builds higher quality experiences on Android",
-                "ar": "Music app developer DJIT builds higher quality experiences on Android",
-                "en": "Music app developer DJIT builds higher quality experiences on Android"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "3:28",
-            "author": "Android Developer Story",
-            "type": "video",
-            "categories": [
-                "coding",
-                "technology",
-                "design_art"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=Pms0pcyPbAM",
-            "title": {
-                "de": "Gifted Mom reaches more mothers across Africa with Android",
-                "ar": "Gifted Mom reaches more mothers across Africa with Android",
-                "en": "Gifted Mom reaches more mothers across Africa with Android"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "3:12",
-            "author": "Android Developers",
-            "type": "video",
-            "categories": [
-                "coding",
-                "technology",
-                "design_art"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=ihmyHNJodvQ",
-            "title": {
-                "de": "Autonomous Android Vehicle (AAV)",
-                "ar": "Autonomous Android Vehicle (AAV)",
-                "en": "Autonomous Android Vehicle (AAV)"
-            },
-            "lang_support": {
-                "de": "Not needed",
-                "ar": "Not needed",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-hH41hKCyqOM/AAAAAAAAAAI/AAAAAAAAAAA/Qic0sQ9fQMQ/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "0:53",
-            "author": "AI B",
-            "type": "video",
-            "categories": [
-                "coding",
-                "technology",
-                "design_art"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=6mS2zgC_dh0",
+            "org": "google",
             "title": {
                 "de": "A Story of Hope from the Philippines",
-                "ar": "A Story of Hope from the Philippines",
+                "ar": "\u0642\u0635\u0629 \u0623\u0645\u0644 \u0645\u0646 \u0627\u0644\u0641\u0644\u0628\u064a\u0646",
                 "en": "A Story of Hope from the Philippines"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-aylEFIriEDU/AAAAAAAAAAI/AAAAAAAAAAA/C3w-utG34GI/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:11",
@@ -132,15 +69,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=bqZw1MqISvM",
+            "org": "google",
             "title": {
                 "de": "Harvesting Water From the Sky in Arid Peru",
-                "ar": "Harvesting Water From the Sky in Arid Peru",
+                "ar": "\u062d\u0635\u0627\u062f \u0627\u0644\u0645\u064a\u0627\u0647 \u0645\u0646 \u0627\u0644\u0633\u0645\u0627\u0621 \u0641\u064a \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u062c\u0627\u0641\u0629 \u0641\u064a \u0628\u064a\u0631\u0648",
                 "en": "Harvesting Water From the Sky in Arid Peru"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-eUv0lmC_P7k/AAAAAAAAAAI/AAAAAAAAAAA/2MN1lWfuxQE/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:59",
@@ -154,15 +92,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=ob4fLTBj9ww",
+            "org": "google",
             "title": {
                 "de": "Culture Alley reaches millions of English learners on Google Play",
                 "ar": "Culture Alley reaches millions of English learners on Google Play",
                 "en": "Culture Alley reaches millions of English learners on Google Play"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:25",
@@ -176,80 +115,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Us6_yeT22nE",
-            "title": {
-                "de": "Playbook for Developers, a new app for developers",
-                "ar": "Playbook for Developers, a new app for developers",
-                "en": "Playbook for Developers, a new app for developers"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "0:52",
-            "author": "Android Developers",
-            "type": "video",
-            "categories": [
-                "coding",
-                "technology",
-                "design_art"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=0zKU7jDA2nc&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=4",
-            "title": {
-                "de": "Can Your Phone Translate Signs On The Fly?",
-                "ar": "Can Your Phone Translate Signs On The Fly?",
-                "en": "Can Your Phone Translate Signs On The Fly?"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "6:33",
-            "author": "Nat and Lo",
-            "type": "video",
-            "categories": [
-                "technology",
-                "language",
-                "design_art"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=zoR3wyiVzbY",
-            "title": {
-                "de": "Do You Know What\u2019s Actually Inside Your Phone?",
-                "ar": "Do You Know What\u2019s Actually Inside Your Phone?",
-                "en": "Do You Know What\u2019s Actually Inside Your Phone?"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "6:19",
-            "author": "Nat and Lo",
-            "type": "video",
-            "categories": [
-                "technology"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=Idu7VcTTXfk",
+            "org": "google",
             "title": {
                 "de": "Quizlet",
                 "ar": "Quizlet",
                 "en": "Quizlet"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:59",
@@ -267,15 +143,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=RRelFvc6Czo",
+            "org": "google",
             "title": {
                 "de": "Smule",
                 "ar": "Smule",
                 "en": "Smule"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:44",
@@ -288,15 +165,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=nWKiNRgKZv8",
+            "org": "google",
             "title": {
                 "de": "MusiXmatch drives user engagement through innovation",
                 "ar": "MusiXmatch drives user engagement through innovation",
                 "en": "MusiXmatch drives user engagement through innovation"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:51",
@@ -311,15 +189,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=GvgqDSnpRQM",
+            "org": "google",
             "title": {
                 "de": "Andrew Willis, Skatepark Engineer",
                 "ar": "Andrew Willis, Skatepark Engineer",
                 "en": "Andrew Willis, Skatepark Engineer"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-sTzayP_p-bg/AAAAAAAAAAI/AAAAAAAAAAA/CnJj2ydfg2Q/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:30",
@@ -332,39 +211,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=OE63BYWdqC4&index=6&list=PLBCF2DAC6FFB574DE",
-            "title": {
-                "de": "Zack Matere: Growing Knowledge",
-                "ar": "Zack Matere: Growing Knowledge",
-                "en": "Zack Matere: Growing Knowledge"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-sTzayP_p-bg/AAAAAAAAAAI/AAAAAAAAAAA/CnJj2ydfg2Q/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:00",
-            "author": "Google Stories",
-            "type": "video",
-            "categories": [
-                "technology",
-                "language",
-                "design_art",
-                "vocational"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=RQbmXxU2dkg&index=7&list=PLBCF2DAC6FFB574DE",
+            "org": "google",
             "title": {
                 "de": "Mitch Dobrowner: Epic Storms",
                 "ar": "Mitch Dobrowner: Epic Storms",
                 "en": "Mitch Dobrowner: Epic Storms"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-sTzayP_p-bg/AAAAAAAAAAI/AAAAAAAAAAA/CnJj2ydfg2Q/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:00",
@@ -379,15 +236,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=aMm3Qupo98U",
+            "org": "google",
             "title": {
                 "de": "Google+: Ghetto Film School's MasterClass",
                 "ar": "Google+: Ghetto Film School's MasterClass",
                 "en": "Google+: Ghetto Film School's MasterClass"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:48",
@@ -401,15 +259,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=JwLud5QpfRs",
+            "org": "google",
             "title": {
                 "de": "Google+: Catlin Seaview Survey Underwater Hangouts On Air",
                 "ar": "Google+: Catlin Seaview Survey Underwater Hangouts On Air",
                 "en": "Google+: Catlin Seaview Survey Underwater Hangouts On Air"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:37",
@@ -422,37 +281,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=-apCIbV9YKA",
-            "title": {
-                "de": "Google Classroom: Mission control for students and teachers",
-                "ar": "Google Classroom: Mission control for students and teachers",
-                "en": "Google Classroom: Mission control for students and teachers"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-JfxTnVl5ygo/AAAAAAAAAAI/AAAAAAAAAAA/dO-dGc4dGjQ/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:01",
-            "author": "Google for Education",
-            "type": "video",
-            "categories": [
-                "technology",
-                "vocational"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=mlYJdZeA9w4",
+            "org": "google",
             "title": {
                 "de": "Expeditions: Take your students to places a school bus can't",
                 "ar": "Expeditions: Take your students to places a school bus can't",
                 "en": "Expeditions: Take your students to places a school bus can't"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-JfxTnVl5ygo/AAAAAAAAAAI/AAAAAAAAAAA/dO-dGc4dGjQ/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:34",
@@ -467,15 +306,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=CMdHDHEuOUE",
+            "org": "google",
             "title": {
                 "de": "Google and NASA's Quantum Artificial Intelligence Lab",
                 "ar": "Google and NASA's Quantum Artificial Intelligence Lab",
                 "en": "Google and NASA's Quantum Artificial Intelligence Lab"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "6:28",
@@ -488,15 +328,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=w6071faJFuI",
+            "org": "google",
             "title": {
                 "de": "Erica Kochi, UNICEF's Innovation Unit",
                 "ar": "Erica Kochi, UNICEF's Innovation Unit",
                 "en": "Erica Kochi, UNICEF's Innovation Unit"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:59",
@@ -511,15 +352,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=lENoMZZ4mpU",
+            "org": "google",
             "title": {
                 "de": "Robin Hunicke, Video Game Designer",
-                "ar": "Robin Hunicke, Video Game Designer",
+                "ar": "Robin Hunicke,  \u0645\u0635\u0645\u0645 \u0623\u0644\u0639\u0627\u0628 \u0641\u064a\u062f\u064a\u0648",
                 "en": "Robin Hunicke, Video Game Designer"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:23",
@@ -534,15 +376,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=0wxGVztsmjg",
+            "org": "google",
             "title": {
                 "de": "Maddy Maxey, Fashion and Wearable Technology",
                 "ar": "Maddy Maxey, Fashion and Wearable Technology",
                 "en": "Maddy Maxey, Fashion and Wearable Technology"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:22",
@@ -556,15 +399,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=fYHUI2DTvjc",
+            "org": "google",
             "title": {
                 "de": "Danielle Feinberg, Pixar Animation Studios",
                 "ar": "Danielle Feinberg, Pixar Animation Studios",
                 "en": "Danielle Feinberg, Pixar Animation Studios"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:50",
@@ -579,15 +423,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=xlaFbTPVJow",
+            "org": "google",
             "title": {
                 "de": "Isis Anchalee, #ilooklikeanengineer",
                 "ar": "Isis Anchalee, #ilooklikeanengineer",
                 "en": "Isis Anchalee, #ilooklikeanengineer"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:54",
@@ -602,15 +447,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=w94zxnFQsK4",
+            "org": "google",
             "title": {
                 "de": "Fran Kalal, Pixar Animation Studios",
                 "ar": "Fran Kalal, Pixar Animation Studios",
                 "en": "Fran Kalal, Pixar Animation Studios"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:52",
@@ -625,15 +471,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=tXPxfegQswg",
+            "org": "google",
             "title": {
                 "de": "Ayah Bdeir, littleBits Founder & CEO",
                 "ar": "Ayah Bdeir, littleBits Founder & CEO",
                 "en": "Ayah Bdeir, littleBits Founder & CEO"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:06",
@@ -647,15 +494,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=Eg5GaAWGV2A",
+            "org": "google",
             "title": {
                 "de": "Dressed in Code: Fashion Meets Tech - How the LED Dress Came to Life",
                 "ar": "Dressed in Code: Fashion Meets Tech - How the LED Dress Came to Life",
                 "en": "Dressed in Code: Fashion Meets Tech - How the LED Dress Came to Life"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "0:56",
@@ -670,15 +518,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=Ttm_U8Zm5Mo",
+            "org": "google",
             "title": {
                 "de": "Mentors and Makers",
                 "ar": "Mentors and Makers",
                 "en": "Mentors and Makers"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:03",
@@ -693,15 +542,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=-wyPV7hyOfU",
+            "org": "google",
             "title": {
                 "de": "Brittany Wenger, Student Fighting Cancer",
                 "ar": "Brittany Wenger, Student Fighting Cancer",
                 "en": "Brittany Wenger, Student Fighting Cancer"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:55",
@@ -716,15 +566,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=Xg1dUhVI9i0",
+            "org": "google",
             "title": {
                 "de": "Miral Kotb, Founder of iLuminate",
                 "ar": "Miral Kotb, Founder of iLuminate",
                 "en": "Miral Kotb, Founder of iLuminate"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:28",
@@ -739,15 +590,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=QBGqpdO2oEc",
+            "org": "google",
             "title": {
                 "de": "EPA Chica Squad, Mobile App Developers",
                 "ar": "EPA Chica Squad, Mobile App Developers",
                 "en": "EPA Chica Squad, Mobile App Developers"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:51",
@@ -762,15 +614,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=2Viy2UFyb7U",
+            "org": "google",
             "title": {
                 "de": "Tesca Fitzgerald, PhD Student, Cognitive Science and Human-Robot Interaction",
                 "ar": "Tesca Fitzgerald, PhD Student, Cognitive Science and Human-Robot Interaction",
                 "en": "Tesca Fitzgerald, PhD Student, Cognitive Science and Human-Robot Interaction"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:07",
@@ -785,15 +638,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=IOdkfOhUtjs",
+            "org": "google",
             "title": {
                 "de": "Ebony \u201cWondagurl\u201d Oshunrinde, Music Producer",
                 "ar": "Ebony \u201cWondagurl\u201d Oshunrinde, Music Producer",
                 "en": "Ebony \u201cWondagurl\u201d Oshunrinde, Music Producer"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:34",
@@ -808,15 +662,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=lHC10q_a7Nc",
+            "org": "google",
             "title": {
                 "de": "Limor Fried, Founder of Adafruit",
                 "ar": "Limor Fried, Founder of Adafruit",
                 "en": "Limor Fried, Founder of Adafruit"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-lgLg0wu3jss/AAAAAAAAAAI/AAAAAAAAAAA/yuiCob6x5uM/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:41",
@@ -831,15 +686,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=zQqkscN2u1c",
+            "org": "google",
             "title": {
                 "de": "Education on Air- Student Voices: \"What do you want to be in the future?\"",
                 "ar": "Education on Air- Student Voices: \"What do you want to be in the future?\"",
                 "en": "Education on Air- Student Voices: \"What do you want to be in the future?\""
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-JfxTnVl5ygo/AAAAAAAAAAI/AAAAAAAAAAA/dO-dGc4dGjQ/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:36",
@@ -857,15 +713,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=9ePRa5nahYI",
+            "org": "google",
             "title": {
                 "de": "CT at Google: Facilitating Software and Game Development though Abstraction",
                 "ar": "CT at Google: Facilitating Software and Game Development though Abstraction",
                 "en": "CT at Google: Facilitating Software and Game Development though Abstraction"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-JfxTnVl5ygo/AAAAAAAAAAI/AAAAAAAAAAA/dO-dGc4dGjQ/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "4:05",
@@ -880,15 +737,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=EZg-BY0FUwY",
+            "org": "google",
             "title": {
                 "de": "Education on Air- Keynote from Brittany Wenger: \"Student curiosity can help save lives\"",
                 "ar": "Education on Air- Keynote from Brittany Wenger: \"Student curiosity can help save lives\"",
                 "en": "Education on Air- Keynote from Brittany Wenger: \"Student curiosity can help save lives\""
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-JfxTnVl5ygo/AAAAAAAAAAI/AAAAAAAAAAA/dO-dGc4dGjQ/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "6:00",
@@ -902,15 +760,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=wj1JPFD1SdA",
+            "org": "google",
             "title": {
                 "de": "What will you make better?",
-                "ar": "What will you make better?",
+                "ar": "\u0645\u0627\u0630\u0627 \u0633\u062a\u0641\u0639\u0644 \u0623\u0641\u0636\u0644\u061f",
                 "en": "What will you make better?"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:04",
@@ -925,15 +784,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=BMR-oMpCbjo",
+            "org": "google",
             "title": {
                 "de": "Can we make plastic from banana skins? | Elif Bilgin",
-                "ar": "Can we make plastic from banana skins? | Elif Bilgin",
+                "ar": "\u0647\u0644 \u064a\u0645\u0643\u0646 \u0623\u0646 \u0646\u0635\u0646\u0639 \u0628\u0644\u0627\u0633\u062a\u064a\u0643 \u0645\u0646 \u062c\u0644\u0648\u062f \u0627\u0644\u0645\u0648\u0632\u061f | \u0627\u0644\u064a\u0641 \u0628\u0644\u062c\u064a\u0646",
                 "en": "Can we make plastic from banana skins? | Elif Bilgin"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:29",
@@ -945,124 +805,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=l80bxaFrQuM",
-            "title": {
-                "de": "Can I feel the sound of music? | Jonah Kohn",
-                "ar": "Can I feel the sound of music? | Jonah Kohn",
-                "en": "Can I feel the sound of music? | Jonah Kohn"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:32",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=H158-6LE9Wg",
-            "title": {
-                "de": "Bringing stable power to remote villages | Harine Ravichandran",
-                "ar": "Bringing stable power to remote villages | Harine Ravichandran",
-                "en": "Bringing stable power to remote villages | Harine Ravichandran"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:21",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=O8g_m59Po1k",
-            "title": {
-                "de": "Talking to robots in English  | Luke Taylor",
-                "ar": "Talking to robots in English  | Luke Taylor",
-                "en": "Talking to robots in English  | Luke Taylor"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:16",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "design_art",
-                "math_science",
-                "robotics"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=PszuBGqLCew",
-            "title": {
-                "de": "Can we make robots as difficult to catch as flys? | Mihir Garimella",
-                "ar": "Can we make robots as difficult to catch as flys? | Mihir Garimella",
-                "en": "Can we make robots as difficult to catch as flys? | Mihir Garimella"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:14",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "design_art",
-                "math_science",
-                "robotics"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=m7f3SxVvlPY",
-            "title": {
-                "de": "Grand Prize Winner - Olivia Hallisey - Google Science Fair 2015",
-                "ar": "Grand Prize Winner - Olivia Hallisey - Google Science Fair 2015",
-                "en": "Grand Prize Winner - Olivia Hallisey - Google Science Fair 2015"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:49",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "math_science",
-                "vocational"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=yrnNmzSSn0w",
+            "org": "google",
             "title": {
                 "de": "Can I power a flashlight without batteries? | Ann Makosinski",
-                "ar": "Can I power a flashlight without batteries? | Ann Makosinski",
+                "ar": "\u0647\u0644 \u064a\u0645\u0643\u0646\u0646\u064a \u062a\u0634\u063a\u064a\u0644 \u0645\u0635\u0628\u0627\u062d \u064a\u062f\u0648\u064a \u0628\u062f\u0648\u0646 \u0628\u0637\u0627\u0631\u064a\u0627\u062a\u061f | \u0622\u0646 \u0645\u0627\u0643\u0648\u0633\u0646\u0633\u0643\u064a",
                 "en": "Can I power a flashlight without batteries? | Ann Makosinski"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:17",
@@ -1076,15 +829,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=AT_YuItMqBg",
+            "org": "google",
             "title": {
                 "de": "Can we stop ambulances getting stuck in traffic? | Viney Kumar",
                 "ar": "Can we stop ambulances getting stuck in traffic? | Viney Kumar",
                 "en": "Can we stop ambulances getting stuck in traffic? | Viney Kumar"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:10",
@@ -1093,147 +847,21 @@
             "categories": [
                 "technology",
                 "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=fIZfeYoPZzs",
-            "title": {
-                "de": "How do cancer cells become resistant to chemotherapy? | Shree Bose",
-                "ar": "How do cancer cells become resistant to chemotherapy? | Shree Bose",
-                "en": "How do cancer cells become resistant to chemotherapy? | Shree Bose"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:10",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "technology",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=QprN7uTJLDc",
-            "title": {
-                "de": "How can we reduce the impact of toxic oil waste? | Hayley Todesco",
-                "ar": "How can we reduce the impact of toxic oil waste? | Hayley Todesco",
-                "en": "How can we reduce the impact of toxic oil waste? | Hayley Todesco"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:30",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "math_science",
-                "environmental"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=WBEtUJmp05w",
-            "title": {
-                "de": "How robots aid scientific research | LEGO",
-                "ar": "How robots aid scientific research | LEGO",
-                "en": "How robots aid scientific research | LEGO"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:24",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "math_science",
-                "robotics"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=s4n06X8t7VA",
-            "title": {
-                "de": "LEGO Education Builder Award - Anurudh Ganesan - Google Science Fair 2015",
-                "ar": "LEGO Education Builder Award - Anurudh Ganesan - Google Science Fair 2015",
-                "en": "LEGO Education Builder Award - Anurudh Ganesan - Google Science Fair 2015"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:07",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=MQEeEGvLzIU",
-            "title": {
-                "de": "How can we optimize food production in Africa? | Ciara Judge, \u00c9mer Hickey and Sophie Healy-Thow",
-                "ar": "How can we optimize food production in Africa? | Ciara Judge, \u00c9mer Hickey and Sophie Healy-Thow",
-                "en": "How can we optimize food production in Africa? | Ciara Judge, \u00c9mer Hickey and Sophie Healy-Thow"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:22",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "math_science",
-                "agriculture"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=xXi4WiMdNEA",
-            "title": {
-                "de": "How can we improve the safety of people with Alzheimer's? | Kenneth Shinozuka",
-                "ar": "How can we improve the safety of people with Alzheimer's? | Kenneth Shinozuka",
-                "en": "How can we improve the safety of people with Alzheimer's? | Kenneth Shinozuka"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:27",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "technology",
                 "math_science"
             ]
         },
         {
             "url": "https://www.youtube.com/watch?v=oZbeGcrOk74",
+            "org": "google",
             "title": {
                 "de": "Virgin Galactic Pioneer Award - Pranav Sivakumar - Google Science Fair 2015",
                 "ar": "Virgin Galactic Pioneer Award - Pranav Sivakumar - Google Science Fair 2015",
                 "en": "Virgin Galactic Pioneer Award - Pranav Sivakumar - Google Science Fair 2015"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:09",
@@ -1244,85 +872,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=3Rqcg7BJwJM",
-            "title": {
-                "de": "It's your turn to change the world",
-                "ar": "It's your turn to change the world",
-                "en": "It's your turn to change the world"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:14",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "coding",
-                "technology",
-                "language",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=TubgY-ldttU",
-            "title": {
-                "de": "It's more than science",
-                "ar": "It's more than science",
-                "en": "It's more than science"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:42",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "coding",
-                "language",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=YAVIkr7HRMk",
-            "title": {
-                "de": "What will you try?",
-                "ar": "What will you try?",
-                "en": "What will you try?"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:06",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "coding",
-                "language",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=C-pnYJXs5CU",
+            "org": "google",
             "title": {
                 "de": "The Developer Show (Android Experiments)",
                 "ar": "The Developer Show (Android Experiments)",
                 "en": "The Developer Show (Android Experiments)"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://www.youtube.com/watch?v=C-pnYJXs5CU",
             "duration": "3:41",
@@ -1337,15 +897,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=cQzien5H2Do",
+            "org": "google",
             "title": {
                 "de": "Material Design Motion",
                 "ar": "Material Design Motion",
                 "en": "Material Design Motion"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-99RMkL32yk8/AAAAAAAAAAI/AAAAAAAAAAA/VRQkMbulnco/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:38",
@@ -1358,15 +919,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=BUzUoc2ZOIo",
+            "org": "google",
             "title": {
                 "de": "Making Material Design: Smart Paper",
                 "ar": "Making Material Design: Smart Paper",
                 "en": "Making Material Design: Smart Paper"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-99RMkL32yk8/AAAAAAAAAAI/AAAAAAAAAAA/VRQkMbulnco/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:48",
@@ -1379,15 +941,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=Y0UEGsvcYvk",
+            "org": "google",
             "title": {
                 "de": "Making Material Design: Crafting Material",
                 "ar": "Making Material Design: Crafting Material",
                 "en": "Making Material Design: Crafting Material"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-99RMkL32yk8/AAAAAAAAAAI/AAAAAAAAAAA/VRQkMbulnco/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:57",
@@ -1400,15 +963,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=rrT6v5sOwJg",
+            "org": "google",
             "title": {
                 "de": "Making Material Design",
                 "ar": "Making Material Design",
                 "en": "Making Material Design"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-99RMkL32yk8/AAAAAAAAAAI/AAAAAAAAAAA/VRQkMbulnco/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "6:49",
@@ -1421,15 +985,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=137XnWlUTKY",
+            "org": "google",
             "title": {
                 "de": "Google Design Minutes \u2014 Design sprints at scale",
                 "ar": "Google Design Minutes \u2014 Design sprints at scale",
                 "en": "Google Design Minutes \u2014 Design sprints at scale"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-Fgp8KFpgQqE/AAAAAAAAAAI/AAAAAAAAAAA/Wyh1vV5Up0I/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "4:02",
@@ -1441,38 +1006,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=4JcDYkgqksY&list=PLOU2XLYxmsIJu9yzFxRDR1AUmrEu0lRMw",
-            "title": {
-                "de": "Designing for Android Wear",
-                "ar": "Designing for Android Wear",
-                "en": "Designing for Android Wear"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-Fgp8KFpgQqE/AAAAAAAAAAI/AAAAAAAAAAA/Wyh1vV5Up0I/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "6:55",
-            "author": "Google Developers",
-            "type": "video",
-            "categories": [
-                "coding",
-                "technology",
-                "design_art"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=UXEvZ8B04bE",
+            "org": "google",
             "title": {
                 "de": "Saroo Brierley: Homeward Bound",
                 "ar": "Saroo Brierley: Homeward Bound",
                 "en": "Saroo Brierley: Homeward Bound"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-EirTMc5lnZQ/AAAAAAAAAAI/AAAAAAAAAAA/KQhgaz4sCyk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:02",
@@ -1483,165 +1027,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=LWiuUC9RDhY",
-            "title": {
-                "de": "Everyone has a question. What's yours?",
-                "ar": "Everyone has a question. What's yours?",
-                "en": "Everyone has a question. What's yours?"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:11",
-            "author": "Google Science Fair",
-            "type": "video",
-            "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=pOnxa44yllk&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y",
-            "title": {
-                "de": "Google Open Gallery: Itinerrance Art Gallery",
-                "ar": "Google Open Gallery: Itinerrance Art Gallery",
-                "en": "Google Open Gallery: Itinerrance Art Gallery"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:04",
-            "author": "Google Cultural Institute",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=Bdl03NGUtOo&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y&index=2",
-            "title": {
-                "de": "Google Open Gallery: Belgian Comic Strip Museum",
-                "ar": "Google Open Gallery: Belgian Comic Strip Museum",
-                "en": "Google Open Gallery: Belgian Comic Strip Museum"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:07",
-            "author": "Google Cultural Institute",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=QO1zNWOwme4&index=3&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y",
-            "title": {
-                "de": "Google Open Gallery: artist Berndnaut Smilde",
-                "ar": "Google Open Gallery: artist Berndnaut Smilde",
-                "en": "Google Open Gallery: artist Berndnaut Smilde"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:16",
-            "author": "Google Cultural Institute",
-            "type": "video",
-            "categories": [
-                "technology",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=4xtEp55MKRE",
-            "title": {
-                "de": "Introducing Tap to Translate",
-                "ar": "Introducing Tap to Translate",
-                "en": "Introducing Tap to Translate"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:22",
-            "author": "Google",
-            "type": "video",
-            "categories": [
-                "technology",
-                "language"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=fPbGEGtgqrM",
-            "title": {
-                "de": "Bruegel #UnseenMasterpieces",
-                "ar": "Bruegel #UnseenMasterpieces",
-                "en": "Bruegel #UnseenMasterpieces"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "No",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:26",
-            "author": "Google Cultural Institute",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=V6y28qUN9xs",
-            "title": {
-                "de": "Made in Japan",
-                "ar": "Made in Japan",
-                "en": "Made in Japan"
-            },
-            "lang_support": {
-                "de": "Not needed",
-                "ar": "Not needed",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:33",
-            "author": "Google Cultural Institute",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=lyscJbdBREE&list=PLw83Po3C1UpzYrVkD6Kc316srweuwCkPF",
+            "org": "google",
             "title": {
                 "de": "The story and demo of Cardboard",
                 "ar": "The story and demo of Cardboard",
                 "en": "The story and demo of Cardboard"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:39",
@@ -1653,79 +1049,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=2RB4yWmzG-4",
-            "title": {
-                "de": "From Syria to Canada",
-                "ar": "From Syria to Canada",
-                "en": "From Syria to Canada"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:00",
-            "author": "Google",
-            "type": "video",
-            "categories": [
-                "technology",
-                "language"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=qnZZInDyrZo",
-            "title": {
-                "de": "Goals in Google Calendar",
-                "ar": "Goals in Google Calendar",
-                "en": "Goals in Google Calendar"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:22",
-            "author": "Google",
-            "type": "video",
-            "categories": [
-                "technology",
-                "vocational"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=cPuvf2lzZMY",
-            "title": {
-                "de": "Reminders in Google Calendar",
-                "ar": "Reminders in Google Calendar",
-                "en": "Reminders in Google Calendar"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:05",
-            "author": "Google",
-            "type": "video",
-            "categories": [
-                "technology",
-                "professional"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=b47UZi6uaqo",
+            "org": "google",
             "title": {
                 "de": "Colossal Media has gone Google",
                 "ar": "Colossal Media has gone Google",
                 "en": "Colossal Media has gone Google"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-f6THhb28KpE/AAAAAAAAAAI/AAAAAAAAAAA/dgb37vhS9SI/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:05",
@@ -1737,106 +1071,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=nE09oh1ARZ8&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=15",
-            "title": {
-                "de": "This Satellite Is In Space Now!",
-                "ar": "This Satellite Is In Space Now!",
-                "en": "This Satellite Is In Space Now!"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "4:58",
-            "author": "Nat and Lo",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=bHvf7Tagt18&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=10",
-            "title": {
-                "de": "How Does Your Phone Know This Is A Dog?",
-                "ar": "How Does Your Phone Know This Is A Dog?",
-                "en": "How Does Your Phone Know This Is A Dog?"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "5:57",
-            "author": "Nat and Lo",
-            "type": "video",
-            "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=spO3ugXq6Po&index=1&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g",
-            "title": {
-                "de": "Can You Teach A Phone To See?",
-                "ar": "Can You Teach A Phone To See?",
-                "en": "Can You Teach A Phone To See?"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "6:25",
-            "author": "Nat and Lo",
-            "type": "video",
-            "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=kQDQ3Ps_-b4&index=8&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g",
-            "title": {
-                "de": "We Popped A Giant Internet Balloon!",
-                "ar": "We Popped A Giant Internet Balloon!",
-                "en": "We Popped A Giant Internet Balloon!"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "6:12",
-            "author": "Nat and Lo",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=OyYtIdKe8nc",
+            "org": "google",
             "title": {
                 "de": "The Bicycle Machines of Guatemala",
                 "ar": "The Bicycle Machines of Guatemala",
                 "en": "The Bicycle Machines of Guatemala"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-eUv0lmC_P7k/AAAAAAAAAAI/AAAAAAAAAAA/2MN1lWfuxQE/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "4:44",
@@ -1850,15 +1095,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=E295Vsf7awQ",
+            "org": "google",
             "title": {
                 "de": "Hacking Hydro Power on a Remote Scottish Island",
                 "ar": "Hacking Hydro Power on a Remote Scottish Island",
                 "en": "Hacking Hydro Power on a Remote Scottish Island"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-eUv0lmC_P7k/AAAAAAAAAAI/AAAAAAAAAAA/2MN1lWfuxQE/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:43",
@@ -1872,15 +1118,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=DKFLLTecSJo",
+            "org": "google",
             "title": {
                 "de": "A Water Clock System That Can Revolutionize Solar Power",
                 "ar": "A Water Clock System That Can Revolutionize Solar Power",
                 "en": "A Water Clock System That Can Revolutionize Solar Power"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-eUv0lmC_P7k/AAAAAAAAAAI/AAAAAAAAAAA/2MN1lWfuxQE/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:28",
@@ -1894,15 +1141,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=k1ja6XAfrZI",
+            "org": "google",
             "title": {
                 "de": "What Color Is The Moon?",
-                "ar": "What Color Is The Moon?",
+                "ar": "\u0645\u0627 \u0647\u0648 \u0644\u0648\u0646 \u0627\u0644\u0642\u0645\u0631\u061f",
                 "en": "What Color Is The Moon?"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ZSFUoxv-FrY/AAAAAAAAAAI/AAAAAAAAAAA/gOrBuBnVQ68/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "4:08",
@@ -1914,15 +1162,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=Jd9328AW64g",
+            "org": "google",
             "title": {
                 "de": "What Are The Most Important Science Images Ever?",
                 "ar": "What Are The Most Important Science Images Ever?",
                 "en": "What Are The Most Important Science Images Ever?"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ZSFUoxv-FrY/AAAAAAAAAAI/AAAAAAAAAAA/gOrBuBnVQ68/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "8:21",
@@ -1934,15 +1183,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=3mufsteNrTI",
+            "org": "google",
             "title": {
                 "de": "Why Do We Have To Sleep?",
-                "ar": "Why Do We Have To Sleep?",
+                "ar": "\u0644\u0645\u0627\u0630\u0627 \u0639\u0644\u064a\u0646\u0627 \u0623\u0646 \u0646\u0646\u0627\u0645\u061f",
                 "en": "Why Do We Have To Sleep?"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ZSFUoxv-FrY/AAAAAAAAAAI/AAAAAAAAAAA/gOrBuBnVQ68/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "8:21",
@@ -1954,15 +1204,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=ZVTbolyobcE",
+            "org": "google",
             "title": {
                 "de": "The Science and Beauty of Auroras",
                 "ar": "The Science and Beauty of Auroras",
                 "en": "The Science and Beauty of Auroras"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ZSFUoxv-FrY/AAAAAAAAAAI/AAAAAAAAAAA/gOrBuBnVQ68/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "4:53",
@@ -1974,15 +1225,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=ytwIzy3XuGg&index=61&list=PLsmqeqKj7M-pINcPqJd8d1eRKlqm6QVjA",
+            "org": "google",
             "title": {
                 "de": "The Essentials of Energy",
-                "ar": "The Essentials of Energy",
+                "ar": "\u0623\u0633\u0627\u0633\u064a\u0627\u062a \u0627\u0644\u0637\u0627\u0642\u0629",
                 "en": "The Essentials of Energy"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ZSFUoxv-FrY/AAAAAAAAAAI/AAAAAAAAAAA/gOrBuBnVQ68/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "5:21",
@@ -1994,15 +1246,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=ZFOuxAx-dkc&index=94&list=PLsmqeqKj7M-pINcPqJd8d1eRKlqm6QVjA",
+            "org": "google",
             "title": {
                 "de": "The Physics of Space Battles",
                 "ar": "The Physics of Space Battles",
                 "en": "The Physics of Space Battles"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ZSFUoxv-FrY/AAAAAAAAAAI/AAAAAAAAAAA/gOrBuBnVQ68/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "6:02",
@@ -2014,15 +1267,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=oBcHf_eeYt4",
+            "org": "google",
             "title": {
                 "de": "100,000,000 Years From Now",
-                "ar": "100,000,000 Years From Now",
+                "ar": "\u0661\u0660\u0660\u0660\u0660\u0660\u0660\u0660\u0660 \u0633\u0646\u0629 \u0645\u0646 \u0627\u0644\u0622\u0646",
                 "en": "100,000,000 Years From Now"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ZSFUoxv-FrY/AAAAAAAAAAI/AAAAAAAAAAA/gOrBuBnVQ68/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "6:26",
@@ -2034,15 +1288,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=jxstE6A_CYQ",
+            "org": "google",
             "title": {
                 "de": "Simple Harmonic Motion: Crash Course Physics #16",
                 "ar": "Simple Harmonic Motion: Crash Course Physics #16",
                 "en": "Simple Harmonic Motion: Crash Course Physics #16"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-CbyerLDiZAc/AAAAAAAAAAI/AAAAAAAAAAA/XOz_qJn17K0/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "9:10",
@@ -2054,15 +1309,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=fJefjG3xhW0",
+            "org": "google",
             "title": {
                 "de": "Fluids in Motion: Crash Course Physics #15",
                 "ar": "Fluids in Motion: Crash Course Physics #15",
                 "en": "Fluids in Motion: Crash Course Physics #15"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-CbyerLDiZAc/AAAAAAAAAAI/AAAAAAAAAAA/XOz_qJn17K0/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "9:46",
@@ -2074,15 +1330,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=Y-QOfc2XqOk",
+            "org": "google",
             "title": {
                 "de": "Collisions: Crash Course Physics #10",
                 "ar": "Collisions: Crash Course Physics #10",
                 "en": "Collisions: Crash Course Physics #10"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-CbyerLDiZAc/AAAAAAAAAAI/AAAAAAAAAAA/XOz_qJn17K0/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "9:20",
@@ -2094,15 +1351,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=w4QFJb9a8vo",
+            "org": "google",
             "title": {
                 "de": "Work, Energy, and Power: Crash Course Physics #9",
                 "ar": "Work, Energy, and Power: Crash Course Physics #9",
                 "en": "Work, Energy, and Power: Crash Course Physics #9"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-CbyerLDiZAc/AAAAAAAAAAI/AAAAAAAAAAA/XOz_qJn17K0/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "9:54",
@@ -2114,15 +1372,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=w3BhzYI6zXU",
+            "org": "google",
             "title": {
                 "de": "Vectors and 2D Motion: Crash Course Physics #4",
                 "ar": "Vectors and 2D Motion: Crash Course Physics #4",
                 "en": "Vectors and 2D Motion: Crash Course Physics #4"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-CbyerLDiZAc/AAAAAAAAAAI/AAAAAAAAAAA/XOz_qJn17K0/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "10:05",
@@ -2133,38 +1392,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=TEwbFu6H0CE&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=2",
-            "title": {
-                "de": "EARTHRISE: The First Lunar Voyage",
-                "ar": "EARTHRISE: The First Lunar Voyage",
-                "en": "EARTHRISE: The First Lunar Voyage"
-            },
-            "lang_support": {
-                "de": "No",
-                "ar": "No",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "55:29",
-            "author": "XiveTV Documentaries",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=TfYCnOvNnFU&index=17&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV",
+            "org": "google",
             "title": {
                 "de": "Traveling Waves: Crash Course Physics #17",
                 "ar": "Traveling Waves: Crash Course Physics #17",
                 "en": "Traveling Waves: Crash Course Physics #17"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-CbyerLDiZAc/AAAAAAAAAAI/AAAAAAAAAAA/XOz_qJn17K0/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "7:44",
@@ -2176,15 +1414,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=juI7ZJxa9tY&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=8",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Strength",
                 "ar": "The Most Extreme - Strength",
                 "en": "The Most Extreme - Strength"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "39:38",
@@ -2196,15 +1435,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=aLuSi_6Ol8M&index=46&list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr",
+            "org": "google",
             "title": {
                 "de": "The Global Carbon Cycle - Crash Course Chemistry #46",
                 "ar": "The Global Carbon Cycle - Crash Course Chemistry #46",
                 "en": "The Global Carbon Cycle - Crash Course Chemistry #46"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-CbyerLDiZAc/AAAAAAAAAAI/AAAAAAAAAAA/XOz_qJn17K0/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "10:33",
@@ -2216,15 +1456,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=D8nDBKaFYWU&index=7&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Dads",
                 "ar": "The Most Extreme - Dads",
                 "en": "The Most Extreme - Dads"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "40:46",
@@ -2236,15 +1477,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=smD6ijXeW4Y&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=6",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Moms",
                 "ar": "The Most Extreme - Moms",
                 "en": "The Most Extreme - Moms"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "42:29",
@@ -2255,36 +1497,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=JhHMJCUmq28",
-            "title": {
-                "de": "Quantum Computers Explained \u2013 Limits of Human Technology",
-                "ar": "Quantum Computers Explained \u2013 Limits of Human Technology",
-                "en": "Quantum Computers Explained \u2013 Limits of Human Technology"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-UwENvFjc4vI/AAAAAAAAAAI/AAAAAAAAAAA/04dXvZ_jl0I/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "7:16",
-            "author": "Kurzgesagt \u2013 In a Nutshell",
-            "type": "video",
-            "categories": [
-                "technology"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=THDeWzRDFwI&index=12&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Workaholics",
                 "ar": "The Most Extreme - Workaholics",
                 "en": "The Most Extreme - Workaholics"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "48:32",
@@ -2296,15 +1519,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=o4HH9ZrF0_k&index=13&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Gourmets",
                 "ar": "The Most Extreme - Gourmets",
                 "en": "The Most Extreme - Gourmets"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://www.youtube.com/watch?v=o4HH9ZrF0_k&index=13&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
             "duration": "48:35",
@@ -2316,15 +1540,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=ahBXo-N1OmQ&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=14",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Animal Myths",
                 "ar": "The Most Extreme - Animal Myths",
                 "en": "The Most Extreme - Animal Myths"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "48:27",
@@ -2336,15 +1561,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=BoW__jSOeW0&index=3&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Survivors",
                 "ar": "The Most Extreme - Survivors",
                 "en": "The Most Extreme - Survivors"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "44:21",
@@ -2356,15 +1582,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=E2xFBMO7thE",
+            "org": "google",
             "title": {
                 "de": "WHAT CAN 3D PRINTERS MAKE?",
                 "ar": "WHAT CAN 3D PRINTERS MAKE?",
                 "en": "WHAT CAN 3D PRINTERS MAKE?"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-kgtcaS5ikbc/AAAAAAAAAAI/AAAAAAAAAAA/z1OJlO4vTUQ/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:16",
@@ -2376,15 +1603,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=9FMThI9Xxc4&index=17&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Inventors",
                 "ar": "The Most Extreme - Inventors",
                 "en": "The Most Extreme - Inventors"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "48:39",
@@ -2396,15 +1624,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=I6gIgPL_bEE&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=18",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Night Lights",
                 "ar": "The Most Extreme - Night Lights",
                 "en": "The Most Extreme - Night Lights"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "48:33",
@@ -2416,15 +1645,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=1Ygnh9Z_QzA&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=16",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Freaky Fliers",
                 "ar": "The Most Extreme - Freaky Fliers",
                 "en": "The Most Extreme - Freaky Fliers"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "48:40",
@@ -2436,15 +1666,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=WgvDAAysGO8&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=15",
+            "org": "google",
             "title": {
                 "de": "The Most Extreme - Awesome Ancestors",
                 "ar": "The Most Extreme - Awesome Ancestors",
                 "en": "The Most Extreme - Awesome Ancestors"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "48:57",
@@ -2456,15 +1687,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=vdPB42iKa7M&list=PLKy-B3Qf_RDXaJdCGlnaWzpaJLhcK6mTJ&index=3",
+            "org": "google",
             "title": {
                 "de": "A Sneak Peek Inside Cool Jobs and the Ultimate Science Street Fair!",
                 "ar": "A Sneak Peek Inside Cool Jobs and the Ultimate Science Street Fair!",
                 "en": "A Sneak Peek Inside Cool Jobs and the Ultimate Science Street Fair!"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-sXsv-SKvkXg/AAAAAAAAAAI/AAAAAAAAAAA/WAJAZs1dGXA/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "0:39",
@@ -2476,15 +1708,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=jJFhXsMFArw&list=PLKy-B3Qf_RDXaJdCGlnaWzpaJLhcK6mTJ&index=4",
+            "org": "google",
             "title": {
                 "de": "The World Science Festival's 2015 'Mind Blown' Campaign",
                 "ar": "The World Science Festival's 2015 'Mind Blown' Campaign",
                 "en": "The World Science Festival's 2015 'Mind Blown' Campaign"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-sXsv-SKvkXg/AAAAAAAAAAI/AAAAAAAAAAA/WAJAZs1dGXA/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:42",
@@ -2497,15 +1730,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=tbYhz7JKF3c",
+            "org": "google",
             "title": {
                 "de": "DC vs. Marvel: Box Office Battle | Data Attack | WIRED",
                 "ar": "DC vs. Marvel: Box Office Battle | Data Attack | WIRED",
                 "en": "DC vs. Marvel: Box Office Battle | Data Attack | WIRED"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpgWIRED",
             "duration": "2:33",
@@ -2519,15 +1753,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=bFYlEDrE3tc",
+            "org": "google",
             "title": {
                 "de": "Inside the Gigafactory, Where Tesla is Building its Future",
                 "ar": "Inside the Gigafactory, Where Tesla is Building its Future",
                 "en": "Inside the Gigafactory, Where Tesla is Building its Future"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:57",
@@ -2542,15 +1777,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=bFYlEDrE3tc",
+            "org": "google",
             "title": {
                 "de": "Inside the Gigafactory, Where Tesla is Building its Future",
                 "ar": "Inside the Gigafactory, Where Tesla is Building its Future",
                 "en": "Inside the Gigafactory, Where Tesla is Building its Future"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:57",
@@ -2564,36 +1800,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=QAa2O_8wBUQ",
-            "title": {
-                "de": "What is Dark Matter and Dark Energy?",
-                "ar": "What is Dark Matter and Dark Energy?",
-                "en": "What is Dark Matter and Dark Energy?"
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-UwENvFjc4vI/AAAAAAAAAAI/AAAAAAAAAAA/04dXvZ_jl0I/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "6:20",
-            "author": "Kurzgesagt \u2013 In a Nutshell",
-            "type": "video",
-            "categories": [
-                "math_science"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=UJIP3JGgjtE",
+            "org": "google",
             "title": {
                 "de": "Inside Star Trek Beyond\u2019s Amazing Visual Effects | Design FX",
                 "ar": "Inside Star Trek Beyond\u2019s Amazing Visual Effects | Design FX",
                 "en": "Inside Star Trek Beyond\u2019s Amazing Visual Effects | Design FX"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "4:19",
@@ -2607,36 +1824,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=ZL4yYHdDSWs&list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF",
-            "title": {
-                "de": "How Far Can We Go? Limits of Humanity.",
-                "ar": "How Far Can We Go? Limits of Humanity.",
-                "en": "How Far Can We Go? Limits of Humanity."
-            },
-            "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-UwENvFjc4vI/AAAAAAAAAAI/AAAAAAAAAAA/04dXvZ_jl0I/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "7:44",
-            "author": "Kurzgesagt \u2013 In a Nutshell",
-            "type": "video",
-            "categories": [
-                "math_science"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=iQe4sF8x3Bo",
+            "org": "google",
             "title": {
                 "de": "Facebook's Huge Internet-Beaming Drone Takes Flight | WIRED",
                 "ar": "Facebook's Huge Internet-Beaming Drone Takes Flight | WIRED",
                 "en": "Facebook's Huge Internet-Beaming Drone Takes Flight | WIRED"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:23",
@@ -2650,36 +1848,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=xLU-FSqLL-o",
-            "title": {
-                "de": "This is FAST: Crocheting",
-                "ar": "This is FAST: Crocheting",
-                "en": "This is FAST: Crocheting"
-            },
-            "lang_support": {
-                "de": "Not needed",
-                "ar": "Not needed",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:43",
-            "author": "WIRED",
-            "type": "video",
-            "categories": [
-                "design_art"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=7Jb_WnA8Fgo",
+            "org": "google",
             "title": {
                 "de": "How Motorola Made Modular Smartphones a Reality | WIRED",
                 "ar": "How Motorola Made Modular Smartphones a Reality | WIRED",
                 "en": "How Motorola Made Modular Smartphones a Reality | WIRED"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:31",
@@ -2694,15 +1873,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=3Diva7mKkdI",
+            "org": "google",
             "title": {
                 "de": "How Juno Will Reveal the Secrets of Our Solar System",
                 "ar": "How Juno Will Reveal the Secrets of Our Solar System",
                 "en": "How Juno Will Reveal the Secrets of Our Solar System"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:30",
@@ -2713,36 +1893,17 @@
             ]
         },
         {
-            "url": "How to Draw a House in 3D for Kids - Art for Kids - Easy Things to Draw | MAT",
-            "title": {
-                "de": "HowtoDrawAndPaint",
-                "ar": "HowtoDrawAndPaint",
-                "en": "HowtoDrawAndPaint"
-            },
-            "lang_support": {
-                "de": "Not needed",
-                "ar": "Not needed",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-gTEa_KIEONM/AAAAAAAAAAI/AAAAAAAAAAA/Jq4qzkg8zxY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "8:48",
-            "author": "HowtoDrawAndPaint",
-            "type": "video",
-            "categories": [
-                "design_art"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=QpEHXlDV3iU",
+            "org": "google",
             "title": {
                 "de": "The Ultimate Liquid Nitrogen Destruction Video | OOO with Brent Rose",
                 "ar": "The Ultimate Liquid Nitrogen Destruction Video | OOO with Brent Rose",
                 "en": "The Ultimate Liquid Nitrogen Destruction Video | OOO with Brent Rose"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "8:23",
@@ -2753,56 +1914,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=UcEfHIiHbkE",
-            "title": {
-                "de": "How to Draw a 3D Minecraft Zombie | MAT",
-                "ar": "How to Draw a 3D Minecraft Zombie | MAT",
-                "en": "How to Draw a 3D Minecraft Zombie | MAT"
-            },
-            "lang_support": {
-                "de": "Not needed",
-                "ar": "Not needed",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-gTEa_KIEONM/AAAAAAAAAAI/AAAAAAAAAAA/Jq4qzkg8zxY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "12:45",
-            "author": "HowtoDrawAndPaint",
-            "type": "video",
-            "categories": [
-                "design_art"
-            ]
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=eVRY3QQ327c",
-            "title": {
-                "de": "How to Draw a 3D Hole - Draw a Hole in Paper",
-                "ar": "How to Draw a 3D Hole - Draw a Hole in Paper",
-                "en": "How to Draw a 3D Hole - Draw a Hole in Paper"
-            },
-            "lang_support": {
-                "de": "Not needed",
-                "ar": "Not needed",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-gTEa_KIEONM/AAAAAAAAAAI/AAAAAAAAAAA/Jq4qzkg8zxY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "2:07",
-            "author": "HowtoDrawAndPaint",
-            "type": "video",
-            "categories": [
-                "design_art"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=-pMwaNXsjsc",
+            "org": "google",
             "title": {
                 "de": "Inside the Lair of the Custom Sneaker King",
                 "ar": "Inside the Lair of the Custom Sneaker King",
                 "en": "Inside the Lair of the Custom Sneaker King"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://www.youtube.com/watch?v=-pMwaNXsjsc",
             "duration": "2:13",
@@ -2814,36 +1936,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=3NH5EzfREXg",
-            "title": {
-                "de": "How to Draw a Cartoon Face - Funny Face Drawing Lesson",
-                "ar": "How to Draw a Cartoon Face - Funny Face Drawing Lesson",
-                "en": "How to Draw a Cartoon Face - Funny Face Drawing Lesson"
-            },
-            "lang_support": {
-                "de": "Not needed",
-                "ar": "Not needed",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-gTEa_KIEONM/AAAAAAAAAAI/AAAAAAAAAAA/Jq4qzkg8zxY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "9:25",
-            "author": "HowtoDrawAndPaint",
-            "type": "video",
-            "categories": [
-                "design_art"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=lc2SixWnYG4",
+            "org": "google",
             "title": {
                 "de": "How to Make Super-Classy Culinary Foam, Even if You Aren\u2019t Classy | Science of Food",
                 "ar": "How to Make Super-Classy Culinary Foam, Even if You Aren\u2019t Classy | Science of Food",
                 "en": "How to Make Super-Classy Culinary Foam, Even if You Aren\u2019t Classy | Science of Food"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:47",
@@ -2855,38 +1958,17 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=IYRiUjL1qdc",
-            "title": {
-                "de": "This is FAST: Yo-Yo",
-                "ar": "This is FAST: Yo-Yo",
-                "en": "This is FAST: Yo-Yo"
-            },
-            "lang_support": {
-                "de": "Not needed",
-                "ar": "Not needed",
-                "en": "yes"
-            },
-            "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:24",
-            "author": "WIRED",
-            "type": "video",
-            "categories": [
-                "design_art",
-                "vocational",
-                "games"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=tGHcyKTIXIM",
+            "org": "google",
             "title": {
                 "de": "I Crashed NASA's Astronaut Training | OOO with Brent Rose",
                 "ar": "I Crashed NASA's Astronaut Training | OOO with Brent Rose",
                 "en": "I Crashed NASA's Astronaut Training | OOO with Brent Rose"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://www.youtube.com/watch?v=tGHcyKTIXIM",
             "duration": "7:15",
@@ -2900,15 +1982,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=7gf6YpdvtE0&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV&index=8",
+            "org": "google",
             "title": {
                 "de": "Newtonian Gravity: Crash Course Physics #8",
                 "ar": "Newtonian Gravity: Crash Course Physics #8",
                 "en": "Newtonian Gravity: Crash Course Physics #8"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-CbyerLDiZAc/AAAAAAAAAAI/AAAAAAAAAAA/XOz_qJn17K0/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "9:19",
@@ -2920,15 +2003,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=9cbF9A6eQNA&index=13&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV",
+            "org": "google",
             "title": {
                 "de": "Statics: Crash Course Physics #13",
                 "ar": "Statics: Crash Course Physics #13",
                 "en": "Statics: Crash Course Physics #13"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-CbyerLDiZAc/AAAAAAAAAAI/AAAAAAAAAAA/XOz_qJn17K0/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "9:07",
@@ -2940,15 +2024,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=DxNGTU39PsU",
+            "org": "google",
             "title": {
                 "de": "HoloLens + NASA = AMAZING | OOO with Brent Rose",
                 "ar": "HoloLens + NASA = AMAZING | OOO with Brent Rose",
                 "en": "HoloLens + NASA = AMAZING | OOO with Brent Rose"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "5:13",
@@ -2962,15 +2047,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=nn-FRAkf0yI",
+            "org": "google",
             "title": {
                 "de": "WIRED By Design: Adam Savage on His Lifelong Obsession With Recreating Movie Props",
                 "ar": "WIRED By Design: Adam Savage on His Lifelong Obsession With Recreating Movie Props",
                 "en": "WIRED By Design: Adam Savage on His Lifelong Obsession With Recreating Movie Props"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "27:13",
@@ -2982,15 +2068,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=2t_q6QYyn7o",
+            "org": "google",
             "title": {
                 "de": "A Whale of a Task: Sculpting Model Giants by Hand",
                 "ar": "A Whale of a Task: Sculpting Model Giants by Hand",
                 "en": "A Whale of a Task: Sculpting Model Giants by Hand"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ybvWrZtF4LA/AAAAAAAAAAI/AAAAAAAAAAA/TNawNQVzWsg/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:04",
@@ -3002,15 +2089,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=BAg_5OLN6lg",
+            "org": "google",
             "title": {
                 "de": "WIRED by Design: Capturing The Invisible World of Technology With Graphic Design",
                 "ar": "WIRED by Design: Capturing The Invisible World of Technology With Graphic Design",
                 "en": "WIRED by Design: Capturing The Invisible World of Technology With Graphic Design"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "10:49",
@@ -3024,15 +2112,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=frIUf5l6fjU",
+            "org": "google",
             "title": {
                 "de": "WIRED by Design: Designing a Brand to Help Kill Malaria",
                 "ar": "WIRED by Design: Designing a Brand to Help Kill Malaria",
                 "en": "WIRED by Design: Designing a Brand to Help Kill Malaria"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "14:38",
@@ -3045,15 +2134,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=rpgvmHKbLrE",
+            "org": "google",
             "title": {
                 "de": "WIRED By Design: These Incredible High-Tech Exhibits Are the Future of Museums",
                 "ar": "WIRED By Design: These Incredible High-Tech Exhibits Are the Future of Museums",
                 "en": "WIRED By Design: These Incredible High-Tech Exhibits Are the Future of Museums"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "20:45",
@@ -3066,15 +2156,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=bQR6Ht4Fz7Q",
+            "org": "google",
             "title": {
                 "de": "WIRED By Design: Designing a Brand That Even Non-Designers Can Work With",
                 "ar": "WIRED By Design: Designing a Brand That Even Non-Designers Can Work With",
                 "en": "WIRED By Design: Designing a Brand That Even Non-Designers Can Work With"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "14:23",
@@ -3087,15 +2178,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=Mciq1BtXos0",
+            "org": "google",
             "title": {
                 "de": "Gas And Glass: How Neon Comes To Life",
                 "ar": "Gas And Glass: How Neon Comes To Life",
                 "en": "Gas And Glass: How Neon Comes To Life"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ybvWrZtF4LA/AAAAAAAAAAI/AAAAAAAAAAA/TNawNQVzWsg/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:00",
@@ -3107,15 +2199,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=gECAPOpKNyA",
+            "org": "google",
             "title": {
                 "de": "WIRED By Design: Radical Ideas for Reinventing College, From Stanford's D.School",
                 "ar": "WIRED By Design: Radical Ideas for Reinventing College, From Stanford's D.School",
                 "en": "WIRED By Design: Radical Ideas for Reinventing College, From Stanford's D.School"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "18:56",
@@ -3134,15 +2227,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=gEiypJeZH2A",
+            "org": "google",
             "title": {
                 "de": "The Instrument That Lets You Play the (Electromagnetic) Field",
                 "ar": "The Instrument That Lets You Play the (Electromagnetic) Field",
                 "en": "The Instrument That Lets You Play the (Electromagnetic) Field"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ybvWrZtF4LA/AAAAAAAAAAI/AAAAAAAAAAA/TNawNQVzWsg/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:11",
@@ -3154,15 +2248,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=QET0r_naPjw",
+            "org": "google",
             "title": {
                 "de": "WIRED By Design: How Metaphors Make Us Love Some Designs and Not Others",
                 "ar": "WIRED By Design: How Metaphors Make Us Love Some Designs and Not Others",
                 "en": "WIRED By Design: How Metaphors Make Us Love Some Designs and Not Others"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "9:12",
@@ -3174,15 +2269,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=n9rye_X-qhY",
+            "org": "google",
             "title": {
                 "de": "Bjarke Ingels Will Make You Believe in the Power of Architecture",
                 "ar": "Bjarke Ingels Will Make You Believe in the Power of Architecture",
                 "en": "Bjarke Ingels Will Make You Believe in the Power of Architecture"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "21:39",
@@ -3196,15 +2292,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=Xq7kBZyZsPg",
+            "org": "google",
             "title": {
                 "de": "Losing His Sight, This Photographer Chases the Light",
-                "ar": "Losing His Sight, This Photographer Chases the Light",
+                "ar": "\u0641\u0642\u062f \u0628\u0635\u0631\u0647\u060c \u0647\u0630\u0627 \u0627\u0644\u0645\u0635\u0648\u0631 \u064a\u0637\u0627\u0631\u062f \u0627\u0644\u0646\u0648\u0631",
                 "en": "Losing His Sight, This Photographer Chases the Light"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ybvWrZtF4LA/AAAAAAAAAAI/AAAAAAAAAAA/TNawNQVzWsg/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:19",
@@ -3216,15 +2313,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=78rPt0RsosQ",
+            "org": "google",
             "title": {
                 "de": "WIRED by Design: A Game Designer Explains the Counterintuitive Secret to Fun",
                 "ar": "WIRED by Design: A Game Designer Explains the Counterintuitive Secret to Fun",
                 "en": "WIRED by Design: A Game Designer Explains the Counterintuitive Secret to Fun"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "10:42",
@@ -3237,15 +2335,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=a2z8CE2vomY&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
+            "org": "google",
             "title": {
                 "de": "Can Prosthetics Outperform Real Limbs? | Cyborg Nation",
                 "ar": "Can Prosthetics Outperform Real Limbs? | Cyborg Nation",
                 "en": "Can Prosthetics Outperform Real Limbs? | Cyborg Nation"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "5:44",
@@ -3259,15 +2358,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=LZPZFeOOerA&index=3&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
+            "org": "google",
             "title": {
                 "de": "How to Control Things Using Your Brain (and Open-Source Hardware) | Cyborg Nation",
                 "ar": "How to Control Things Using Your Brain (and Open-Source Hardware) | Cyborg Nation",
                 "en": "How to Control Things Using Your Brain (and Open-Source Hardware) | Cyborg Nation"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "4:10",
@@ -3277,21 +2377,21 @@
                 "coding",
                 "technology",
                 "design_art",
-                "math_science",
-                "bci"
+                "math_science"
             ]
         },
         {
             "url": "https://www.youtube.com/watch?v=NTMkc0bLRlI",
+            "org": "google",
             "title": {
                 "de": "Is Big Data Getting Too Big?",
                 "ar": "Is Big Data Getting Too Big?",
                 "en": "Is Big Data Getting Too Big?"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-ZSFUoxv-FrY/AAAAAAAAAAI/AAAAAAAAAAA/gOrBuBnVQ68/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "5:34",
@@ -3303,15 +2403,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=4LZHFodVYwg&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN&index=5",
+            "org": "google",
             "title": {
                 "de": "Mind-Controlled Machines Give Paralyzed Patients New Hope | Cyborg Nation",
                 "ar": "Mind-Controlled Machines Give Paralyzed Patients New Hope | Cyborg Nation",
                 "en": "Mind-Controlled Machines Give Paralyzed Patients New Hope | Cyborg Nation"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:35",
@@ -3320,21 +2421,21 @@
             "categories": [
                 "technology",
                 "design_art",
-                "math_science",
-                "bci"
+                "math_science"
             ]
         },
         {
             "url": "https://www.youtube.com/watch?v=uAeTvuz_g-Q&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN&index=6",
+            "org": "google",
             "title": {
                 "de": "This Technology Wants to Make Wheelchairs Obsolete | Cyborg Nation",
                 "ar": "This Technology Wants to Make Wheelchairs Obsolete | Cyborg Nation",
                 "en": "This Technology Wants to Make Wheelchairs Obsolete | Cyborg Nation"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "4:05",
@@ -3343,21 +2444,21 @@
             "categories": [
                 "technology",
                 "design_art",
-                "math_science",
-                "bci"
+                "math_science"
             ]
         },
         {
             "url": "https://www.youtube.com/watch?v=GJ_Zki8e8Kw&index=4&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
+            "org": "google",
             "title": {
                 "de": "his Robotic Hand Can Touch and Feel, Just Like a Human Hand | Cyborg Nation",
                 "ar": "his Robotic Hand Can Touch and Feel, Just Like a Human Hand | Cyborg Nation",
                 "en": "his Robotic Hand Can Touch and Feel, Just Like a Human Hand | Cyborg Nation"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:29",
@@ -3371,15 +2472,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=oGf0UXq9V3s&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN&index=2",
+            "org": "google",
             "title": {
                 "de": "Cyborg Cockroaches Could Save Your Life | Cyborg Nation",
                 "ar": "Cyborg Cockroaches Could Save Your Life | Cyborg Nation",
                 "en": "Cyborg Cockroaches Could Save Your Life | Cyborg Nation"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "4:31",
@@ -3394,15 +2496,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=LHvR1fRTW8g",
+            "org": "google",
             "title": {
                 "de": "Hitting the Sun is HARD",
-                "ar": "Hitting the Sun is HARD",
+                "ar": "\u0636\u0631\u0628 \u0627\u0644\u0634\u0645\u0633 \u0635\u0639\u0628",
                 "en": "Hitting the Sun is HARD"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "3:12",
@@ -3414,15 +2517,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=IlnZKSR73S0",
+            "org": "google",
             "title": {
                 "de": "How to Destroy a Magnet (+ interactive periodic table)",
                 "ar": "How to Destroy a Magnet (+ interactive periodic table)",
                 "en": "How to Destroy a Magnet (+ interactive periodic table)"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "2:30",
@@ -3434,15 +2538,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=y3SBSbsdiYg",
+            "org": "google",
             "title": {
                 "de": "How lasers work (in theory)",
-                "ar": "How lasers work (in theory)",
+                "ar": "\u0643\u064a\u0641 \u064a\u0639\u0645\u0644 \u0627\u0644\u0644\u064a\u0632\u0631 (\u0646\u0638\u0631\u064a\u0627)",
                 "en": "How lasers work (in theory)"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "1:41",
@@ -3455,15 +2560,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=SJJhHknEDPY",
+            "org": "google",
             "title": {
                 "de": "What is a dimension? In 3D...and 2D... and 1D",
                 "ar": "What is a dimension? In 3D...and 2D... and 1D",
                 "en": "What is a dimension? In 3D...and 2D... and 1D"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Auto-translated in Arabic",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "1:20",
@@ -3474,16 +2580,1070 @@
             ]
         },
         {
+            "url": "https://www.youtube.com/watch?v=fPbGEGtgqrM",
+            "org": "google",
+            "title": {
+                "de": "Bruegel #UnseenMasterpieces",
+                "ar": "Bruegel #UnseenMasterpieces",
+                "en": "Bruegel #UnseenMasterpieces"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": false,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:26",
+            "author": "Google Cultural Institute",
+            "type": "video",
+            "categories": [
+                "technology",
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=TEwbFu6H0CE&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=2",
+            "org": "google",
+            "title": {
+                "de": "EARTHRISE: The First Lunar Voyage",
+                "ar": "EARTHRISE: The First Lunar Voyage",
+                "en": "EARTHRISE: The First Lunar Voyage"
+            },
+            "lang_support": {
+                "de": false,
+                "ar": false,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "55:29",
+            "author": "XiveTV Documentaries",
+            "type": "video",
+            "categories": [
+                "technology",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=ihmyHNJodvQ",
+            "org": "google",
+            "title": {
+                "de": "Autonomous Android Vehicle (AAV)",
+                "ar": "\u0645\u0631\u0643\u0628\u0629 \u0623\u0646\u062f\u0631\u0648\u064a\u062f \u0627\u0644\u0645\u0633\u062a\u0642\u0644\u0629",
+                "en": "Autonomous Android Vehicle (AAV)"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-hH41hKCyqOM/AAAAAAAAAAI/AAAAAAAAAAA/Qic0sQ9fQMQ/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "0:53",
+            "author": "AI B",
+            "type": "video",
+            "categories": [
+                "coding",
+                "technology",
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=V6y28qUN9xs",
+            "org": "google",
+            "title": {
+                "de": "Made in Japan",
+                "ar": "\u0635\u0646\u0639 \u0641\u064a \u0627\u0644\u064a\u0627\u0628\u0627\u0646",
+                "en": "Made in Japan"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:33",
+            "author": "Google Cultural Institute",
+            "type": "video",
+            "categories": [
+                "technology",
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=xLU-FSqLL-o",
+            "org": "google",
+            "title": {
+                "de": "This is FAST: Crocheting",
+                "ar": "\u0647\u0630\u0627 \u0633\u0631\u064a\u0639: \u0627\u0644\u062d\u064a\u0627\u0643\u0629",
+                "en": "This is FAST: Crocheting"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:43",
+            "author": "WIRED",
+            "type": "video",
+            "categories": [
+                "design_art"
+            ]
+        },
+        {
+            "url": "How to Draw a House in 3D for Kids - Art for Kids - Easy Things to Draw | MAT",
+            "org": "google",
+            "title": {
+                "de": "HowtoDrawAndPaint",
+                "ar": "\u0643\u064a\u0641\u064a\u0629 \u0627\u0644\u0631\u0633\u0645 \u0648\u0627\u0644\u0637\u0644\u0627\u0621",
+                "en": "HowtoDrawAndPaint"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-gTEa_KIEONM/AAAAAAAAAAI/AAAAAAAAAAA/Jq4qzkg8zxY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "8:48",
+            "author": "HowtoDrawAndPaint",
+            "type": "video",
+            "categories": [
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=UcEfHIiHbkE",
+            "org": "google",
+            "title": {
+                "de": "How to Draw a 3D Minecraft Zombie | MAT",
+                "ar": "How to Draw a 3D Minecraft Zombie | MAT",
+                "en": "How to Draw a 3D Minecraft Zombie | MAT"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-gTEa_KIEONM/AAAAAAAAAAI/AAAAAAAAAAA/Jq4qzkg8zxY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "12:45",
+            "author": "HowtoDrawAndPaint",
+            "type": "video",
+            "categories": [
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=eVRY3QQ327c",
+            "org": "google",
+            "title": {
+                "de": "How to Draw a 3D Hole - Draw a Hole in Paper",
+                "ar": "\u0643\u064a\u0641\u064a\u0629 \u062a\u0631\u0633\u0645 \u062d\u0641\u0631\u0629 \u062b\u0644\u0627\u062b\u064a\u0629 \u0627\u0644\u0623\u0628\u0639\u0627\u062f - \u0627\u0631\u0633\u0645 \u062d\u0641\u0631\u0629 \u0639\u0644\u0649 \u0648\u0631\u0642\u0629",
+                "en": "How to Draw a 3D Hole - Draw a Hole in Paper"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-gTEa_KIEONM/AAAAAAAAAAI/AAAAAAAAAAA/Jq4qzkg8zxY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:07",
+            "author": "HowtoDrawAndPaint",
+            "type": "video",
+            "categories": [
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=3NH5EzfREXg",
+            "org": "google",
+            "title": {
+                "de": "How to Draw a Cartoon Face - Funny Face Drawing Lesson",
+                "ar": "\u0643\u064a\u0641\u064a\u0629 \u0631\u0633\u0645 \u0648\u062c\u0647 \u0627\u0644\u0631\u0633\u0648\u0645 \u0627\u0644\u0645\u062a\u062d\u0631\u0643\u0629 - \u062f\u0631\u0633 \u0644\u0631\u0633\u0645 \u0648\u062c\u0647 \u0645\u0636\u062d\u0643",
+                "en": "How to Draw a Cartoon Face - Funny Face Drawing Lesson"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-gTEa_KIEONM/AAAAAAAAAAI/AAAAAAAAAAA/Jq4qzkg8zxY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "9:25",
+            "author": "HowtoDrawAndPaint",
+            "type": "video",
+            "categories": [
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=IYRiUjL1qdc",
+            "org": "google",
+            "title": {
+                "de": "This is FAST: Yo-Yo",
+                "ar": "\u0647\u0630\u0627 \u0633\u0631\u064a\u0639: \u0627\u0644\u064a\u0648\u064a\u0648",
+                "en": "This is FAST: Yo-Yo"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:24",
+            "author": "WIRED",
+            "type": "video",
+            "categories": [
+                "design_art",
+                "vocational",
+                "games"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=e7t3svG9PTk",
+            "org": "google",
+            "title": {
+                "de": "Music app developer DJIT builds higher quality experiences on Android",
+                "ar": "Music app developer DJIT builds higher quality experiences on Android",
+                "en": "Music app developer DJIT builds higher quality experiences on Android"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "3:28",
+            "author": "Android Developer Story",
+            "type": "video",
+            "categories": [
+                "coding",
+                "technology",
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=Pms0pcyPbAM",
+            "org": "google",
+            "title": {
+                "de": "Gifted Mom reaches more mothers across Africa with Android",
+                "ar": "\u0623\u0645 \u0645\u0648\u0647\u0648\u0628\u0629 \u062a\u0635\u0644 \u0625\u0644\u0649 \u0623\u0645\u0647\u0627\u062a \u062d\u0648\u0644 \u0623\u0641\u0631\u064a\u0642\u064a\u0627 \u0645\u0639 \u0623\u0646\u062f\u0631\u0648\u064a\u062f",
+                "en": "Gifted Mom reaches more mothers across Africa with Android"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "3:12",
+            "author": "Android Developers",
+            "type": "video",
+            "categories": [
+                "coding",
+                "technology",
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=Us6_yeT22nE",
+            "org": "google",
+            "title": {
+                "de": "Playbook for Developers, a new app for developers",
+                "ar": "Playbook for Developers, a new app for developers",
+                "en": "Playbook for Developers, a new app for developers"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "0:52",
+            "author": "Android Developers",
+            "type": "video",
+            "categories": [
+                "coding",
+                "technology",
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=0zKU7jDA2nc&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=4",
+            "org": "google",
+            "title": {
+                "de": "Can Your Phone Translate Signs On The Fly?",
+                "ar": "Can Your Phone Translate Signs On The Fly?",
+                "en": "Can Your Phone Translate Signs On The Fly?"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "6:33",
+            "author": "Nat and Lo",
+            "type": "video",
+            "categories": [
+                "technology",
+                "language",
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=zoR3wyiVzbY",
+            "org": "google",
+            "title": {
+                "de": "Do You Know What\u2019s Actually Inside Your Phone?",
+                "ar": "\u0647\u0644 \u062a\u0639\u0644\u0645 \u0645\u0627 \u0628\u062f\u0627\u062e\u0644 \u0647\u0627\u062a\u0641\u0643\u061f",
+                "en": "Do You Know What\u2019s Actually Inside Your Phone?"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "6:19",
+            "author": "Nat and Lo",
+            "type": "video",
+            "categories": [
+                "technology"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=OE63BYWdqC4&index=6&list=PLBCF2DAC6FFB574DE",
+            "org": "google",
+            "title": {
+                "de": "Zack Matere: Growing Knowledge",
+                "ar": "\u0632\u0627\u0643 \u0645\u0627\u062a\u064a\u0631: \u062a\u0646\u0645\u064a\u0629 \u0627\u0644\u0645\u0639\u0631\u0641\u0629",
+                "en": "Zack Matere: Growing Knowledge"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-sTzayP_p-bg/AAAAAAAAAAI/AAAAAAAAAAA/CnJj2ydfg2Q/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:00",
+            "author": "Google Stories",
+            "type": "video",
+            "categories": [
+                "technology",
+                "language",
+                "design_art",
+                "vocational"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=-apCIbV9YKA",
+            "org": "google",
+            "title": {
+                "de": "Google Classroom: Mission control for students and teachers",
+                "ar": "Google Classroom: Mission control for students and teachers",
+                "en": "Google Classroom: Mission control for students and teachers"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-JfxTnVl5ygo/AAAAAAAAAAI/AAAAAAAAAAA/dO-dGc4dGjQ/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:01",
+            "author": "Google for Education",
+            "type": "video",
+            "categories": [
+                "technology",
+                "vocational"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=l80bxaFrQuM",
+            "org": "google",
+            "title": {
+                "de": "Can I feel the sound of music? | Jonah Kohn",
+                "ar": "\u0647\u0644 \u0623\u0633\u0645\u0639 \u0635\u0648\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u0649 - \u062c\u0648\u0646\u0627 \u0643\u0648\u0646",
+                "en": "Can I feel the sound of music? | Jonah Kohn"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:32",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=H158-6LE9Wg",
+            "org": "google",
+            "title": {
+                "de": "Bringing stable power to remote villages | Harine Ravichandran",
+                "ar": "\u062c\u0644\u0628 \u0637\u0627\u0642\u0629 \u0645\u0633\u062a\u0642\u0631\u0629 \u0625\u0644\u0649 \u0627\u0644\u0642\u0631\u0649 \u0627\u0644\u0646\u0627\u0626\u064a\u0629  - \u0647\u0627\u0631\u064a\u0646 \u0631\u0627\u0641\u064a\u062a\u0634\u0627\u0646\u062f\u0631\u0627\u0646",
+                "en": "Bringing stable power to remote villages | Harine Ravichandran"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:21",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "technology",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=O8g_m59Po1k",
+            "org": "google",
+            "title": {
+                "de": "Talking to robots in English  | Luke Taylor",
+                "ar": "\u0627\u0644\u062a\u062d\u062f\u062b \u0645\u0639 \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u0627\u062a \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 - \u0644\u0648\u0643 \u062a\u0627\u064a\u0644\u0648\u0631",
+                "en": "Talking to robots in English  | Luke Taylor"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:16",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "design_art",
+                "math_science",
+                "robotics"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=PszuBGqLCew",
+            "org": "google",
+            "title": {
+                "de": "Can we make robots as difficult to catch as flys? | Mihir Garimella",
+                "ar": "Can we make robots as difficult to catch as flys? | Mihir Garimella",
+                "en": "Can we make robots as difficult to catch as flys? | Mihir Garimella"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:14",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "design_art",
+                "math_science",
+                "robotics"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=m7f3SxVvlPY",
+            "org": "google",
+            "title": {
+                "de": "Grand Prize Winner - Olivia Hallisey - Google Science Fair 2015",
+                "ar": "\u0627\u0644\u0641\u0627\u0626\u0632\u0629 \u0628\u0627\u0644\u062c\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 - \u0623\u0648\u0644\u064a\u0641\u064a\u0627 \u0647\u0627\u0644\u064a\u0633\u064a - \u0645\u0639\u0631\u0636 \u062c\u0648\u062c\u0644 \u0644\u0644\u0639\u0644\u0648\u0645 \u0662\u0660\u0661\u0665",
+                "en": "Grand Prize Winner - Olivia Hallisey - Google Science Fair 2015"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:49",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "math_science",
+                "vocational"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=fIZfeYoPZzs",
+            "org": "google",
+            "title": {
+                "de": "How do cancer cells become resistant to chemotherapy? | Shree Bose",
+                "ar": "\u0643\u064a\u0641 \u062a\u0635\u0628\u062d \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u0633\u0631\u0637\u0627\u0646\u064a\u0629 \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0639\u0644\u0627\u062c \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u061f - Shree Bose",
+                "en": "How do cancer cells become resistant to chemotherapy? | Shree Bose"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:10",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "technology",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=QprN7uTJLDc",
+            "org": "google",
+            "title": {
+                "de": "How can we reduce the impact of toxic oil waste? | Hayley Todesco",
+                "ar": "\u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u0627 \u0627\u0644\u062d\u062f \u0645\u0646 \u062a\u0623\u062b\u064a\u0631 \u0627\u0644\u0646\u0641\u0627\u064a\u0627\u062a \u0627\u0644\u0646\u0641\u0637\u064a\u0629 \u0627\u0644\u0633\u0627\u0645\u0629\u061f - \u0647\u0627\u064a\u0644\u064a \u062a\u0648\u062f\u064a\u0633\u0643\u0648",
+                "en": "How can we reduce the impact of toxic oil waste? | Hayley Todesco"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:30",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "math_science",
+                "environmental"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=WBEtUJmp05w",
+            "org": "google",
+            "title": {
+                "de": "How robots aid scientific research | LEGO",
+                "ar": "How robots aid scientific research | LEGO",
+                "en": "How robots aid scientific research | LEGO"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:24",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "math_science",
+                "robotics"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=s4n06X8t7VA",
+            "org": "google",
+            "title": {
+                "de": "LEGO Education Builder Award - Anurudh Ganesan - Google Science Fair 2015",
+                "ar": "LEGO Education Builder Award - Anurudh Ganesan - Google Science Fair 2015",
+                "en": "LEGO Education Builder Award - Anurudh Ganesan - Google Science Fair 2015"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:07",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "technology",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=MQEeEGvLzIU",
+            "org": "google",
+            "title": {
+                "de": "How can we optimize food production in Africa? | Ciara Judge, \u00c9mer Hickey and Sophie Healy-Thow",
+                "ar": "\u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u0627 \u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0625\u0646\u062a\u0627\u062c \u0627\u0644\u063a\u0630\u0627\u0626\u064a \u0641\u064a \u0623\u0641\u0631\u064a\u0642\u064a\u0627\u061f | \u0633\u064a\u0627\u0631\u0627 \u062c\u062f\u062c\u060c \u0625\u064a\u0645\u064a\u0631 \u0647\u064a\u0643\u064a \u0648\u0635\u0648\u0641\u064a \u0647\u064a\u0644\u064a-\u062b\u0648",
+                "en": "How can we optimize food production in Africa? | Ciara Judge, \u00c9mer Hickey and Sophie Healy-Thow"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:22",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "math_science",
+                "agriculture"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=xXi4WiMdNEA",
+            "org": "google",
+            "title": {
+                "de": "How can we improve the safety of people with Alzheimer's? | Kenneth Shinozuka",
+                "ar": "How can we improve the safety of people with Alzheimer's? | Kenneth Shinozuka",
+                "en": "How can we improve the safety of people with Alzheimer's? | Kenneth Shinozuka"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:27",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "technology",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=3Rqcg7BJwJM",
+            "org": "google",
+            "title": {
+                "de": "It's your turn to change the world",
+                "ar": "\u062d\u0627\u0646 \u062f\u0648\u0631\u0643 \u0644\u062a\u063a\u064a\u064a\u0631 \u0627\u0644\u0639\u0627\u0644\u0645",
+                "en": "It's your turn to change the world"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:14",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "coding",
+                "technology",
+                "language",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=TubgY-ldttU",
+            "org": "google",
+            "title": {
+                "de": "It's more than science",
+                "ar": "\u0625\u0646\u0647\u0627 \u0623\u0643\u062b\u0631 \u0645\u0646 \u0627\u0644\u0639\u0644\u0648\u0645",
+                "en": "It's more than science"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:42",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "coding",
+                "language",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=YAVIkr7HRMk",
+            "org": "google",
+            "title": {
+                "de": "What will you try?",
+                "ar": "\u0645\u0627\u0630\u0627 \u0633\u062a\u062d\u0627\u0648\u0644\u061f",
+                "en": "What will you try?"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:06",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "coding",
+                "language",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=4JcDYkgqksY&list=PLOU2XLYxmsIJu9yzFxRDR1AUmrEu0lRMw",
+            "org": "google",
+            "title": {
+                "de": "Designing for Android Wear",
+                "ar": "Designing for Android Wear",
+                "en": "Designing for Android Wear"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-Fgp8KFpgQqE/AAAAAAAAAAI/AAAAAAAAAAA/Wyh1vV5Up0I/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "6:55",
+            "author": "Google Developers",
+            "type": "video",
+            "categories": [
+                "coding",
+                "technology",
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=LWiuUC9RDhY",
+            "org": "google",
+            "title": {
+                "de": "Everyone has a question. What's yours?",
+                "ar": "\u0643\u0644 \u0634\u062e\u0635 \u0644\u062f\u064a\u0647 \u0633\u0624\u0627\u0644. \u0645\u0627 \u0647\u0648 \u0633\u0624\u0627\u0644\u0643\u061f",
+                "en": "Everyone has a question. What's yours?"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-_6ogc9O_vz4/AAAAAAAAAAI/AAAAAAAAAAA/tTGP9Qo0FGI/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:11",
+            "author": "Google Science Fair",
+            "type": "video",
+            "categories": [
+                "coding",
+                "technology",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=pOnxa44yllk&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y",
+            "org": "google",
+            "title": {
+                "de": "Google Open Gallery: Itinerrance Art Gallery",
+                "ar": "Google Open Gallery: Itinerrance Art Gallery",
+                "en": "Google Open Gallery: Itinerrance Art Gallery"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:04",
+            "author": "Google Cultural Institute",
+            "type": "video",
+            "categories": [
+                "technology",
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=Bdl03NGUtOo&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y&index=2",
+            "org": "google",
+            "title": {
+                "de": "Google Open Gallery: Belgian Comic Strip Museum",
+                "ar": "Google Open Gallery: Belgian Comic Strip Museum",
+                "en": "Google Open Gallery: Belgian Comic Strip Museum"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:07",
+            "author": "Google Cultural Institute",
+            "type": "video",
+            "categories": [
+                "technology",
+                "design_art"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=QO1zNWOwme4&index=3&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y",
+            "org": "google",
+            "title": {
+                "de": "Google Open Gallery: artist Berndnaut Smilde",
+                "ar": "Google Open Gallery: artist Berndnaut Smilde",
+                "en": "Google Open Gallery: artist Berndnaut Smilde"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-FMRwLPhefNg/AAAAAAAAAAI/AAAAAAAAAAA/SfMjZOEeMSY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:16",
+            "author": "Google Cultural Institute",
+            "type": "video",
+            "categories": [
+                "technology",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=4xtEp55MKRE",
+            "org": "google",
+            "title": {
+                "de": "Introducing Tap to Translate",
+                "ar": "Introducing Tap to Translate",
+                "en": "Introducing Tap to Translate"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:22",
+            "author": "Google",
+            "type": "video",
+            "categories": [
+                "technology",
+                "language"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=2RB4yWmzG-4",
+            "org": "google",
+            "title": {
+                "de": "From Syria to Canada",
+                "ar": "\u0645\u0646 \u0633\u0648\u0631\u064a\u0627 \u0625\u0644\u0649 \u0643\u0646\u062f\u0627",
+                "en": "From Syria to Canada"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "2:00",
+            "author": "Google",
+            "type": "video",
+            "categories": [
+                "technology",
+                "language"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=qnZZInDyrZo",
+            "org": "google",
+            "title": {
+                "de": "Goals in Google Calendar",
+                "ar": "Goals in Google Calendar",
+                "en": "Goals in Google Calendar"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:22",
+            "author": "Google",
+            "type": "video",
+            "categories": [
+                "technology",
+                "vocational"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=cPuvf2lzZMY",
+            "org": "google",
+            "title": {
+                "de": "Reminders in Google Calendar",
+                "ar": "Reminders in Google Calendar",
+                "en": "Reminders in Google Calendar"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "1:05",
+            "author": "Google",
+            "type": "video",
+            "categories": [
+                "technology",
+                "professional"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=nE09oh1ARZ8&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=15",
+            "org": "google",
+            "title": {
+                "de": "This Satellite Is In Space Now!",
+                "ar": "\u0647\u0630\u0627 \u0627\u0644\u0642\u0645\u0631 \u0627\u0644\u0635\u0646\u0627\u0639\u064a \u0641\u064a \u0627\u0644\u0641\u0636\u0627\u0621 \u0627\u0644\u0622\u0646!",
+                "en": "This Satellite Is In Space Now!"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "4:58",
+            "author": "Nat and Lo",
+            "type": "video",
+            "categories": [
+                "technology",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=bHvf7Tagt18&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=10",
+            "org": "google",
+            "title": {
+                "de": "How Does Your Phone Know This Is A Dog?",
+                "ar": "\u0643\u064a\u0641 \u064a\u0639\u0631\u0641 \u0647\u0627\u062a\u0641\u0643 \u0623\u0646 \u0647\u0630\u0627 \u0643\u0644\u0628\u061f",
+                "en": "How Does Your Phone Know This Is A Dog?"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "5:57",
+            "author": "Nat and Lo",
+            "type": "video",
+            "categories": [
+                "coding",
+                "technology",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=spO3ugXq6Po&index=1&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g",
+            "org": "google",
+            "title": {
+                "de": "Can You Teach A Phone To See?",
+                "ar": "Can You Teach A Phone To See?",
+                "en": "Can You Teach A Phone To See?"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "6:25",
+            "author": "Nat and Lo",
+            "type": "video",
+            "categories": [
+                "coding",
+                "technology",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=kQDQ3Ps_-b4&index=8&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g",
+            "org": "google",
+            "title": {
+                "de": "We Popped A Giant Internet Balloon!",
+                "ar": "We Popped A Giant Internet Balloon!",
+                "en": "We Popped A Giant Internet Balloon!"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "6:12",
+            "author": "Nat and Lo",
+            "type": "video",
+            "categories": [
+                "technology",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=JhHMJCUmq28",
+            "org": "google",
+            "title": {
+                "de": "Quantum Computers Explained \u2013 Limits of Human Technology",
+                "ar": "Quantum Computers Explained \u2013 Limits of Human Technology",
+                "en": "Quantum Computers Explained \u2013 Limits of Human Technology"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-UwENvFjc4vI/AAAAAAAAAAI/AAAAAAAAAAA/04dXvZ_jl0I/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "7:16",
+            "author": "Kurzgesagt \u2013 In a Nutshell",
+            "type": "video",
+            "categories": [
+                "technology"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=QAa2O_8wBUQ",
+            "org": "google",
+            "title": {
+                "de": "What is Dark Matter and Dark Energy?",
+                "ar": "What is Dark Matter and Dark Energy?",
+                "en": "What is Dark Matter and Dark Energy?"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-UwENvFjc4vI/AAAAAAAAAAI/AAAAAAAAAAA/04dXvZ_jl0I/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "6:20",
+            "author": "Kurzgesagt \u2013 In a Nutshell",
+            "type": "video",
+            "categories": [
+                "math_science"
+            ]
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=ZL4yYHdDSWs&list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF",
+            "org": "google",
+            "title": {
+                "de": "How Far Can We Go? Limits of Humanity.",
+                "ar": "\u0625\u0644\u0649 \u0623\u064a \u0645\u062f\u0649 \u064a\u0645\u0643\u0646\u0646\u0627 \u0627\u0644\u0630\u0647\u0627\u0628\u061f \u062d\u062f\u0648\u062f \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u064a\u0629.",
+                "en": "How Far Can We Go? Limits of Humanity."
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-UwENvFjc4vI/AAAAAAAAAAI/AAAAAAAAAAA/04dXvZ_jl0I/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "7:44",
+            "author": "Kurzgesagt \u2013 In a Nutshell",
+            "type": "video",
+            "categories": [
+                "math_science"
+            ]
+        },
+        {
             "url": "https://www.youtube.com/watch?v=9eKc5kgPVrA",
+            "org": "google",
             "title": {
                 "de": "Immovable Object vs. Unstoppable Force - Which Wins?",
                 "ar": "Immovable Object vs. Unstoppable Force - Which Wins?",
                 "en": "Immovable Object vs. Unstoppable Force - Which Wins?"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "3:34",
@@ -3495,15 +3655,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=tmNXKqeUtJM",
+            "org": "google",
             "title": {
                 "de": "Why is the Solar System Flat?",
-                "ar": "Why is the Solar System Flat?",
+                "ar": "\u0644\u0645\u0627\u0630\u0627 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0634\u0645\u0633\u064a \u0645\u0633\u0637\u062d\u061f",
                 "en": "Why is the Solar System Flat?"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "3:11",
@@ -3515,15 +3676,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=gxJ4M7tyLRE",
+            "org": "google",
             "title": {
                 "de": "Why is it Dark at Night?",
                 "ar": "Why is it Dark at Night?",
                 "en": "Why is it Dark at Night?"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "3:52",
@@ -3535,15 +3697,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=3gNkgj9h2oM",
+            "org": "google",
             "title": {
                 "de": "Why Isn't It Faster To Fly West?",
                 "ar": "Why Isn't It Faster To Fly West?",
                 "en": "Why Isn't It Faster To Fly West?"
             },
             "lang_support": {
-                "de": "Auto-translated in German",
-                "ar": "Yes",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "2:05",
@@ -3555,15 +3718,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=FAivtXJOsiI",
+            "org": "google",
             "title": {
                 "de": "The Speed of Light in Glass",
-                "ar": "The Speed of Light in Glass",
+                "ar": "\u0633\u0631\u0639\u0629 \u0627\u0644\u0636\u0648\u0621 \u0641\u064a \u0627\u0644\u0632\u062c\u0627\u062c",
                 "en": "The Speed of Light in Glass"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "1:41",
@@ -3575,15 +3739,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=kif4ON6QOPE",
+            "org": "google",
             "title": {
                 "de": "Where Do Galaxies Come From?",
-                "ar": "Where Do Galaxies Come From?",
+                "ar": "\u0645\u0646 \u0623\u064a\u0646 \u062a\u0623\u062a\u064a \u0627\u0644\u0645\u062c\u0631\u0627\u062a",
                 "en": "Where Do Galaxies Come From?"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "2:54",
@@ -3595,15 +3760,16 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=A-QoutHCu4o",
+            "org": "google",
             "title": {
                 "de": "How to Count Infinity",
-                "ar": "How to Count Infinity",
+                "ar": "\u0643\u064a\u0641\u064a\u0629 \u0639\u062f \u0627\u0644\u0645\u0627\u0644\u0627 \u0646\u0647\u0627\u064a\u0629",
                 "en": "How to Count Infinity"
             },
             "lang_support": {
-                "de": "Yes",
-                "ar": "Yes",
-                "en": "yes"
+                "de": true,
+                "ar": true,
+                "en": true
             },
             "logo": "https://i.ytimg.com/i/UHW94eEFW7hkUMVaZz4eDg/1.jpg",
             "duration": "1:55",
@@ -3615,6 +3781,15 @@
         }
     ],
     "orgs": [
+        {
+            "image": "",
+            "name": "google",
+            "title": {
+                "de": "Google",
+                "en": "Google",
+                "ar": "Google"
+            }
+        },
         {
             "image": "",
             "name": "unicef",
@@ -3656,35 +3831,26 @@
             "image": "",
             "name": "space",
             "title": {
-                "de": "Space",
-                "ar": "Space",
-                "en": "Space"
+                "de": "fix-Space",
+                "ar": "fix-Space",
+                "en": "fix-Space"
             }
         },
         {
             "image": "",
             "name": "math_science",
             "title": {
-                "de": "Math and Science",
-                "ar": "Math and Science",
+                "de": "Mathe und Wissenschaft",
+                "ar": "\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0648\u0627\u0644\u0639\u0644\u0648\u0645",
                 "en": "Math and Science"
-            }
-        },
-        {
-            "image": "",
-            "name": "bci",
-            "title": {
-                "de": "BCI",
-                "ar": "BCI",
-                "en": "BCI"
             }
         },
         {
             "image": "",
             "name": "language",
             "title": {
-                "de": "Language",
-                "ar": "Language",
+                "de": "Sprache",
+                "ar": "\u0644\u063a\u0627\u062a",
                 "en": "Language"
             }
         },
@@ -3692,9 +3858,9 @@
             "image": "",
             "name": "environmental",
             "title": {
-                "de": "Environmental",
-                "ar": "Environmental",
-                "en": "Environmental"
+                "de": "fix-Environmental",
+                "ar": "fix-Environmental",
+                "en": "fix-Environmental"
             }
         },
         {
@@ -3702,7 +3868,7 @@
             "name": "comics",
             "title": {
                 "de": "Comics",
-                "ar": "Comics",
+                "ar": "\u0631\u0633\u0648\u0645 \u0647\u0632\u0644\u064a\u0629",
                 "en": "Comics"
             }
         },
@@ -3710,26 +3876,17 @@
             "image": "",
             "name": "cars",
             "title": {
-                "de": "Cars",
-                "ar": "Cars",
+                "de": "Autos",
+                "ar": "\u0633\u064a\u0627\u0631\u0627\u062a",
                 "en": "Cars"
-            }
-        },
-        {
-            "image": "",
-            "name": "bci",
-            "title": {
-                "de": "Brain Computer Interface",
-                "ar": "Brain Computer Interface",
-                "en": "Brain Computer Interface"
             }
         },
         {
             "image": "",
             "name": "robotics",
             "title": {
-                "de": "Robotics",
-                "ar": "Robotics",
+                "de": "Robotik",
+                "ar": "\u0631\u0648\u0628\u0648\u062a\u0627\u062a",
                 "en": "Robotics"
             }
         },
@@ -3737,8 +3894,8 @@
             "image": "",
             "name": "coding",
             "title": {
-                "de": "Coding",
-                "ar": "Coding",
+                "de": "Programmierung",
+                "ar": "\u0628\u0631\u0645\u062c\u0629 ",
                 "en": "Coding"
             }
         },
@@ -3746,17 +3903,17 @@
             "image": "",
             "name": "graphics_design",
             "title": {
-                "de": "Graphic Design",
-                "ar": "Graphic Design",
-                "en": "Graphic Design"
+                "de": "fix-Graphic Design",
+                "ar": "fix-Graphic Design",
+                "en": "fix-Graphic Design"
             }
         },
         {
             "image": "",
             "name": "culinary",
             "title": {
-                "de": "Culinary",
-                "ar": "Culinary",
+                "de": "Kulinarisch",
+                "ar": "\u0627\u0644\u0637\u0628\u062e",
                 "en": "Culinary"
             }
         },
@@ -3764,8 +3921,8 @@
             "image": "",
             "name": "game_design",
             "title": {
-                "de": "Game Design",
-                "ar": "Game Design",
+                "de": "Spieldesign",
+                "ar": "\u062a\u0635\u0645\u064a\u0645 \u0623\u0644\u0639\u0627\u0628",
                 "en": "Game Design"
             }
         },
@@ -3773,8 +3930,8 @@
             "image": "",
             "name": "design_art",
             "title": {
-                "de": "Design and Art",
-                "ar": "Design and Art",
+                "de": "Design und Kunst",
+                "ar": "\u0627\u0644\u062a\u0635\u0645\u064a\u0645 \u0648\u0627\u0644\u0641\u0646",
                 "en": "Design and Art"
             }
         },
@@ -3782,8 +3939,8 @@
             "image": "",
             "name": "architecture",
             "title": {
-                "de": "Architecture",
-                "ar": "Architecture",
+                "de": "Architektur",
+                "ar": "\u0647\u0646\u062f\u0633\u0629 \u0645\u0639\u0645\u0627\u0631\u064a\u0629",
                 "en": "Architecture"
             }
         },
@@ -3791,8 +3948,8 @@
             "image": "",
             "name": "games",
             "title": {
-                "de": "Games",
-                "ar": "Games",
+                "de": "Spiele",
+                "ar": "\u0623\u0644\u0639\u0627\u0628",
                 "en": "Games"
             }
         },
@@ -3800,8 +3957,8 @@
             "image": "",
             "name": "education",
             "title": {
-                "de": "Education",
-                "ar": "Education",
+                "de": "Ausbildung",
+                "ar": "\u0627\u0644\u062a\u0639\u0644\u064a\u0645",
                 "en": "Education"
             }
         },
@@ -3809,8 +3966,8 @@
             "image": "",
             "name": "agriculture",
             "title": {
-                "de": "Agriculture",
-                "ar": "Agriculture",
+                "de": "Landwirtschaft",
+                "ar": "\u0632\u0631\u0627\u0639\u0629",
                 "en": "Agriculture"
             }
         },
@@ -3818,8 +3975,8 @@
             "image": "",
             "name": "vocational",
             "title": {
-                "de": "Vocational and Trade Skills",
-                "ar": "Vocational and Trade Skills",
+                "de": "Berufs- und Fachkenntnisse",
+                "ar": "\u0627\u0644\u0645\u0647\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u0647\u0646\u064a\u0629 \u0648\u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629",
                 "en": "Vocational and Trade Skills"
             }
         },
@@ -3827,8 +3984,8 @@
             "image": "",
             "name": "professional",
             "title": {
-                "de": "Professional Development",
-                "ar": "Professional Development",
+                "de": "Berufliche Entwicklung",
+                "ar": "\u062a\u0646\u0645\u064a\u0629 \u0645\u0647\u0646\u064a\u0629",
                 "en": "Professional Development"
             }
         },
@@ -3836,8 +3993,8 @@
             "image": "",
             "name": "technology",
             "title": {
-                "de": "Technology",
-                "ar": "Technology",
+                "de": "Technologie",
+                "ar": "\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627",
                 "en": "Technology"
             }
         }

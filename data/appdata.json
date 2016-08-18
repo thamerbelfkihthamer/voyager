@@ -22,35 +22,26 @@
             "image": "",
             "name": "space",
             "title": {
-                "de": "Space",
-                "ar": "Space",
-                "en": "Space"
+                "de": "fix-Space",
+                "ar": "fix-Space",
+                "en": "fix-Space"
             }
         },
         {
             "image": "",
             "name": "math_science",
             "title": {
-                "de": "Math and Science",
-                "ar": "Math and Science",
+                "de": "Mathe und Wissenschaft",
+                "ar": "الرياضيات والعلوم",
                 "en": "Math and Science"
-            }
-        },
-        {
-            "image": "",
-            "name": "bci",
-            "title": {
-                "de": "BCI",
-                "ar": "BCI",
-                "en": "BCI"
             }
         },
         {
             "image": "",
             "name": "language",
             "title": {
-                "de": "Language",
-                "ar": "Language",
+                "de": "Sprache",
+                "ar": "لغات",
                 "en": "Language"
             }
         },
@@ -58,9 +49,9 @@
             "image": "",
             "name": "environmental",
             "title": {
-                "de": "Environmental",
-                "ar": "Environmental",
-                "en": "Environmental"
+                "de": "fix-Environmental",
+                "ar": "fix-Environmental",
+                "en": "fix-Environmental"
             }
         },
         {
@@ -68,7 +59,7 @@
             "name": "comics",
             "title": {
                 "de": "Comics",
-                "ar": "Comics",
+                "ar": "رسوم هزلية",
                 "en": "Comics"
             }
         },
@@ -76,26 +67,17 @@
             "image": "",
             "name": "cars",
             "title": {
-                "de": "Cars",
-                "ar": "Cars",
+                "de": "Autos",
+                "ar": "سيارات",
                 "en": "Cars"
-            }
-        },
-        {
-            "image": "",
-            "name": "bci",
-            "title": {
-                "de": "Brain Computer Interface",
-                "ar": "Brain Computer Interface",
-                "en": "Brain Computer Interface"
             }
         },
         {
             "image": "",
             "name": "robotics",
             "title": {
-                "de": "Robotics",
-                "ar": "Robotics",
+                "de": "Robotik",
+                "ar": "روبوتات",
                 "en": "Robotics"
             }
         },
@@ -103,8 +85,8 @@
             "image": "",
             "name": "coding",
             "title": {
-                "de": "Coding",
-                "ar": "Coding",
+                "de": "Programmierung",
+                "ar": "برمجة ",
                 "en": "Coding"
             }
         },
@@ -112,17 +94,17 @@
             "image": "",
             "name": "graphics_design",
             "title": {
-                "de": "Graphic Design",
-                "ar": "Graphic Design",
-                "en": "Graphic Design"
+                "de": "fix-Graphic Design",
+                "ar": "fix-Graphic Design",
+                "en": "fix-Graphic Design"
             }
         },
         {
             "image": "",
             "name": "culinary",
             "title": {
-                "de": "Culinary",
-                "ar": "Culinary",
+                "de": "Kulinarisch",
+                "ar": "الطبخ",
                 "en": "Culinary"
             }
         },
@@ -130,8 +112,8 @@
             "image": "",
             "name": "game_design",
             "title": {
-                "de": "Game Design",
-                "ar": "Game Design",
+                "de": "Spieldesign",
+                "ar": "تصميم ألعاب",
                 "en": "Game Design"
             }
         },
@@ -139,8 +121,8 @@
             "image": "",
             "name": "design_art",
             "title": {
-                "de": "Design and Art",
-                "ar": "Design and Art",
+                "de": "Design und Kunst",
+                "ar": "التصميم والفن",
                 "en": "Design and Art"
             }
         },
@@ -148,8 +130,8 @@
             "image": "",
             "name": "architecture",
             "title": {
-                "de": "Architecture",
-                "ar": "Architecture",
+                "de": "Architektur",
+                "ar": "هندسة معمارية",
                 "en": "Architecture"
             }
         },
@@ -157,8 +139,8 @@
             "image": "",
             "name": "games",
             "title": {
-                "de": "Games",
-                "ar": "Games",
+                "de": "Spiele",
+                "ar": "ألعاب",
                 "en": "Games"
             }
         },
@@ -166,8 +148,8 @@
             "image": "",
             "name": "education",
             "title": {
-                "de": "Education",
-                "ar": "Education",
+                "de": "Ausbildung",
+                "ar": "التعليم",
                 "en": "Education"
             }
         },
@@ -175,8 +157,8 @@
             "image": "",
             "name": "agriculture",
             "title": {
-                "de": "Agriculture",
-                "ar": "Agriculture",
+                "de": "Landwirtschaft",
+                "ar": "زراعة",
                 "en": "Agriculture"
             }
         },
@@ -184,8 +166,8 @@
             "image": "",
             "name": "vocational",
             "title": {
-                "de": "Vocational and Trade Skills",
-                "ar": "Vocational and Trade Skills",
+                "de": "Berufs- und Fachkenntnisse",
+                "ar": "المهارات المهنية والتجارية",
                 "en": "Vocational and Trade Skills"
             }
         },
@@ -193,8 +175,8 @@
             "image": "",
             "name": "professional",
             "title": {
-                "de": "Professional Development",
-                "ar": "Professional Development",
+                "de": "Berufliche Entwicklung",
+                "ar": "تنمية مهنية",
                 "en": "Professional Development"
             }
         },
@@ -202,14 +184,23 @@
             "image": "",
             "name": "technology",
             "title": {
-                "de": "Technology",
-                "ar": "Technology",
+                "de": "Technologie",
+                "ar": "تكنولوجيا",
                 "en": "Technology"
             }
         }
     ],
 
     "orgs": [
+        {
+            "name": "google",
+            "title": {
+                "en": "Google",
+                "de": "Google",
+                "ar": "Google"
+            },
+            "image": ""
+        },
         {
             "name": "unicef",
             "title": {
