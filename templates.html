@@ -39,14 +39,61 @@
 
       <!-- Languages -->
       <div id="languages">
-        <div id="lang_ar" {{#if_eq lang 'ar'}}class="active_lang"{{/if_eq}}>
+        <div id="lang_ar" class="lang {{#if_eq lang 'ar'}}active_lang{{/if_eq}}">
           العربية
         </div>
-        <div id="lang_de" {{#if_eq lang 'de'}}class="active_lang"{{/if_eq}}>
+        <div id="lang_de" class="lang {{#if_eq lang 'de'}}active_lang{{/if_eq}}">
           Deutsche
         </div>
-        <div id="lang_en" {{#if_eq lang 'en'}}class="active_lang"{{/if_eq}}>
+        <div id="lang_en" class="lang {{#if_eq lang 'en'}}active_lang{{/if_eq}}">
           English
+        </div>
+      </div>
+
+      <!-- clear navigation and languages float -->
+      <div style="clear:both"></div>
+    </script>
+
+    <script type="text/x-handlebars-template" id="template_navbar-rtl">
+      <!-- Languages -->
+      <div id="languages-rtl">
+        <div id="lang_en" class="lang {{#if_eq lang 'en'}}active_lang{{/if_eq}}">
+          English
+        </div>
+        <div id="lang_de" class="lang {{#if_eq lang 'de'}}active_lang{{/if_eq}}">
+          Deutsche
+        </div>
+        <div id="lang_ar" class="lang {{#if_eq lang 'ar'}}active_lang{{/if_eq}}">
+          العربية
+        </div>
+      </div>
+
+      <!-- Orgs and categories -->
+      <div id="navigation-rtl">
+        <div id="categories_label" class="nav-label">
+          <span style="pading-right: 4px">{{strings.categories}}</span>
+          <span>
+            <svg width="16" height="16" id="categories_downarrow">
+              <polyline points="4,10 8,14 12,10" stroke-width="2" stroke="#777" stroke-linecap="round" fill="none"/>
+            </svg>
+            <svg width="16" height="16" id="categories_uparrow">
+              <polyline points="4,14 8,10 12,14" stroke-width="2" stroke="#777" stroke-linecap="round" fill="none"/>
+            </svg>
+          </span>
+        </div>
+        <div id="orgs_label" class="nav-label">
+          <span style="padding-right: 4px">{{strings.orgs}}</span>
+          <span>
+            <svg width="16" height="16" id="orgs_downarrow">
+              <polyline points="4,10 8,14 12,10" stroke-width="2" stroke="#777" stroke-linecap="round" fill="none"/>
+            </svg>
+            <svg width="16" height="16" id="orgs_uparrow">
+              <polyline points="4,14 8,10 12,14" stroke-width="2" stroke="#777" stroke-linecap="round" fill="none"/>
+            </svg>
+          </span>
+        </div>
+        <div class="home-label nav-label">
+            &#9660;&nbsp;Voyager
         </div>
       </div>
 

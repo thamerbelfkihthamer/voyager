@@ -33,6 +33,7 @@ var VOYAGER;
                     VOYAGER.showMain(event.data.result);
                     break;
                 case "template_navbar":
+                case "template_navbar-rtl":
                     VOYAGER.showNavbar(event.data.result);
                     break;
                 }
@@ -196,14 +197,14 @@ var VOYAGER;
                 });
             });
 
-            $("#navigation .home-label").on("click", function(e) {
+            $(".home-label").on("click", function(e) {
                 VOYAGER.org = null;
                 VOYAGER.category = null;
                 VOYAGER.refreshUI();
             });
 
             // Language click handler
-            $("#languages div").on("click", function(e) {
+            $(".lang").on("click", function(e) {
                 // Strip off "lang_" prefix from id
                 VOYAGER.setLanguage(e.target.id.substring(5), function() {
                     VOYAGER.refreshUI();
@@ -252,9 +253,19 @@ var VOYAGER;
                 "lang": VOYAGER.language
             };
 
+            var templateName = "template_navbar";
+
+            // Check if we need to render content RTL (right-to-left)
+            if (VOYAGER.language === "ar") {
+                templateName = "template_navbar-rtl";
+                $("html").attr("dir", "rtl");
+            } else {
+                $("html").attr("dir", "ltr");
+            }
+
             var message = {
                 command: "render",
-                templateName: "template_navbar",
+                templateName: templateName,
                 context: context
             };
             VOYAGER.sendMessage(message);

@@ -21,6 +21,11 @@ a {
     margin: 27px 0px 0px 20px;
 }
 
+#navigation-rtl {
+    float: right;
+    margin: 27px 20px 0px 0px;
+}
+
 #navigation .home-label {
   font-size: 1.2em;
   margin-top: 0px;
@@ -50,14 +55,20 @@ a {
   padding: 0px;
 }
 
-#languages div {
+#languages-rtl {
+  float: left;
+  margin: 20px 0px 0px 30px;
+  padding: 0px;
+}
+
+.lang {
   float: left;
   padding: 10px 0px;
   width: 90px;
   text-align: center;
 }
 
-#languages div:hover {
+.lang:hover {
     cursor: pointer;
     color: #333;
 }
