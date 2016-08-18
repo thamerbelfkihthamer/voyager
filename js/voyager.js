@@ -292,9 +292,31 @@ var VOYAGER;
 
         registerVideoLinkHandlers: function() {
             $("body").on("click", ".video-link", function() {
-                $(".video-modal-content").html('<webview class="embedded-video" src="' 
+                var modalContent = $(".video-modal-content");
+                modalContent.append('<span class="close">×</span>');
+                modalContent.append('<webview id="embedded-video" src="'
                     + $(this).attr("data-url") + '"></webview>');
-                $(".video-modal-content").append('<span class="close">×</span>');
+
+                // Display metadata
+                var id = $(this).attr('data-index');
+                modalContent.append($("#card-" + id + " .metadata").clone());
+
+                // Give permissions to embedded webview
+                var webview = document.getElementById('embedded-video');
+                webview.addEventListener('permissionrequest', function(e) {
+                  if ( e.permission === 'fullscreen' ) {
+                    e.request.allow();
+                  } else {
+                    console.log('Denied permission ' + e.permission + ' requested by webview');
+                    e.request.deny();
+                  }
+                });
+                webview.addEventListener('newwindow', function(e) {
+                  e.preventDefault();
+                  window.open(e.targetUrl, "_blank");
+                });
+
+                // Show the modal
                 $(".video-modal").show();
             });
 

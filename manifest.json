@@ -18,6 +18,7 @@
   "permissions": [
     "storage",
     "webview",
+    "fullscreen",
     "<all_urls>"
   ]
 }
