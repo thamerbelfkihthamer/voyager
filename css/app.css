@@ -84,7 +84,8 @@ a {
   width: 100%;
   z-index: 2;
   background-color: white;
-  box-shadow: 0 1px 10px 0px #aaaaaa;
+  box-shadow: 0 7px 10px -4px #aaaaaa;
+  border-top: 1px solid #ccc;
   overflow-x: scroll;
   white-space: nowrap;
 }
@@ -103,7 +104,7 @@ a {
   top: 0px;
   height: 80px;
   width: 100%;
-  box-shadow: 0 1px 10px 0px #aaaaaa;
+  box-shadow: 0 7px 10px -4px #aaaaaa;
   z-index: 3;
   background-color: white;
 }
@@ -113,6 +114,10 @@ a {
   z-index: 1;
   width: 930px;
   margin: 0 auto;
+}
+
+.category-title {
+  font-size: 12pt;
 }
 
 .card {
@@ -136,8 +141,8 @@ a {
 }
 
 .metadata .logo-container {
-  width: 50px;
-  min-height: 65px;
+  width: 40px;
+  min-height: 54px;
   float: left;
   margin-right: 15px;
 }
@@ -152,21 +157,23 @@ a {
 }
 
 .metadata .title {
-  font-size: 20px;
+  font-size: 12pt;
   display: inline;
 }
 
 .metadata .title a {
   text-decoration: none;
   font-weight: normal;
-  color: #333;
+  color: #555;
   cursor: pointer;
 }
 
 .metadata .author {
   font-weight: 100;
   color: #82A8E3;
-  font-size: 16px;
+  font-size: 10pt;
+  text-transform: uppercase;
+  margin-bottom: 3px;
 }
 
 .video-modal {
@@ -179,7 +186,7 @@ a {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,0.8);
 }
 
 .video-modal-content {

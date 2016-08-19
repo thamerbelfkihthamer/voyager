@@ -98,13 +98,8 @@ var VOYAGER;
         refreshUI: function() {
             var context = {
                 "lang": VOYAGER.language,
-
-                "orgs": VOYAGER.orgs,
-                "categories": VOYAGER.categories,
-
                 "org": VOYAGER.org,
                 "category": VOYAGER.category,
-
                 "content": VOYAGER.getContent()
             };
 
@@ -210,10 +205,6 @@ var VOYAGER;
                     VOYAGER.refreshUI();
                 });
             });
-        },
-
-        showMain: function(rendered) {
-            $("#content").html(rendered);
 
             // Organization drawer click handler
             $(".org").on("click", function(e) {
@@ -232,6 +223,10 @@ var VOYAGER;
                     VOYAGER.refreshUI();
                 });
             });
+        },
+
+        showMain: function(rendered) {
+            $("#content").html(rendered);
 
             // Load all the images
             $("img.load-image").each(function() {
@@ -250,7 +245,9 @@ var VOYAGER;
 
             var context = {
                 "strings": VOYAGER.strings[VOYAGER.language],
-                "lang": VOYAGER.language
+                "lang": VOYAGER.language,
+                "orgs": VOYAGER.orgs,
+                "categories": VOYAGER.categories,
             };
 
             var templateName = "template_navbar";
