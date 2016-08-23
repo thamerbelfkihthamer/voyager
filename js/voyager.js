@@ -94,7 +94,31 @@ var VOYAGER;
             // parameters
             var filteredContent = [];
             if (VOYAGER.language === undefined || VOYAGER.language === null) {
-                VOYAGER.language == "en";
+                VOYAGER.language = "en";
+            }
+
+            if (VOYAGER.category === undefined || VOYAGER.category === null) {
+                VOYAGER.category = {
+                    "image": "",
+                    "name": "math_science",
+                    "title": {
+                        "de": "Mathe und Wissenschaft",
+                        "ar": "الرياضيات والعلوم",
+                        "en": "Math and Science"
+                    }
+                };
+            }
+
+            if (VOYAGER.org === undefined || VOYAGER.org === null) {
+                VOYAGER.org = {
+                    "name": "google",
+                      "title": {
+                          "en": "Google",
+                          "de": "Google",
+                          "ar": "Google"
+                    },
+                    "image": ""
+                };
             }
 
             if (VOYAGER.category != null && VOYAGER.org != null) {
