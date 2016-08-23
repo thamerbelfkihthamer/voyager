@@ -131,9 +131,13 @@
       <!-- Organizations -->
       <div id="orgs_drawer" class="drawer">
         {{#each orgs}}
-        <div id="org_{{this.name}}" class="org">
-          <img src="{{this.image}}">
-          {{lookup this.title ../lang}}
+        <div class="org" id="org_{{this.name}}">
+          <div class="box" id="org_box_{{this.name}}">
+            <div class="boxInner" id="org_boxinner_{{this.name}}">
+              <img src="{{this.image}}" id="org_image_{{this.name}}">
+              <div class="titleBox" id="org_titlebox_{{this.name}}">{{lookup this.title ../lang}}</div>
+            </div>
+          </div>
         </div>
         {{/each}}
       </div>
@@ -141,9 +145,13 @@
       <!-- Categories -->
       <div id="categories_drawer" class="drawer">
         {{#each categories}}
-        <div id="category_{{this.name}}" class="category">
-          <img src="{{this.image}}">
-          {{lookup this.title ../lang}}
+        <div class="category" id="category_{{this.name}}">
+          <div class="box" id="category_box_{{this.name}}">
+            <div class="boxInner" id="category_boxinner_{{this.name}}">
+              <img src="{{this.image}}" id="category_image_{{this.name}}">
+              <div class="titleBox" id="category_titlebox_{{this.name}}">{{lookup this.title ../lang}}</div>
+            </div>
+          </div>
         </div>
         {{/each}}
       </div>
