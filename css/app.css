@@ -211,3 +211,36 @@ a {
   z-index: 11;
 }
 
+.box {
+   float: left;
+   position: relative;
+   width: 25%;
+   padding-bottom: 20%;
+}
+
+.boxInner {
+   position: absolute;
+   left: 0px;
+   right: 0px;
+   top: 0x;
+   bottom: 0px;
+   overflow: hidden;
+}
+
+.boxInner img {
+   width: 100%;
+}
+
+.boxInner .titleBox {
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   margin-bottom: -50px;
+   background: #000;
+   background: rgba(0, 0, 0, 0.5);
+   color: #FFF;
+   padding: 8px;
+   text-align: center;
+   word-wrap: break-word;
+}

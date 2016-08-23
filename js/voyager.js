@@ -225,7 +225,8 @@ var VOYAGER;
             // Organization drawer click handler
             $(".org").on("click", function(e) {
                 // Strip off "org_" prefix from id
-                VOYAGER.org = VOYAGER.orgsObj[e.target.id.substring(4)];
+                var org = e.target.id.split("_");
+                VOYAGER.org = VOYAGER.orgsObj[org[org.length - 1]];
                 VOYAGER.hideOrgsDrawer(function() {
                     VOYAGER.refreshUI();
                 });
@@ -234,7 +235,8 @@ var VOYAGER;
             // Category drawer click handler
             $(".category").on("click", function(e) {
                 // Strip off "category_" prefix from id
-                VOYAGER.category = VOYAGER.categoriesObj[e.target.id.substring(9)];
+                var category = e.target.id.split("_");
+                VOYAGER.category = VOYAGER.categoriesObj[category[category.length - 1]];
                 VOYAGER.hideCategoriesDrawer(function() {
                     VOYAGER.refreshUI();
                 });
