@@ -1,10 +1,11 @@
 {
     "content": [
         {
-            "url": "https://www.youtube.com/watch?v=ziS7yYFT6jc",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=ziS7yYFT6jc",
+            "author_url": "https://www.youtube.com/channel/UCbkgVbr0uV_FOEzFKNIRkIA",
             "title": {
-                "de": "17-Year-Old Kenyan Creates Energy From Human Waste",
+                "de": "17-j\u00e4hrige Kenianer erzeugt Energie von Human Waste*",
                 "ar": "17-Year-Old Kenyan Creates Energy From Human Waste",
                 "en": "17-Year-Old Kenyan Creates Energy From Human Waste"
             },
@@ -24,10 +25,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=700gYRkhkLM",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=700gYRkhkLM",
+            "author_url": "https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg",
             "title": {
-                "de": "GinLemon - Breaking through with Google Play",
+                "de": "GinLemon - durchbrechen mit Google Play*",
                 "ar": "GinLemon - Breaking through with Google Play",
                 "en": "GinLemon - Breaking through with Google Play"
             },
@@ -38,7 +40,7 @@
             },
             "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:08",
-            "author": "Android Developer Story",
+            "author": "Android Developers Story",
             "type": "video",
             "categories": [
                 "coding",
@@ -47,10 +49,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=6mS2zgC_dh0",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=6mS2zgC_dh0",
+            "author_url": "https://borrow.kiva.org/borrow",
             "title": {
-                "de": "A Story of Hope from the Philippines",
+                "de": "GinLemon - durchbrechen mit Google Play*",
                 "ar": "\u0642\u0635\u0629 \u0623\u0645\u0644 \u0645\u0646 \u0627\u0644\u0641\u0644\u0628\u064a\u0646",
                 "en": "A Story of Hope from the Philippines"
             },
@@ -63,15 +66,14 @@
             "duration": "2:11",
             "author": "Kiva",
             "type": "video",
-            "categories": [
-                "vocational"
-            ]
+            "categories": []
         },
         {
-            "url": "https://www.youtube.com/watch?v=bqZw1MqISvM",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=bqZw1MqISvM",
+            "author_url": "https://www.youtube.com/channel/UCbkgVbr0uV_FOEzFKNIRkIA",
             "title": {
-                "de": "Harvesting Water From the Sky in Arid Peru",
+                "de": "Ernten vom Himmel Wasser in Trocken Peru*",
                 "ar": "\u062d\u0635\u0627\u062f \u0627\u0644\u0645\u064a\u0627\u0647 \u0645\u0646 \u0627\u0644\u0633\u0645\u0627\u0621 \u0641\u064a \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u062c\u0627\u0641\u0629 \u0641\u064a \u0628\u064a\u0631\u0648",
                 "en": "Harvesting Water From the Sky in Arid Peru"
             },
@@ -86,15 +88,15 @@
             "type": "video",
             "categories": [
                 "design_art",
-                "math_science",
-                "vocational"
+                "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=ob4fLTBj9ww",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=ob4fLTBj9ww",
+            "author_url": "https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg",
             "title": {
-                "de": "Culture Alley reaches millions of English learners on Google Play",
+                "de": "Kultur Gasse erreicht Millionen von Englisch Lernenden auf Google Play*",
                 "ar": "Culture Alley reaches millions of English learners on Google Play",
                 "en": "Culture Alley reaches millions of English learners on Google Play"
             },
@@ -115,8 +117,9 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Idu7VcTTXfk",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Idu7VcTTXfk",
+            "author_url": "https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg",
             "title": {
                 "de": "Quizlet",
                 "ar": "Quizlet",
@@ -129,21 +132,20 @@
             },
             "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "1:59",
-            "author": "Android Developer",
+            "author": "Android Developers",
             "type": "video",
             "categories": [
                 "coding",
                 "technology",
                 "language",
-                "professional",
                 "design_art",
-                "math_science",
-                "vocational"
+                "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=RRelFvc6Czo",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=RRelFvc6Czo",
+            "author_url": "https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg",
             "title": {
                 "de": "Smule",
                 "ar": "Smule",
@@ -156,7 +158,7 @@
             },
             "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:44",
-            "author": "Android Developer",
+            "author": "Android Developers",
             "type": "video",
             "categories": [
                 "coding",
@@ -164,10 +166,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=nWKiNRgKZv8",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=nWKiNRgKZv8",
+            "author_url": "https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg",
             "title": {
-                "de": "MusiXmatch drives user engagement through innovation",
+                "de": "MusiXmatch treibt Benutzer Engagement durch Innovation*",
                 "ar": "MusiXmatch drives user engagement through innovation",
                 "en": "MusiXmatch drives user engagement through innovation"
             },
@@ -178,7 +181,7 @@
             },
             "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "2:51",
-            "author": "Android Developer",
+            "author": "Android Developers",
             "type": "video",
             "categories": [
                 "coding",
@@ -188,10 +191,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=GvgqDSnpRQM",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=GvgqDSnpRQM",
+            "author_url": "https://www.youtube.com/channel/UCvceBgMIpKb4zK1ss-Sh90w",
             "title": {
-                "de": "Andrew Willis, Skatepark Engineer",
+                "de": "Andrew Willis, Skatepark -Ingenieur",
                 "ar": "Andrew Willis, Skatepark Engineer",
                 "en": "Andrew Willis, Skatepark Engineer"
             },
@@ -206,15 +210,15 @@
             "type": "video",
             "categories": [
                 "technology",
-                "design_art",
-                "vocational"
+                "design_art"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=RQbmXxU2dkg&index=7&list=PLBCF2DAC6FFB574DE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=RQbmXxU2dkg&index=7&list=PLBCF2DAC6FFB574DE",
+            "author_url": "https://www.youtube.com/channel/UCvceBgMIpKb4zK1ss-Sh90w",
             "title": {
-                "de": "Mitch Dobrowner: Epic Storms",
+                "de": "Mitch Dobrowner: Epische Storms*",
                 "ar": "Mitch Dobrowner: Epic Storms",
                 "en": "Mitch Dobrowner: Epic Storms"
             },
@@ -235,10 +239,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=aMm3Qupo98U",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=aMm3Qupo98U",
+            "author_url": "https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA",
             "title": {
-                "de": "Google+: Ghetto Film School's MasterClass",
+                "de": "Google+: Ghetto Film School der Meister*",
                 "ar": "Google+: Ghetto Film School's MasterClass",
                 "en": "Google+: Ghetto Film School's MasterClass"
             },
@@ -253,15 +258,15 @@
             "type": "video",
             "categories": [
                 "technology",
-                "design_art",
-                "vocational"
+                "design_art"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=JwLud5QpfRs",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=JwLud5QpfRs",
+            "author_url": "https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA",
             "title": {
-                "de": "Google+: Catlin Seaview Survey Underwater Hangouts On Air",
+                "de": "Google+: Catlin Seaview Umfrage Unterwasser -Hangouts On Air*",
                 "ar": "Google+: Catlin Seaview Survey Underwater Hangouts On Air",
                 "en": "Google+: Catlin Seaview Survey Underwater Hangouts On Air"
             },
@@ -281,10 +286,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=mlYJdZeA9w4",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=mlYJdZeA9w4",
+            "author_url": "https://www.youtube.com/channel/UCt84aUC9OG6di8kSdKzEHTQ",
             "title": {
-                "de": "Expeditions: Take your students to places a school bus can't",
+                "de": "Expeditions: Nehmen Sie Ihre Studenten ein Schulbus an Orte nicht*",
                 "ar": "Expeditions: Take your students to places a school bus can't",
                 "en": "Expeditions: Take your students to places a school bus can't"
             },
@@ -299,16 +305,15 @@
             "type": "video",
             "categories": [
                 "technology",
-                "professional",
-                "design_art",
-                "vocational"
+                "design_art"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=CMdHDHEuOUE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=CMdHDHEuOUE",
+            "author_url": "https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA",
             "title": {
-                "de": "Google and NASA's Quantum Artificial Intelligence Lab",
+                "de": "Google und Quantum Artificial Intelligence Lab der NASA*",
                 "ar": "Google and NASA's Quantum Artificial Intelligence Lab",
                 "en": "Google and NASA's Quantum Artificial Intelligence Lab"
             },
@@ -327,10 +332,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=w6071faJFuI",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=w6071faJFuI",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
-                "de": "Erica Kochi, UNICEF's Innovation Unit",
+                "de": "Erica Kochi, UNICEF Referat Innovation*",
                 "ar": "Erica Kochi, UNICEF's Innovation Unit",
                 "en": "Erica Kochi, UNICEF's Innovation Unit"
             },
@@ -351,10 +357,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=lENoMZZ4mpU",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=lENoMZZ4mpU",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
-                "de": "Robin Hunicke, Video Game Designer",
+                "de": "Robin H\u00fcnicke, Videospiel -Designer*",
                 "ar": "Robin Hunicke,  \u0645\u0635\u0645\u0645 \u0623\u0644\u0639\u0627\u0628 \u0641\u064a\u062f\u064a\u0648",
                 "en": "Robin Hunicke, Video Game Designer"
             },
@@ -375,10 +382,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=0wxGVztsmjg",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=0wxGVztsmjg",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
-                "de": "Maddy Maxey, Fashion and Wearable Technology",
+                "de": "Maddy Maxey, Mode und Wearable -Technologie*",
                 "ar": "Maddy Maxey, Fashion and Wearable Technology",
                 "en": "Maddy Maxey, Fashion and Wearable Technology"
             },
@@ -398,8 +406,9 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=fYHUI2DTvjc",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=fYHUI2DTvjc",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
                 "de": "Danielle Feinberg, Pixar Animation Studios",
                 "ar": "Danielle Feinberg, Pixar Animation Studios",
@@ -422,8 +431,9 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=xlaFbTPVJow",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=xlaFbTPVJow",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
                 "de": "Isis Anchalee, #ilooklikeanengineer",
                 "ar": "Isis Anchalee, #ilooklikeanengineer",
@@ -446,8 +456,9 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=w94zxnFQsK4",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=w94zxnFQsK4",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
                 "de": "Fran Kalal, Pixar Animation Studios",
                 "ar": "Fran Kalal, Pixar Animation Studios",
@@ -470,10 +481,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=tXPxfegQswg",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=tXPxfegQswg",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
-                "de": "Ayah Bdeir, littleBits Founder & CEO",
+                "de": "Ayah Bdeir, littleBits Gr\u00fcnder & CEO*",
                 "ar": "Ayah Bdeir, littleBits Founder & CEO",
                 "en": "Ayah Bdeir, littleBits Founder & CEO"
             },
@@ -493,10 +505,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Eg5GaAWGV2A",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Eg5GaAWGV2A",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
-                "de": "Dressed in Code: Fashion Meets Tech - How the LED Dress Came to Life",
+                "de": "Gekleidet in Code: Art und Weise trifft Tech - Wie die LED-Kleid kam zum Leben*",
                 "ar": "Dressed in Code: Fashion Meets Tech - How the LED Dress Came to Life",
                 "en": "Dressed in Code: Fashion Meets Tech - How the LED Dress Came to Life"
             },
@@ -517,8 +530,9 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Ttm_U8Zm5Mo",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Ttm_U8Zm5Mo",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
                 "de": "Mentors and Makers",
                 "ar": "Mentors and Makers",
@@ -541,10 +555,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=-wyPV7hyOfU",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=-wyPV7hyOfU",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
-                "de": "Brittany Wenger, Student Fighting Cancer",
+                "de": "Brittany Wenger, Studenten Kampf gegen den Krebs*",
                 "ar": "Brittany Wenger, Student Fighting Cancer",
                 "en": "Brittany Wenger, Student Fighting Cancer"
             },
@@ -565,10 +580,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Xg1dUhVI9i0",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Xg1dUhVI9i0",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
-                "de": "Miral Kotb, Founder of iLuminate",
+                "de": "Miral Kotb, Gr\u00fcnder von iLuminate*",
                 "ar": "Miral Kotb, Founder of iLuminate",
                 "en": "Miral Kotb, Founder of iLuminate"
             },
@@ -589,8 +605,9 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=QBGqpdO2oEc",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=QBGqpdO2oEc",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
                 "de": "EPA Chica Squad, Mobile App Developers",
                 "ar": "EPA Chica Squad, Mobile App Developers",
@@ -613,10 +630,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=2Viy2UFyb7U",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=2Viy2UFyb7U",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
-                "de": "Tesca Fitzgerald, PhD Student, Cognitive Science and Human-Robot Interaction",
+                "de": "Tesca Fitzgerald, Doktorand, Kognitionswissenschaft und Mensch-Roboter-Interaktion*",
                 "ar": "Tesca Fitzgerald, PhD Student, Cognitive Science and Human-Robot Interaction",
                 "en": "Tesca Fitzgerald, PhD Student, Cognitive Science and Human-Robot Interaction"
             },
@@ -637,10 +655,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=IOdkfOhUtjs",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=IOdkfOhUtjs",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
-                "de": "Ebony \u201cWondagurl\u201d Oshunrinde, Music Producer",
+                "de": "Ebony \"Wondagurl\" Oshunrinde, Musikproduzent*",
                 "ar": "Ebony \u201cWondagurl\u201d Oshunrinde, Music Producer",
                 "en": "Ebony \u201cWondagurl\u201d Oshunrinde, Music Producer"
             },
@@ -661,10 +680,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=lHC10q_a7Nc",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=lHC10q_a7Nc",
+            "author_url": "https://www.madewithcode.com/",
             "title": {
-                "de": "Limor Fried, Founder of Adafruit",
+                "de": "Limor Fried, Gr\u00fcnder von Adafruit*",
                 "ar": "Limor Fried, Founder of Adafruit",
                 "en": "Limor Fried, Founder of Adafruit"
             },
@@ -680,15 +700,15 @@
             "categories": [
                 "coding",
                 "technology",
-                "design_art",
-                "vocational"
+                "design_art"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=zQqkscN2u1c",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=zQqkscN2u1c",
+            "author_url": "https://www.youtube.com/channel/UCt84aUC9OG6di8kSdKzEHTQ",
             "title": {
-                "de": "Education on Air- Student Voices: \"What do you want to be in the future?\"",
+                "de": "Bildung auf Air- Studenten Stimmen: \"Was tun Sie in Zukunft sein wollen\"*",
                 "ar": "Education on Air- Student Voices: \"What do you want to be in the future?\"",
                 "en": "Education on Air- Student Voices: \"What do you want to be in the future?\""
             },
@@ -705,17 +725,16 @@
                 "coding",
                 "technology",
                 "language",
-                "professional",
                 "design_art",
-                "math_science",
-                "vocational"
+                "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=9ePRa5nahYI",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=9ePRa5nahYI",
+            "author_url": "https://www.youtube.com/channel/UCt84aUC9OG6di8kSdKzEHTQ",
             "title": {
-                "de": "CT at Google: Facilitating Software and Game Development though Abstraction",
+                "de": "CT bei Google: Erleichterung Software und Spieleentwicklung durch Abstraktion*",
                 "ar": "CT at Google: Facilitating Software and Game Development though Abstraction",
                 "en": "CT at Google: Facilitating Software and Game Development though Abstraction"
             },
@@ -736,10 +755,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=EZg-BY0FUwY",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=EZg-BY0FUwY",
+            "author_url": "https://www.youtube.com/channel/UCt84aUC9OG6di8kSdKzEHTQ",
             "title": {
-                "de": "Education on Air- Keynote from Brittany Wenger: \"Student curiosity can help save lives\"",
+                "de": "Bildung auf Air- Keynote von Brittany Wenger: \"Student Neugier kann helfen, Leben zu retten\"*",
                 "ar": "Education on Air- Keynote from Brittany Wenger: \"Student curiosity can help save lives\"",
                 "en": "Education on Air- Keynote from Brittany Wenger: \"Student curiosity can help save lives\""
             },
@@ -759,10 +779,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=wj1JPFD1SdA",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=wj1JPFD1SdA",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "What will you make better?",
+                "de": "Was werden Sie besser machen?*",
                 "ar": "\u0645\u0627\u0630\u0627 \u0633\u062a\u0641\u0639\u0644 \u0623\u0641\u0636\u0644\u061f",
                 "en": "What will you make better?"
             },
@@ -783,10 +804,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=BMR-oMpCbjo",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=BMR-oMpCbjo",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "Can we make plastic from banana skins? | Elif Bilgin",
+                "de": "K\u00f6nnen wir Kunststoff aus Bananenschalen zu machen? | Elif Bilgin*",
                 "ar": "\u0647\u0644 \u064a\u0645\u0643\u0646 \u0623\u0646 \u0646\u0635\u0646\u0639 \u0628\u0644\u0627\u0633\u062a\u064a\u0643 \u0645\u0646 \u062c\u0644\u0648\u062f \u0627\u0644\u0645\u0648\u0632\u061f | \u0627\u0644\u064a\u0641 \u0628\u0644\u062c\u064a\u0646",
                 "en": "Can we make plastic from banana skins? | Elif Bilgin"
             },
@@ -805,10 +827,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=yrnNmzSSn0w",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=yrnNmzSSn0w",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "Can I power a flashlight without batteries? | Ann Makosinski",
+                "de": "Kann ich eine Taschenlampe ohne Batterien betreiben? | Ann Makosinski*",
                 "ar": "\u0647\u0644 \u064a\u0645\u0643\u0646\u0646\u064a \u062a\u0634\u063a\u064a\u0644 \u0645\u0635\u0628\u0627\u062d \u064a\u062f\u0648\u064a \u0628\u062f\u0648\u0646 \u0628\u0637\u0627\u0631\u064a\u0627\u062a\u061f | \u0622\u0646 \u0645\u0627\u0643\u0648\u0633\u0646\u0633\u0643\u064a",
                 "en": "Can I power a flashlight without batteries? | Ann Makosinski"
             },
@@ -828,10 +851,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=AT_YuItMqBg",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=AT_YuItMqBg",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "Can we stop ambulances getting stuck in traffic? | Viney Kumar",
+                "de": "K\u00f6nnen wir Krankenwagen oder im Verkehr stecken zu bleiben? | Viney Kumar*",
                 "ar": "Can we stop ambulances getting stuck in traffic? | Viney Kumar",
                 "en": "Can we stop ambulances getting stuck in traffic? | Viney Kumar"
             },
@@ -851,10 +875,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=oZbeGcrOk74",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=oZbeGcrOk74",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "Virgin Galactic Pioneer Award - Pranav Sivakumar - Google Science Fair 2015",
+                "de": "Virgin Galactic Pioneer Award - Pranav Sivakumar - Google Science Fair 2015*",
                 "ar": "Virgin Galactic Pioneer Award - Pranav Sivakumar - Google Science Fair 2015",
                 "en": "Virgin Galactic Pioneer Award - Pranav Sivakumar - Google Science Fair 2015"
             },
@@ -872,10 +897,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=C-pnYJXs5CU",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=C-pnYJXs5CU",
+            "author_url": "https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw",
             "title": {
-                "de": "The Developer Show (Android Experiments)",
+                "de": "Die Entwickler Show (Android Experiments)*",
                 "ar": "The Developer Show (Android Experiments)",
                 "en": "The Developer Show (Android Experiments)"
             },
@@ -896,10 +922,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=cQzien5H2Do",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=cQzien5H2Do",
+            "author_url": "https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA",
             "title": {
-                "de": "Material Design Motion",
+                "de": "Material Design Bewegung*",
                 "ar": "Material Design Motion",
                 "en": "Material Design Motion"
             },
@@ -918,10 +945,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=BUzUoc2ZOIo",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=BUzUoc2ZOIo",
+            "author_url": "https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA",
             "title": {
-                "de": "Making Material Design: Smart Paper",
+                "de": "Herstellung Material Design: Intelligente Papier*",
                 "ar": "Making Material Design: Smart Paper",
                 "en": "Making Material Design: Smart Paper"
             },
@@ -940,10 +968,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Y0UEGsvcYvk",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Y0UEGsvcYvk",
+            "author_url": "https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA",
             "title": {
-                "de": "Making Material Design: Crafting Material",
+                "de": "Herstellung Material Design: Crafting-Material*",
                 "ar": "Making Material Design: Crafting Material",
                 "en": "Making Material Design: Crafting Material"
             },
@@ -962,10 +991,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=rrT6v5sOwJg",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=rrT6v5sOwJg",
+            "author_url": "https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA",
             "title": {
-                "de": "Making Material Design",
+                "de": "Herstellung Material Design*",
                 "ar": "Making Material Design",
                 "en": "Making Material Design"
             },
@@ -984,10 +1014,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=137XnWlUTKY",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=137XnWlUTKY",
+            "author_url": "https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw",
             "title": {
-                "de": "Google Design Minutes \u2014 Design sprints at scale",
+                "de": "Google Design-Minutes - Design-Sprints im Ma\u00dfstab*",
                 "ar": "Google Design Minutes \u2014 Design sprints at scale",
                 "en": "Google Design Minutes \u2014 Design sprints at scale"
             },
@@ -1006,10 +1037,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=UXEvZ8B04bE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=UXEvZ8B04bE",
+            "author_url": "https://www.youtube.com/channel/UCnIQPPwWpO_EFEqLny6TFTw",
             "title": {
-                "de": "Saroo Brierley: Homeward Bound",
+                "de": "Saroo Brierley: Zur\u00fcck nach Hause*",
                 "ar": "Saroo Brierley: Homeward Bound",
                 "en": "Saroo Brierley: Homeward Bound"
             },
@@ -1027,10 +1059,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=lyscJbdBREE&list=PLw83Po3C1UpzYrVkD6Kc316srweuwCkPF",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=lyscJbdBREE&list=PLw83Po3C1UpzYrVkD6Kc316srweuwCkPF",
+            "author_url": "https://www.google.com/culturalinstitute/beta/",
             "title": {
-                "de": "The story and demo of Cardboard",
+                "de": "Die Geschichte und Demo von Pappe*",
                 "ar": "The story and demo of Cardboard",
                 "en": "The story and demo of Cardboard"
             },
@@ -1049,10 +1082,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=b47UZi6uaqo",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=b47UZi6uaqo",
+            "author_url": "https://www.youtube.com/channel/UCBmwzQnSoj9b6HzNmFrg_yw",
             "title": {
-                "de": "Colossal Media has gone Google",
+                "de": "Colossal Medien gegangen ist Google*",
                 "ar": "Colossal Media has gone Google",
                 "en": "Colossal Media has gone Google"
             },
@@ -1071,10 +1105,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=OyYtIdKe8nc",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=OyYtIdKe8nc",
+            "author_url": "https://www.youtube.com/channel/UCbkgVbr0uV_FOEzFKNIRkIA",
             "title": {
-                "de": "The Bicycle Machines of Guatemala",
+                "de": "Die Fahrrad-Maschinen von Guatemala*",
                 "ar": "The Bicycle Machines of Guatemala",
                 "en": "The Bicycle Machines of Guatemala"
             },
@@ -1089,15 +1124,15 @@
             "type": "video",
             "categories": [
                 "design_art",
-                "math_science",
-                "vocational"
+                "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=E295Vsf7awQ",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=E295Vsf7awQ",
+            "author_url": "https://www.youtube.com/channel/UCbkgVbr0uV_FOEzFKNIRkIA",
             "title": {
-                "de": "Hacking Hydro Power on a Remote Scottish Island",
+                "de": "Hacking Hydro Power auf einem Remote-schottischen Insel*",
                 "ar": "Hacking Hydro Power on a Remote Scottish Island",
                 "en": "Hacking Hydro Power on a Remote Scottish Island"
             },
@@ -1112,15 +1147,15 @@
             "type": "video",
             "categories": [
                 "technology",
-                "math_science",
-                "vocational"
+                "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=DKFLLTecSJo",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=DKFLLTecSJo",
+            "author_url": "https://www.youtube.com/channel/UCbkgVbr0uV_FOEzFKNIRkIA",
             "title": {
-                "de": "A Water Clock System That Can Revolutionize Solar Power",
+                "de": "A Water Clock System, das Sonnenenergie revolutionieren*",
                 "ar": "A Water Clock System That Can Revolutionize Solar Power",
                 "en": "A Water Clock System That Can Revolutionize Solar Power"
             },
@@ -1140,10 +1175,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=k1ja6XAfrZI",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=k1ja6XAfrZI",
+            "author_url": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw",
             "title": {
-                "de": "What Color Is The Moon?",
+                "de": "Welche Farbe hat der Mond?*",
                 "ar": "\u0645\u0627 \u0647\u0648 \u0644\u0648\u0646 \u0627\u0644\u0642\u0645\u0631\u061f",
                 "en": "What Color Is The Moon?"
             },
@@ -1161,10 +1197,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Jd9328AW64g",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Jd9328AW64g",
+            "author_url": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw",
             "title": {
-                "de": "What Are The Most Important Science Images Ever?",
+                "de": "Was sind die wichtigsten \u00fcberhaupt Wissenschaft Images?*",
                 "ar": "What Are The Most Important Science Images Ever?",
                 "en": "What Are The Most Important Science Images Ever?"
             },
@@ -1182,10 +1219,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=3mufsteNrTI",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=3mufsteNrTI",
+            "author_url": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw",
             "title": {
-                "de": "Why Do We Have To Sleep?",
+                "de": "Warum Haben wir schlafen?*",
                 "ar": "\u0644\u0645\u0627\u0630\u0627 \u0639\u0644\u064a\u0646\u0627 \u0623\u0646 \u0646\u0646\u0627\u0645\u061f",
                 "en": "Why Do We Have To Sleep?"
             },
@@ -1203,10 +1241,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=ZVTbolyobcE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=ZVTbolyobcE",
+            "author_url": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw",
             "title": {
-                "de": "The Science and Beauty of Auroras",
+                "de": "Die Wissenschaft und Sch\u00f6nheit von Auroras*",
                 "ar": "The Science and Beauty of Auroras",
                 "en": "The Science and Beauty of Auroras"
             },
@@ -1224,10 +1263,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=ytwIzy3XuGg&index=61&list=PLsmqeqKj7M-pINcPqJd8d1eRKlqm6QVjA",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=ytwIzy3XuGg&index=61&list=PLsmqeqKj7M-pINcPqJd8d1eRKlqm6QVjA",
+            "author_url": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw",
             "title": {
-                "de": "The Essentials of Energy",
+                "de": "Die Grundlagen der Energie*",
                 "ar": "\u0623\u0633\u0627\u0633\u064a\u0627\u062a \u0627\u0644\u0637\u0627\u0642\u0629",
                 "en": "The Essentials of Energy"
             },
@@ -1245,10 +1285,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=ZFOuxAx-dkc&index=94&list=PLsmqeqKj7M-pINcPqJd8d1eRKlqm6QVjA",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=ZFOuxAx-dkc&index=94&list=PLsmqeqKj7M-pINcPqJd8d1eRKlqm6QVjA",
+            "author_url": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw",
             "title": {
-                "de": "The Physics of Space Battles",
+                "de": "Die Physik der Space Battles*",
                 "ar": "The Physics of Space Battles",
                 "en": "The Physics of Space Battles"
             },
@@ -1266,10 +1307,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=oBcHf_eeYt4",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=oBcHf_eeYt4",
+            "author_url": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw",
             "title": {
-                "de": "100,000,000 Years From Now",
+                "de": "100 Millionen Jahre ab jetzt*",
                 "ar": "\u0661\u0660\u0660\u0660\u0660\u0660\u0660\u0660\u0660 \u0633\u0646\u0629 \u0645\u0646 \u0627\u0644\u0622\u0646",
                 "en": "100,000,000 Years From Now"
             },
@@ -1287,10 +1329,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=jxstE6A_CYQ",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=jxstE6A_CYQ",
+            "author_url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
             "title": {
-                "de": "Simple Harmonic Motion: Crash Course Physics #16",
+                "de": "Einfache harmonische Bewegung: Crashkurs Physik #16*",
                 "ar": "Simple Harmonic Motion: Crash Course Physics #16",
                 "en": "Simple Harmonic Motion: Crash Course Physics #16"
             },
@@ -1308,10 +1351,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=fJefjG3xhW0",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=fJefjG3xhW0",
+            "author_url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
             "title": {
-                "de": "Fluids in Motion: Crash Course Physics #15",
+                "de": "Fl\u00fcssigkeiten in Bewegung: Crashkurs Physik #15*",
                 "ar": "Fluids in Motion: Crash Course Physics #15",
                 "en": "Fluids in Motion: Crash Course Physics #15"
             },
@@ -1329,10 +1373,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Y-QOfc2XqOk",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Y-QOfc2XqOk",
+            "author_url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
             "title": {
-                "de": "Collisions: Crash Course Physics #10",
+                "de": "Collisions: Crashkurs Physik #10*",
                 "ar": "Collisions: Crash Course Physics #10",
                 "en": "Collisions: Crash Course Physics #10"
             },
@@ -1350,10 +1395,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=w4QFJb9a8vo",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=w4QFJb9a8vo",
+            "author_url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
             "title": {
-                "de": "Work, Energy, and Power: Crash Course Physics #9",
+                "de": "Arbeit, Energie und Leistung: Crashkurs Physik #9*",
                 "ar": "Work, Energy, and Power: Crash Course Physics #9",
                 "en": "Work, Energy, and Power: Crash Course Physics #9"
             },
@@ -1371,10 +1417,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=w3BhzYI6zXU",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=w3BhzYI6zXU",
+            "author_url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
             "title": {
-                "de": "Vectors and 2D Motion: Crash Course Physics #4",
+                "de": "Vektoren und 2D Motion: Crashkurs Physik #4*",
                 "ar": "Vectors and 2D Motion: Crash Course Physics #4",
                 "en": "Vectors and 2D Motion: Crash Course Physics #4"
             },
@@ -1392,10 +1439,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=TfYCnOvNnFU&index=17&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=TfYCnOvNnFU&index=17&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV",
+            "author_url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
             "title": {
-                "de": "Traveling Waves: Crash Course Physics #17",
+                "de": "Reisen Waves: Crashkurs Physik #17*",
                 "ar": "Traveling Waves: Crash Course Physics #17",
                 "en": "Traveling Waves: Crash Course Physics #17"
             },
@@ -1413,10 +1461,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=juI7ZJxa9tY&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=8",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=juI7ZJxa9tY&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=8",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Strength",
+                "de": "Die meisten Extreme - St\u00e4rke*",
                 "ar": "The Most Extreme - Strength",
                 "en": "The Most Extreme - Strength"
             },
@@ -1434,12 +1483,13 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=aLuSi_6Ol8M&index=46&list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=aLuSi_6Ol8M&index=46&list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr",
+            "author_url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
             "title": {
-                "de": "The Global Carbon Cycle - Crash Course Chemistry #46",
-                "ar": "The Global Carbon Cycle - Crash Course Chemistry #46",
-                "en": "The Global Carbon Cycle - Crash Course Chemistry #46"
+                "de": "Der Global Otherbon Zyklus - Crashkurs Chemie #46*",
+                "ar": "The Global Otherbon Cycle - Crash Course Chemistry #46",
+                "en": "The Global Otherbon Cycle - Crash Course Chemistry #46"
             },
             "lang_support": {
                 "de": true,
@@ -1455,10 +1505,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=D8nDBKaFYWU&index=7&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=D8nDBKaFYWU&index=7&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Dads",
+                "de": "Die meisten Extreme - Vatis*",
                 "ar": "The Most Extreme - Dads",
                 "en": "The Most Extreme - Dads"
             },
@@ -1476,10 +1527,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=smD6ijXeW4Y&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=6",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=smD6ijXeW4Y&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=6",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Moms",
+                "de": "Die meisten Extreme - Moms*",
                 "ar": "The Most Extreme - Moms",
                 "en": "The Most Extreme - Moms"
             },
@@ -1497,10 +1549,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=THDeWzRDFwI&index=12&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=THDeWzRDFwI&index=12&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Workaholics",
+                "de": "Die extremste - Workaholics*",
                 "ar": "The Most Extreme - Workaholics",
                 "en": "The Most Extreme - Workaholics"
             },
@@ -1518,10 +1571,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=o4HH9ZrF0_k&index=13&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=o4HH9ZrF0_k&index=13&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Gourmets",
+                "de": "Die extremste - Gourmets*",
                 "ar": "The Most Extreme - Gourmets",
                 "en": "The Most Extreme - Gourmets"
             },
@@ -1539,10 +1593,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=ahBXo-N1OmQ&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=14",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=ahBXo-N1OmQ&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=14",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Animal Myths",
+                "de": "Die meisten Extreme - Tier Mythen*",
                 "ar": "The Most Extreme - Animal Myths",
                 "en": "The Most Extreme - Animal Myths"
             },
@@ -1560,10 +1615,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=BoW__jSOeW0&index=3&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=BoW__jSOeW0&index=3&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Survivors",
+                "de": "Die meisten Extreme - Survivors*",
                 "ar": "The Most Extreme - Survivors",
                 "en": "The Most Extreme - Survivors"
             },
@@ -1581,12 +1637,13 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=E2xFBMO7thE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=E2xFBMO7thE",
+            "author_url": "https://www.youtube.com/channel/UCpJmBQ8iNHXeQ7jQWDyGe3A",
             "title": {
-                "de": "WHAT CAN 3D PRINTERS MAKE?",
-                "ar": "WHAT CAN 3D PRINTERS MAKE?",
-                "en": "WHAT CAN 3D PRINTERS MAKE?"
+                "de": "Was k\u00f6nnen 3D-Drucker machen?*",
+                "ar": "What Can 3D PRINTERS Make?",
+                "en": "What Can 3D PRINTERS Make?"
             },
             "lang_support": {
                 "de": true,
@@ -1602,10 +1659,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=9FMThI9Xxc4&index=17&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=9FMThI9Xxc4&index=17&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Inventors",
+                "de": "Das extremste - Erfinder*",
                 "ar": "The Most Extreme - Inventors",
                 "en": "The Most Extreme - Inventors"
             },
@@ -1616,17 +1674,18 @@
             },
             "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "48:39",
-            "author": "iveTV Documentaries",
+            "author": "XiveTV Documentaries",
             "type": "video",
             "categories": [
                 "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=I6gIgPL_bEE&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=18",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=I6gIgPL_bEE&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=18",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Night Lights",
+                "de": "Die extremste - Night Lights*",
                 "ar": "The Most Extreme - Night Lights",
                 "en": "The Most Extreme - Night Lights"
             },
@@ -1644,10 +1703,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=1Ygnh9Z_QzA&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=16",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=1Ygnh9Z_QzA&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=16",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Freaky Fliers",
+                "de": "Die meisten Extreme - Freaky Flyer*",
                 "ar": "The Most Extreme - Freaky Fliers",
                 "en": "The Most Extreme - Freaky Fliers"
             },
@@ -1665,10 +1725,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=WgvDAAysGO8&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=15",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=WgvDAAysGO8&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=15",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "The Most Extreme - Awesome Ancestors",
+                "de": "Die extremste - Awesome Vorfahren*",
                 "ar": "The Most Extreme - Awesome Ancestors",
                 "en": "The Most Extreme - Awesome Ancestors"
             },
@@ -1686,10 +1747,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=vdPB42iKa7M&list=PLKy-B3Qf_RDXaJdCGlnaWzpaJLhcK6mTJ&index=3",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=vdPB42iKa7M&list=PLKy-B3Qf_RDXaJdCGlnaWzpaJLhcK6mTJ&index=3",
+            "author_url": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
             "title": {
-                "de": "A Sneak Peek Inside Cool Jobs and the Ultimate Science Street Fair!",
+                "de": "A Sneak Peek Innere k\u00fchl Jobs und die Ultimate Wissenschaft Street Fair!*",
                 "ar": "A Sneak Peek Inside Cool Jobs and the Ultimate Science Street Fair!",
                 "en": "A Sneak Peek Inside Cool Jobs and the Ultimate Science Street Fair!"
             },
@@ -1707,10 +1769,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=jJFhXsMFArw&list=PLKy-B3Qf_RDXaJdCGlnaWzpaJLhcK6mTJ&index=4",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=jJFhXsMFArw&list=PLKy-B3Qf_RDXaJdCGlnaWzpaJLhcK6mTJ&index=4",
+            "author_url": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
             "title": {
-                "de": "The World Science Festival's 2015 'Mind Blown' Campaign",
+                "de": "Der \"Geist Blown 'World Science Festival 2015 Kampagne*",
                 "ar": "The World Science Festival's 2015 'Mind Blown' Campaign",
                 "en": "The World Science Festival's 2015 'Mind Blown' Campaign"
             },
@@ -1729,10 +1792,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=tbYhz7JKF3c",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=tbYhz7JKF3c",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "DC vs. Marvel: Box Office Battle | Data Attack | WIRED",
+                "de": "DC gegen Marvel: Box Office Schlacht | Daten Angriff | WIRED*",
                 "ar": "DC vs. Marvel: Box Office Battle | Data Attack | WIRED",
                 "en": "DC vs. Marvel: Box Office Battle | Data Attack | WIRED"
             },
@@ -1752,10 +1816,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=bFYlEDrE3tc",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=bFYlEDrE3tc",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "Inside the Gigafactory, Where Tesla is Building its Future",
+                "de": "Im Inneren des Gigafactory, wo Tesla seine Zukunft Bau*",
                 "ar": "Inside the Gigafactory, Where Tesla is Building its Future",
                 "en": "Inside the Gigafactory, Where Tesla is Building its Future"
             },
@@ -1771,39 +1836,15 @@
             "categories": [
                 "technology",
                 "design_art",
-                "math_science",
-                "cars"
+                "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=bFYlEDrE3tc",
             "org": "google",
-            "title": {
-                "de": "Inside the Gigafactory, Where Tesla is Building its Future",
-                "ar": "Inside the Gigafactory, Where Tesla is Building its Future",
-                "en": "Inside the Gigafactory, Where Tesla is Building its Future"
-            },
-            "lang_support": {
-                "de": true,
-                "ar": true,
-                "en": true
-            },
-            "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "1:57",
-            "author": "WIRED",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art",
-                "math_science",
-                "cars"
-            ]
-        },
-        {
             "url": "https://www.youtube.com/watch?v=UJIP3JGgjtE",
-            "org": "google",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "Inside Star Trek Beyond\u2019s Amazing Visual Effects | Design FX",
+                "de": "Innerhalb Star Trek Beyond erstaunliche visuelle Effekte | Design FX*",
                 "ar": "Inside Star Trek Beyond\u2019s Amazing Visual Effects | Design FX",
                 "en": "Inside Star Trek Beyond\u2019s Amazing Visual Effects | Design FX"
             },
@@ -1824,10 +1865,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=iQe4sF8x3Bo",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=iQe4sF8x3Bo",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "Facebook's Huge Internet-Beaming Drone Takes Flight | WIRED",
+                "de": "Facebook Huge Internet-Beaming Drone nimmt Flug | WIRED*",
                 "ar": "Facebook's Huge Internet-Beaming Drone Takes Flight | WIRED",
                 "en": "Facebook's Huge Internet-Beaming Drone Takes Flight | WIRED"
             },
@@ -1848,10 +1890,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=7Jb_WnA8Fgo",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=7Jb_WnA8Fgo",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "How Motorola Made Modular Smartphones a Reality | WIRED",
+                "de": "Wie Motorola gemacht Modular Smartphones eine Reality | WIRED*",
                 "ar": "How Motorola Made Modular Smartphones a Reality | WIRED",
                 "en": "How Motorola Made Modular Smartphones a Reality | WIRED"
             },
@@ -1872,10 +1915,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=3Diva7mKkdI",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=3Diva7mKkdI",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "How Juno Will Reveal the Secrets of Our Solar System",
+                "de": "Wie Juno die Geheimnisse unseres Sonnensystem aufdeckt*",
                 "ar": "How Juno Will Reveal the Secrets of Our Solar System",
                 "en": "How Juno Will Reveal the Secrets of Our Solar System"
             },
@@ -1893,10 +1937,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=QpEHXlDV3iU",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=QpEHXlDV3iU",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "The Ultimate Liquid Nitrogen Destruction Video | OOO with Brent Rose",
+                "de": "Die ultimative Fl\u00fcssigstickstoff Zerst\u00f6rung Video | OOO mit Brent Rose*",
                 "ar": "The Ultimate Liquid Nitrogen Destruction Video | OOO with Brent Rose",
                 "en": "The Ultimate Liquid Nitrogen Destruction Video | OOO with Brent Rose"
             },
@@ -1914,10 +1959,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=-pMwaNXsjsc",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=-pMwaNXsjsc",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "Inside the Lair of the Custom Sneaker King",
+                "de": "Im Inneren der H\u00f6hle des Custom Sneaker King*",
                 "ar": "Inside the Lair of the Custom Sneaker King",
                 "en": "Inside the Lair of the Custom Sneaker King"
             },
@@ -1931,17 +1977,17 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "design_art",
-                "vocational"
+                "design_art"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=lc2SixWnYG4",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=lc2SixWnYG4",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "How to Make Super-Classy Culinary Foam, Even if You Aren\u2019t Classy | Science of Food",
-                "ar": "How to Make Super-Classy Culinary Foam, Even if You Aren\u2019t Classy | Science of Food",
-                "en": "How to Make Super-Classy Culinary Foam, Even if You Aren\u2019t Classy | Science of Food"
+                "de": "Wie man Super Noble Andere Schaum, auch wenn Sie nicht Classy Sind | Wissenschaft der Nahrung*",
+                "ar": "How to Make Super-Classy Other Foam, Even if You Aren\u2019t Classy | Science of Food",
+                "en": "How to Make Super-Classy Other Foam, Even if You Aren\u2019t Classy | Science of Food"
             },
             "lang_support": {
                 "de": true,
@@ -1952,16 +1998,14 @@
             "duration": "1:47",
             "author": "WIRED",
             "type": "video",
-            "categories": [
-                "vocational",
-                "culinary"
-            ]
+            "categories": []
         },
         {
-            "url": "https://www.youtube.com/watch?v=tGHcyKTIXIM",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=tGHcyKTIXIM",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "I Crashed NASA's Astronaut Training | OOO with Brent Rose",
+                "de": "Ich zerschmetterte NASA-Astronautentraining | OOO mit Brent Rose*",
                 "ar": "I Crashed NASA's Astronaut Training | OOO with Brent Rose",
                 "en": "I Crashed NASA's Astronaut Training | OOO with Brent Rose"
             },
@@ -1981,10 +2025,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=7gf6YpdvtE0&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV&index=8",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=7gf6YpdvtE0&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV&index=8",
+            "author_url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
             "title": {
-                "de": "Newtonian Gravity: Crash Course Physics #8",
+                "de": "Newtonsche Gravitation: Crash Course Physik #8*",
                 "ar": "Newtonian Gravity: Crash Course Physics #8",
                 "en": "Newtonian Gravity: Crash Course Physics #8"
             },
@@ -2002,10 +2047,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=9cbF9A6eQNA&index=13&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=9cbF9A6eQNA&index=13&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV",
+            "author_url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
             "title": {
-                "de": "Statics: Crash Course Physics #13",
+                "de": "Statistik: Crashkurs Physik #13*",
                 "ar": "Statics: Crash Course Physics #13",
                 "en": "Statics: Crash Course Physics #13"
             },
@@ -2023,10 +2069,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=DxNGTU39PsU",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=DxNGTU39PsU",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "HoloLens + NASA = AMAZING | OOO with Brent Rose",
+                "de": "HoloLens + NASA = FANTASTISCHE | OOO mit Brent Rose*",
                 "ar": "HoloLens + NASA = AMAZING | OOO with Brent Rose",
                 "en": "HoloLens + NASA = AMAZING | OOO with Brent Rose"
             },
@@ -2046,10 +2093,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=nn-FRAkf0yI",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=nn-FRAkf0yI",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "WIRED By Design: Adam Savage on His Lifelong Obsession With Recreating Movie Props",
+                "de": "WIRED By Design: Adam Savage auf seine lebenslange Besessenheit mit Filmrequisiten Erstellen*",
                 "ar": "WIRED By Design: Adam Savage on His Lifelong Obsession With Recreating Movie Props",
                 "en": "WIRED By Design: Adam Savage on His Lifelong Obsession With Recreating Movie Props"
             },
@@ -2067,10 +2115,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=2t_q6QYyn7o",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=2t_q6QYyn7o",
+            "author_url": "https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q",
             "title": {
-                "de": "A Whale of a Task: Sculpting Model Giants by Hand",
+                "de": "Ein Wal einer Aufgabe: Sculpting Modell Giants von Hand*",
                 "ar": "A Whale of a Task: Sculpting Model Giants by Hand",
                 "en": "A Whale of a Task: Sculpting Model Giants by Hand"
             },
@@ -2088,10 +2137,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=BAg_5OLN6lg",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=BAg_5OLN6lg",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "WIRED by Design: Capturing The Invisible World of Technology With Graphic Design",
+                "de": "WIRED by Design: Erfassung der unsichtbaren Welt der Technologie mit Grafik-Design*",
                 "ar": "WIRED by Design: Capturing The Invisible World of Technology With Graphic Design",
                 "en": "WIRED by Design: Capturing The Invisible World of Technology With Graphic Design"
             },
@@ -2106,15 +2156,15 @@
             "type": "video",
             "categories": [
                 "technology",
-                "design_art",
-                "graphics_design"
+                "design_art"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=frIUf5l6fjU",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=frIUf5l6fjU",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "WIRED by Design: Designing a Brand to Help Kill Malaria",
+                "de": "WIRED by Design: Entwerfen einer Marke Kill-Malaria zu Hilfe*",
                 "ar": "WIRED by Design: Designing a Brand to Help Kill Malaria",
                 "en": "WIRED by Design: Designing a Brand to Help Kill Malaria"
             },
@@ -2133,10 +2183,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=rpgvmHKbLrE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=rpgvmHKbLrE",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "WIRED By Design: These Incredible High-Tech Exhibits Are the Future of Museums",
+                "de": "By Design WIRED: Diese unglaubliche High-Tech-Exponate sind die Zukunft der Museen*",
                 "ar": "WIRED By Design: These Incredible High-Tech Exhibits Are the Future of Museums",
                 "en": "WIRED By Design: These Incredible High-Tech Exhibits Are the Future of Museums"
             },
@@ -2155,10 +2206,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=bQR6Ht4Fz7Q",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=bQR6Ht4Fz7Q",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "WIRED By Design: Designing a Brand That Even Non-Designers Can Work With",
+                "de": "By Design WIRED: Entwerfen einer Marke, die auch Nicht-Designer arbeiten k\u00f6nnen, mit*",
                 "ar": "WIRED By Design: Designing a Brand That Even Non-Designers Can Work With",
                 "en": "WIRED By Design: Designing a Brand That Even Non-Designers Can Work With"
             },
@@ -2172,15 +2224,15 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "design_art",
-                "graphics_design"
+                "design_art"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Mciq1BtXos0",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Mciq1BtXos0",
+            "author_url": "https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q",
             "title": {
-                "de": "Gas And Glass: How Neon Comes To Life",
+                "de": "Gas und Glas: Wie Neon zum Leben erweckt*",
                 "ar": "Gas And Glass: How Neon Comes To Life",
                 "en": "Gas And Glass: How Neon Comes To Life"
             },
@@ -2198,10 +2250,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=gECAPOpKNyA",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=gECAPOpKNyA",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "WIRED By Design: Radical Ideas for Reinventing College, From Stanford's D.School",
+                "de": "WIRED By Design: Radikale Ideen f\u00fcr Reinventing College, von der Stanford D.School*",
                 "ar": "WIRED By Design: Radical Ideas for Reinventing College, From Stanford's D.School",
                 "en": "WIRED By Design: Radical Ideas for Reinventing College, From Stanford's D.School"
             },
@@ -2218,18 +2271,16 @@
                 "coding",
                 "technology",
                 "language",
-                "professional",
                 "design_art",
-                "math_science",
-                "vocational",
-                "education"
+                "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=gEiypJeZH2A",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=gEiypJeZH2A",
+            "author_url": "https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q",
             "title": {
-                "de": "The Instrument That Lets You Play the (Electromagnetic) Field",
+                "de": "Das Instrument, mit dem Sie spielen die (elektromagnetische) Feld*",
                 "ar": "The Instrument That Lets You Play the (Electromagnetic) Field",
                 "en": "The Instrument That Lets You Play the (Electromagnetic) Field"
             },
@@ -2247,10 +2298,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=QET0r_naPjw",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=QET0r_naPjw",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "WIRED By Design: How Metaphors Make Us Love Some Designs and Not Others",
+                "de": "WIRED By Design: Wie Metaphern uns einige Entw\u00fcrfe lieben und andere nicht*",
                 "ar": "WIRED By Design: How Metaphors Make Us Love Some Designs and Not Others",
                 "en": "WIRED By Design: How Metaphors Make Us Love Some Designs and Not Others"
             },
@@ -2268,10 +2320,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=n9rye_X-qhY",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=n9rye_X-qhY",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "Bjarke Ingels Will Make You Believe in the Power of Architecture",
+                "de": "Bjarke Ingels werden Sie in der Macht der Architektur Make Believe*",
                 "ar": "Bjarke Ingels Will Make You Believe in the Power of Architecture",
                 "en": "Bjarke Ingels Will Make You Believe in the Power of Architecture"
             },
@@ -2286,15 +2339,15 @@
             "type": "video",
             "categories": [
                 "design_art",
-                "math_science",
-                "architecture"
+                "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Xq7kBZyZsPg",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Xq7kBZyZsPg",
+            "author_url": "https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q",
             "title": {
-                "de": "Losing His Sight, This Photographer Chases the Light",
+                "de": "Seine Augen zu verlieren, Chases Dieser Fotograf das Licht*",
                 "ar": "\u0641\u0642\u062f \u0628\u0635\u0631\u0647\u060c \u0647\u0630\u0627 \u0627\u0644\u0645\u0635\u0648\u0631 \u064a\u0637\u0627\u0631\u062f \u0627\u0644\u0646\u0648\u0631",
                 "en": "Losing His Sight, This Photographer Chases the Light"
             },
@@ -2312,10 +2365,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=78rPt0RsosQ",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=78rPt0RsosQ",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "WIRED by Design: A Game Designer Explains the Counterintuitive Secret to Fun",
+                "de": "WIRED by Design: A Game Designer Erkl\u00e4rt die eing\u00e4ngig Geheimnis Fun*",
                 "ar": "WIRED by Design: A Game Designer Explains the Counterintuitive Secret to Fun",
                 "en": "WIRED by Design: A Game Designer Explains the Counterintuitive Secret to Fun"
             },
@@ -2329,15 +2383,15 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "design_art",
-                "game_design"
+                "design_art"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=a2z8CE2vomY&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=a2z8CE2vomY&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "Can Prosthetics Outperform Real Limbs? | Cyborg Nation",
+                "de": "Kann Prosthetics Outperform Echt Limbs? | Cyborg Nation*",
                 "ar": "Can Prosthetics Outperform Real Limbs? | Cyborg Nation",
                 "en": "Can Prosthetics Outperform Real Limbs? | Cyborg Nation"
             },
@@ -2357,10 +2411,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=LZPZFeOOerA&index=3&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=LZPZFeOOerA&index=3&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "How to Control Things Using Your Brain (and Open-Source Hardware) | Cyborg Nation",
+                "de": "So steuern Sie Dinge mit Ihrem Gehirn (und Open-Source-Hardware) | Cyborg Nation*",
                 "ar": "How to Control Things Using Your Brain (and Open-Source Hardware) | Cyborg Nation",
                 "en": "How to Control Things Using Your Brain (and Open-Source Hardware) | Cyborg Nation"
             },
@@ -2381,10 +2436,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=NTMkc0bLRlI",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=NTMkc0bLRlI",
+            "author_url": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw",
             "title": {
-                "de": "Is Big Data Getting Too Big?",
+                "de": "Erh\u00e4lt Big Data zu gro\u00df?*",
                 "ar": "Is Big Data Getting Too Big?",
                 "en": "Is Big Data Getting Too Big?"
             },
@@ -2402,10 +2458,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=4LZHFodVYwg&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN&index=5",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=4LZHFodVYwg&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN&index=5",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "Mind-Controlled Machines Give Paralyzed Patients New Hope | Cyborg Nation",
+                "de": "Gedankengesteuerte Maschinen Geben gel\u00e4hmte Patienten neue Hoffnung | Cyborg Nation*",
                 "ar": "Mind-Controlled Machines Give Paralyzed Patients New Hope | Cyborg Nation",
                 "en": "Mind-Controlled Machines Give Paralyzed Patients New Hope | Cyborg Nation"
             },
@@ -2425,10 +2482,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=uAeTvuz_g-Q&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN&index=6",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=uAeTvuz_g-Q&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN&index=6",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "This Technology Wants to Make Wheelchairs Obsolete | Cyborg Nation",
+                "de": "Diese Technologie will Rollst\u00fchle Obsolete Make | Cyborg Nation*",
                 "ar": "This Technology Wants to Make Wheelchairs Obsolete | Cyborg Nation",
                 "en": "This Technology Wants to Make Wheelchairs Obsolete | Cyborg Nation"
             },
@@ -2448,12 +2506,13 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=GJ_Zki8e8Kw&index=4&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=GJ_Zki8e8Kw&index=4&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "his Robotic Hand Can Touch and Feel, Just Like a Human Hand | Cyborg Nation",
-                "ar": "his Robotic Hand Can Touch and Feel, Just Like a Human Hand | Cyborg Nation",
-                "en": "his Robotic Hand Can Touch and Feel, Just Like a Human Hand | Cyborg Nation"
+                "de": "Diese Roboterhand zum Anfassen und F\u00fchlen, wie ein menschliches Hand | Cyborg Nation*",
+                "ar": "This Robotic Hand Can Touch and Feel, Just Like a Human Hand | Cyborg Nation",
+                "en": "This Robotic Hand Can Touch and Feel, Just Like a Human Hand | Cyborg Nation"
             },
             "lang_support": {
                 "de": true,
@@ -2471,10 +2530,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=oGf0UXq9V3s&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN&index=2",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=oGf0UXq9V3s&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN&index=2",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "Cyborg Cockroaches Could Save Your Life | Cyborg Nation",
+                "de": "Cyborg Kakerlaken k\u00f6nnte Ihr Leben retten | Cyborg Nation*",
                 "ar": "Cyborg Cockroaches Could Save Your Life | Cyborg Nation",
                 "en": "Cyborg Cockroaches Could Save Your Life | Cyborg Nation"
             },
@@ -2495,10 +2555,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=LHvR1fRTW8g",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=LHvR1fRTW8g",
+            "author_url": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
             "title": {
-                "de": "Hitting the Sun is HARD",
+                "de": "die Sonne zu schlagen ist HARD*",
                 "ar": "\u0636\u0631\u0628 \u0627\u0644\u0634\u0645\u0633 \u0635\u0639\u0628",
                 "en": "Hitting the Sun is HARD"
             },
@@ -2516,10 +2577,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=IlnZKSR73S0",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=IlnZKSR73S0",
+            "author_url": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
             "title": {
-                "de": "How to Destroy a Magnet (+ interactive periodic table)",
+                "de": "Wie zu zerst\u00f6ren ein Magnet (+ interaktives Periodensystem)*",
                 "ar": "How to Destroy a Magnet (+ interactive periodic table)",
                 "en": "How to Destroy a Magnet (+ interactive periodic table)"
             },
@@ -2537,10 +2599,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=y3SBSbsdiYg",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=y3SBSbsdiYg",
+            "author_url": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
             "title": {
-                "de": "How lasers work (in theory)",
+                "de": "Wie Laser Arbeit (in der Theorie)*",
                 "ar": "\u0643\u064a\u0641 \u064a\u0639\u0645\u0644 \u0627\u0644\u0644\u064a\u0632\u0631 (\u0646\u0638\u0631\u064a\u0627)",
                 "en": "How lasers work (in theory)"
             },
@@ -2559,10 +2622,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=SJJhHknEDPY",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=SJJhHknEDPY",
+            "author_url": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
             "title": {
-                "de": "What is a dimension? In 3D...and 2D... and 1D",
+                "de": "Was ist eine Dimension? In 3D ... und 2D ... und 1D*",
                 "ar": "What is a dimension? In 3D...and 2D... and 1D",
                 "en": "What is a dimension? In 3D...and 2D... and 1D"
             },
@@ -2580,10 +2644,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=fPbGEGtgqrM",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=fPbGEGtgqrM",
+            "author_url": "https://www.google.com/culturalinstitute/beta/",
             "title": {
-                "de": "Bruegel #UnseenMasterpieces",
+                "de": "Bruegel #UnseenMeisterwerke*",
                 "ar": "Bruegel #UnseenMasterpieces",
                 "en": "Bruegel #UnseenMasterpieces"
             },
@@ -2602,10 +2667,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=TEwbFu6H0CE&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=2",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=TEwbFu6H0CE&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=2",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
-                "de": "EARTHRISE: The First Lunar Voyage",
+                "de": "EARTHRISE: Die erste Mond Voyage*",
                 "ar": "EARTHRISE: The First Lunar Voyage",
                 "en": "EARTHRISE: The First Lunar Voyage"
             },
@@ -2625,10 +2691,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=ihmyHNJodvQ",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=ihmyHNJodvQ",
+            "author_url": "https://www.androidexperiments.com/experiment/autonomous-android-vehicle",
             "title": {
-                "de": "Autonomous Android Vehicle (AAV)",
+                "de": "Autonome Android Fahrzeug (AAV)",
                 "ar": "\u0645\u0631\u0643\u0628\u0629 \u0623\u0646\u062f\u0631\u0648\u064a\u062f \u0627\u0644\u0645\u0633\u062a\u0642\u0644\u0629",
                 "en": "Autonomous Android Vehicle (AAV)"
             },
@@ -2648,10 +2715,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=V6y28qUN9xs",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=V6y28qUN9xs",
+            "author_url": "https://www.google.com/culturalinstitute/beta/",
             "title": {
-                "de": "Made in Japan",
+                "de": "Hergestellt in Japan",
                 "ar": "\u0635\u0646\u0639 \u0641\u064a \u0627\u0644\u064a\u0627\u0628\u0627\u0646",
                 "en": "Made in Japan"
             },
@@ -2670,10 +2738,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=xLU-FSqLL-o",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=xLU-FSqLL-o",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "This is FAST: Crocheting",
+                "de": "Dies ist FAST: H\u00e4keln",
                 "ar": "\u0647\u0630\u0627 \u0633\u0631\u064a\u0639: \u0627\u0644\u062d\u064a\u0627\u0643\u0629",
                 "en": "This is FAST: Crocheting"
             },
@@ -2691,12 +2760,13 @@
             ]
         },
         {
-            "url": "How to Draw a House in 3D for Kids - Art for Kids - Easy Things to Draw | MAT",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=W4t8ZxcazCQ",
+            "author_url": "https://www.youtube.com/user/HowtoDrawAndPaint",
             "title": {
-                "de": "HowtoDrawAndPaint",
+                "de": "Wie man ein Haus in 3D-Zeichnen f\u00fcr Kinder",
                 "ar": "\u0643\u064a\u0641\u064a\u0629 \u0627\u0644\u0631\u0633\u0645 \u0648\u0627\u0644\u0637\u0644\u0627\u0621",
-                "en": "HowtoDrawAndPaint"
+                "en": "How to Draw a House in 3D for Kids"
             },
             "lang_support": {
                 "de": true,
@@ -2712,10 +2782,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=UcEfHIiHbkE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=UcEfHIiHbkE",
+            "author_url": "https://www.youtube.com/user/HowtoDrawAndPaint",
             "title": {
-                "de": "How to Draw a 3D Minecraft Zombie | MAT",
+                "de": "Wie man ein 3D-Zombie Mine Zeichnen | MATTE",
                 "ar": "How to Draw a 3D Minecraft Zombie | MAT",
                 "en": "How to Draw a 3D Minecraft Zombie | MAT"
             },
@@ -2733,10 +2804,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=eVRY3QQ327c",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=eVRY3QQ327c",
+            "author_url": "https://www.youtube.com/user/HowtoDrawAndPaint",
             "title": {
-                "de": "How to Draw a 3D Hole - Draw a Hole in Paper",
+                "de": "Wie ein 3D-Loch-Draw - Zeichnen Sie ein Loch in Papier*",
                 "ar": "\u0643\u064a\u0641\u064a\u0629 \u062a\u0631\u0633\u0645 \u062d\u0641\u0631\u0629 \u062b\u0644\u0627\u062b\u064a\u0629 \u0627\u0644\u0623\u0628\u0639\u0627\u062f - \u0627\u0631\u0633\u0645 \u062d\u0641\u0631\u0629 \u0639\u0644\u0649 \u0648\u0631\u0642\u0629",
                 "en": "How to Draw a 3D Hole - Draw a Hole in Paper"
             },
@@ -2754,12 +2826,13 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=3NH5EzfREXg",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=3NH5EzfREXg",
+            "author_url": "https://www.youtube.com/user/HowtoDrawAndPaint",
             "title": {
-                "de": "How to Draw a Cartoon Face - Funny Face Drawing Lesson",
+                "de": "Wie zeichnet man ein Othertoon Gesicht - Funny Face Drawing Lesson*",
                 "ar": "\u0643\u064a\u0641\u064a\u0629 \u0631\u0633\u0645 \u0648\u062c\u0647 \u0627\u0644\u0631\u0633\u0648\u0645 \u0627\u0644\u0645\u062a\u062d\u0631\u0643\u0629 - \u062f\u0631\u0633 \u0644\u0631\u0633\u0645 \u0648\u062c\u0647 \u0645\u0636\u062d\u0643",
-                "en": "How to Draw a Cartoon Face - Funny Face Drawing Lesson"
+                "en": "How to Draw a Othertoon Face - Funny Face Drawing Lesson"
             },
             "lang_support": {
                 "de": true,
@@ -2775,10 +2848,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=IYRiUjL1qdc",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=IYRiUjL1qdc",
+            "author_url": "https://www.youtube.com/user/wired",
             "title": {
-                "de": "This is FAST: Yo-Yo",
+                "de": "Das ist schnell: Yo-Yo*",
                 "ar": "\u0647\u0630\u0627 \u0633\u0631\u064a\u0639: \u0627\u0644\u064a\u0648\u064a\u0648",
                 "en": "This is FAST: Yo-Yo"
             },
@@ -2792,17 +2866,16 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "design_art",
-                "vocational",
-                "games"
+                "design_art"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=e7t3svG9PTk",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=e7t3svG9PTk",
+            "author_url": "https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg",
             "title": {
-                "de": "Music app developer DJIT builds higher quality experiences on Android",
-                "ar": "Music app developer DJIT builds higher quality experiences on Android",
+                "de": "Musik-App-Entwickler DJIT baut h\u00f6here Qualit\u00e4t Erfahrungen auf Android*",
+                "ar": "DJIT\u060c \u0645\u0637\u0648\u0631 \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u0649 \u064a\u0628\u0646\u064a \u062a\u062c\u0627\u0631\u0628 \u0639\u0627\u0644\u064a\u0629 \u0627\u0644\u062c\u0648\u062f\u0629 \u0639\u0644\u0649 \u0623\u0646\u062f\u0631\u0648\u064a\u062f",
                 "en": "Music app developer DJIT builds higher quality experiences on Android"
             },
             "lang_support": {
@@ -2812,7 +2885,7 @@
             },
             "logo": "https://yt3.ggpht.com/-mGTYed3Uh-E/AAAAAAAAAAI/AAAAAAAAAAA/g61cLkyPLvo/s88-c-k-no-rj-c0xffffff/photo.jpg",
             "duration": "3:28",
-            "author": "Android Developer Story",
+            "author": "Android Developers Story",
             "type": "video",
             "categories": [
                 "coding",
@@ -2821,10 +2894,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Pms0pcyPbAM",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Pms0pcyPbAM",
+            "author_url": "https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg",
             "title": {
-                "de": "Gifted Mom reaches more mothers across Africa with Android",
+                "de": "Gifted Mom erreicht mehr M\u00fctter in ganz Afrika mit Android*",
                 "ar": "\u0623\u0645 \u0645\u0648\u0647\u0648\u0628\u0629 \u062a\u0635\u0644 \u0625\u0644\u0649 \u0623\u0645\u0647\u0627\u062a \u062d\u0648\u0644 \u0623\u0641\u0631\u064a\u0642\u064a\u0627 \u0645\u0639 \u0623\u0646\u062f\u0631\u0648\u064a\u062f",
                 "en": "Gifted Mom reaches more mothers across Africa with Android"
             },
@@ -2844,11 +2918,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Us6_yeT22nE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Us6_yeT22nE",
+            "author_url": "https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg",
             "title": {
-                "de": "Playbook for Developers, a new app for developers",
-                "ar": "Playbook for Developers, a new app for developers",
+                "de": "Spielbuch f\u00fcr Entwickler, eine neue App f\u00fcr Entwickler*",
+                "ar": "\u0628\u0644\u064a\u0628\u0648\u0643 \u0644\u0644\u0645\u0637\u0648\u0631\u064a\u0646\u060c \u062a\u0637\u0628\u064a\u0642 \u062c\u062f\u064a\u062f \u0644\u0644\u0645\u0637\u0648\u0631\u064a\u0646",
                 "en": "Playbook for Developers, a new app for developers"
             },
             "lang_support": {
@@ -2867,11 +2942,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=0zKU7jDA2nc&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=4",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=0zKU7jDA2nc&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=4",
+            "author_url": "https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A/channels",
             "title": {
-                "de": "Can Your Phone Translate Signs On The Fly?",
-                "ar": "Can Your Phone Translate Signs On The Fly?",
+                "de": "\u00dcbersetzen Schilder k\u00f6nnen Ihr Telefon On The Fly?*",
+                "ar": "\u0647\u0644 \u064a\u0645\u0643\u0646 \u0644\u0647\u0627\u062a\u0641\u0643 \u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0644\u0627\u0645\u0627\u062a \u0639\u0644\u0649 \u0627\u0644\u0637\u0627\u064a\u0631\u061f",
                 "en": "Can Your Phone Translate Signs On The Fly?"
             },
             "lang_support": {
@@ -2890,10 +2966,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=zoR3wyiVzbY",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=zoR3wyiVzbY",
+            "author_url": "https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A/channels",
             "title": {
-                "de": "Do You Know What\u2019s Actually Inside Your Phone?",
+                "de": "Wissen Sie, was eigentlich im Inneren des Telefons?*",
                 "ar": "\u0647\u0644 \u062a\u0639\u0644\u0645 \u0645\u0627 \u0628\u062f\u0627\u062e\u0644 \u0647\u0627\u062a\u0641\u0643\u061f",
                 "en": "Do You Know What\u2019s Actually Inside Your Phone?"
             },
@@ -2911,10 +2988,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=OE63BYWdqC4&index=6&list=PLBCF2DAC6FFB574DE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=OE63BYWdqC4&index=6&list=PLBCF2DAC6FFB574DE",
+            "author_url": "https://www.youtube.com/channel/UCvceBgMIpKb4zK1ss-Sh90w",
             "title": {
-                "de": "Zack Matere: Growing Knowledge",
+                "de": "Zack Matere: Wachsende Wissens*",
                 "ar": "\u0632\u0627\u0643 \u0645\u0627\u062a\u064a\u0631: \u062a\u0646\u0645\u064a\u0629 \u0627\u0644\u0645\u0639\u0631\u0641\u0629",
                 "en": "Zack Matere: Growing Knowledge"
             },
@@ -2930,16 +3008,16 @@
             "categories": [
                 "technology",
                 "language",
-                "design_art",
-                "vocational"
+                "design_art"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=-apCIbV9YKA",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=-apCIbV9YKA",
+            "author_url": "https://www.youtube.com/channel/UCt84aUC9OG6di8kSdKzEHTQ",
             "title": {
-                "de": "Google Classroom: Mission control for students and teachers",
-                "ar": "Google Classroom: Mission control for students and teachers",
+                "de": "Google Klassenzimmer : Missionskontrolle f\u00fcr Sch\u00fcler und Lehrer*",
+                "ar": "\u0641\u0635\u0644 \u062c\u0648\u062c\u0644 \u0627\u0644\u062f\u0631\u0627\u0633\u064a: \u063a\u0631\u0641\u0629 \u0627\u0644\u062a\u062d\u0643\u0645 \u0644\u0644\u0637\u0644\u0627\u0628 \u0648\u0627\u0644\u0645\u0639\u0644\u0645\u064a\u0646",
                 "en": "Google Classroom: Mission control for students and teachers"
             },
             "lang_support": {
@@ -2952,15 +3030,15 @@
             "author": "Google for Education",
             "type": "video",
             "categories": [
-                "technology",
-                "vocational"
+                "technology"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=l80bxaFrQuM",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=l80bxaFrQuM",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "Can I feel the sound of music? | Jonah Kohn",
+                "de": "Kann ich den Klang der Musik f\u00fchlen? | Jonas Kohn*",
                 "ar": "\u0647\u0644 \u0623\u0633\u0645\u0639 \u0635\u0648\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u0649 - \u062c\u0648\u0646\u0627 \u0643\u0648\u0646",
                 "en": "Can I feel the sound of music? | Jonah Kohn"
             },
@@ -2979,10 +3057,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=H158-6LE9Wg",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=H158-6LE9Wg",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "Bringing stable power to remote villages | Harine Ravichandran",
+                "de": "Bringing stabile Macht zu abgelegenen D\u00f6rfern | Harine Ravichandran*",
                 "ar": "\u062c\u0644\u0628 \u0637\u0627\u0642\u0629 \u0645\u0633\u062a\u0642\u0631\u0629 \u0625\u0644\u0649 \u0627\u0644\u0642\u0631\u0649 \u0627\u0644\u0646\u0627\u0626\u064a\u0629  - \u0647\u0627\u0631\u064a\u0646 \u0631\u0627\u0641\u064a\u062a\u0634\u0627\u0646\u062f\u0631\u0627\u0646",
                 "en": "Bringing stable power to remote villages | Harine Ravichandran"
             },
@@ -3002,10 +3081,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=O8g_m59Po1k",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=O8g_m59Po1k",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "Talking to robots in English  | Luke Taylor",
+                "de": "Im Gespr\u00e4ch mit Roboter in Englisch | Luke Taylor*",
                 "ar": "\u0627\u0644\u062a\u062d\u062f\u062b \u0645\u0639 \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u0627\u062a \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 - \u0644\u0648\u0643 \u062a\u0627\u064a\u0644\u0648\u0631",
                 "en": "Talking to robots in English  | Luke Taylor"
             },
@@ -3020,15 +3100,15 @@
             "type": "video",
             "categories": [
                 "design_art",
-                "math_science",
-                "robotics"
+                "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=PszuBGqLCew",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=PszuBGqLCew",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "Can we make robots as difficult to catch as flys? | Mihir Garimella",
+                "de": "K\u00f6nnen wir Roboter so schwierig, wie flys zu fangen? | Mihir Garimella",
                 "ar": "Can we make robots as difficult to catch as flys? | Mihir Garimella",
                 "en": "Can we make robots as difficult to catch as flys? | Mihir Garimella"
             },
@@ -3048,10 +3128,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=m7f3SxVvlPY",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=m7f3SxVvlPY",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "Grand Prize Winner - Olivia Hallisey - Google Science Fair 2015",
+                "de": "Gewinner des Hauptpreises - Olivia Hallisey - Google Science Fair 2015*",
                 "ar": "\u0627\u0644\u0641\u0627\u0626\u0632\u0629 \u0628\u0627\u0644\u062c\u0627\u0626\u0632\u0629 \u0627\u0644\u0643\u0628\u0631\u0649 - \u0623\u0648\u0644\u064a\u0641\u064a\u0627 \u0647\u0627\u0644\u064a\u0633\u064a - \u0645\u0639\u0631\u0636 \u062c\u0648\u062c\u0644 \u0644\u0644\u0639\u0644\u0648\u0645 \u0662\u0660\u0661\u0665",
                 "en": "Grand Prize Winner - Olivia Hallisey - Google Science Fair 2015"
             },
@@ -3065,15 +3146,15 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "math_science",
-                "vocational"
+                "math_science"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=fIZfeYoPZzs",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=fIZfeYoPZzs",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "How do cancer cells become resistant to chemotherapy? | Shree Bose",
+                "de": "Wie werden die Krebszellen resistent gegen eine Chemotherapie? | Shree Bose*",
                 "ar": "\u0643\u064a\u0641 \u062a\u0635\u0628\u062d \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u0633\u0631\u0637\u0627\u0646\u064a\u0629 \u0645\u0642\u0627\u0648\u0645\u0629 \u0644\u0644\u0639\u0644\u0627\u062c \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u061f - Shree Bose",
                 "en": "How do cancer cells become resistant to chemotherapy? | Shree Bose"
             },
@@ -3092,10 +3173,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=QprN7uTJLDc",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=QprN7uTJLDc",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "How can we reduce the impact of toxic oil waste? | Hayley Todesco",
+                "de": "Wie k\u00f6nnen wir die Auswirkungen giftiger \u00d6labf\u00e4lle zu reduzieren? | Hayley Todesco*",
                 "ar": "\u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u0627 \u0627\u0644\u062d\u062f \u0645\u0646 \u062a\u0623\u062b\u064a\u0631 \u0627\u0644\u0646\u0641\u0627\u064a\u0627\u062a \u0627\u0644\u0646\u0641\u0637\u064a\u0629 \u0627\u0644\u0633\u0627\u0645\u0629\u061f - \u0647\u0627\u064a\u0644\u064a \u062a\u0648\u062f\u064a\u0633\u0643\u0648",
                 "en": "How can we reduce the impact of toxic oil waste? | Hayley Todesco"
             },
@@ -3114,11 +3196,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=WBEtUJmp05w",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=WBEtUJmp05w",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "How robots aid scientific research | LEGO",
-                "ar": "How robots aid scientific research | LEGO",
+                "de": "Wie Roboter wissenschaftliche Forschung unterst\u00fctzen | LEGO*",
+                "ar": "\u0643\u064a\u0641 \u064a\u0633\u0627\u0639\u062f \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0627\u0644\u0622\u0644\u064a \u0641\u064a \u0627\u0644\u0628\u062d\u062a \u0627\u0644\u0639\u0644\u0645\u064a | LEGO",
                 "en": "How robots aid scientific research | LEGO"
             },
             "lang_support": {
@@ -3136,11 +3219,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=s4n06X8t7VA",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=s4n06X8t7VA",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "LEGO Education Builder Award - Anurudh Ganesan - Google Science Fair 2015",
-                "ar": "LEGO Education Builder Award - Anurudh Ganesan - Google Science Fair 2015",
+                "de": "LEGO Education Builder-Preis - Anurudh Ganesan - Google Science Fair 2015*",
+                "ar": "\u062c\u0627\u0626\u0632\u0629 LEGO \u0644\u0628\u0627\u0646\u064a \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u0623\u0646\u0648\u0631\u0630 \u063a\u0627\u0646\u0633\u0627\u0646 - \u0645\u0639\u0631\u0636 \u062c\u0648\u062c\u0644 \u0644\u0644\u0639\u0644\u0648\u0645",
                 "en": "LEGO Education Builder Award - Anurudh Ganesan - Google Science Fair 2015"
             },
             "lang_support": {
@@ -3159,10 +3243,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=MQEeEGvLzIU",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=MQEeEGvLzIU",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "How can we optimize food production in Africa? | Ciara Judge, \u00c9mer Hickey and Sophie Healy-Thow",
+                "de": "Wie k\u00f6nnen wir die Nahrungsmittelproduktion in Afrika optimieren? | Ciara Richter, emer Hickey und Sophie Healy-Thow*",
                 "ar": "\u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u0627 \u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0625\u0646\u062a\u0627\u062c \u0627\u0644\u063a\u0630\u0627\u0626\u064a \u0641\u064a \u0623\u0641\u0631\u064a\u0642\u064a\u0627\u061f | \u0633\u064a\u0627\u0631\u0627 \u062c\u062f\u062c\u060c \u0625\u064a\u0645\u064a\u0631 \u0647\u064a\u0643\u064a \u0648\u0635\u0648\u0641\u064a \u0647\u064a\u0644\u064a-\u062b\u0648",
                 "en": "How can we optimize food production in Africa? | Ciara Judge, \u00c9mer Hickey and Sophie Healy-Thow"
             },
@@ -3181,11 +3266,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=xXi4WiMdNEA",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=xXi4WiMdNEA",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "How can we improve the safety of people with Alzheimer's? | Kenneth Shinozuka",
-                "ar": "How can we improve the safety of people with Alzheimer's? | Kenneth Shinozuka",
+                "de": "Wie k\u00f6nnen wir die Sicherheit der Menschen mit Alzheimer verbessern? | Kenneth Shinozuka*",
+                "ar": "\u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0646\u0627 \u062a\u062d\u0633\u064a\u0646 \u0633\u0644\u0627\u0645\u0629 \u0645\u0635\u0627\u0628\u064a \u0627\u0644\u0632\u0647\u0627\u064a\u0645\u0631\u061f | \u0643\u064a\u0646\u064a\u062b \u0634\u064a\u0646\u0648\u0632\u0648\u0643\u0627",
                 "en": "How can we improve the safety of people with Alzheimer's? | Kenneth Shinozuka"
             },
             "lang_support": {
@@ -3203,10 +3289,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=3Rqcg7BJwJM",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=3Rqcg7BJwJM",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "It's your turn to change the world",
+                "de": "Sie sind dran, die Welt zu ver\u00e4ndern*",
                 "ar": "\u062d\u0627\u0646 \u062f\u0648\u0631\u0643 \u0644\u062a\u063a\u064a\u064a\u0631 \u0627\u0644\u0639\u0627\u0644\u0645",
                 "en": "It's your turn to change the world"
             },
@@ -3228,10 +3315,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=TubgY-ldttU",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=TubgY-ldttU",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "It's more than science",
+                "de": "Es ist mehr als Wissenschaft*",
                 "ar": "\u0625\u0646\u0647\u0627 \u0623\u0643\u062b\u0631 \u0645\u0646 \u0627\u0644\u0639\u0644\u0648\u0645",
                 "en": "It's more than science"
             },
@@ -3251,10 +3339,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=YAVIkr7HRMk",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=YAVIkr7HRMk",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "What will you try?",
+                "de": "Was werden Sie versuchen?*",
                 "ar": "\u0645\u0627\u0630\u0627 \u0633\u062a\u062d\u0627\u0648\u0644\u061f",
                 "en": "What will you try?"
             },
@@ -3275,11 +3364,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=4JcDYkgqksY&list=PLOU2XLYxmsIJu9yzFxRDR1AUmrEu0lRMw",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=4JcDYkgqksY&list=PLOU2XLYxmsIJu9yzFxRDR1AUmrEu0lRMw",
+            "author_url": "https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw",
             "title": {
-                "de": "Designing for Android Wear",
-                "ar": "Designing for Android Wear",
+                "de": "Design f\u00fcr Android Wear*",
+                "ar": "\u0627\u0644\u062a\u0635\u0645\u064a\u0645 \u0644Android Wear",
                 "en": "Designing for Android Wear"
             },
             "lang_support": {
@@ -3298,10 +3388,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=LWiuUC9RDhY",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=LWiuUC9RDhY",
+            "author_url": "https://www.googlesciencefair.com/en/",
             "title": {
-                "de": "Everyone has a question. What's yours?",
+                "de": "Jeder hat eine Frage. Welches ist deines?*",
                 "ar": "\u0643\u0644 \u0634\u062e\u0635 \u0644\u062f\u064a\u0647 \u0633\u0624\u0627\u0644. \u0645\u0627 \u0647\u0648 \u0633\u0624\u0627\u0644\u0643\u061f",
                 "en": "Everyone has a question. What's yours?"
             },
@@ -3322,10 +3413,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=pOnxa44yllk&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=pOnxa44yllk&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y",
+            "author_url": "https://www.google.com/culturalinstitute/beta/",
             "title": {
-                "de": "Google Open Gallery: Itinerrance Art Gallery",
+                "de": "Google Open Gallery: Itinerrance Art Gallery*",
                 "ar": "Google Open Gallery: Itinerrance Art Gallery",
                 "en": "Google Open Gallery: Itinerrance Art Gallery"
             },
@@ -3344,10 +3436,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=Bdl03NGUtOo&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y&index=2",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=Bdl03NGUtOo&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y&index=2",
+            "author_url": "https://www.google.com/culturalinstitute/beta/",
             "title": {
-                "de": "Google Open Gallery: Belgian Comic Strip Museum",
+                "de": "Google Open Gallery: Belgische Comic-Museum*",
                 "ar": "Google Open Gallery: Belgian Comic Strip Museum",
                 "en": "Google Open Gallery: Belgian Comic Strip Museum"
             },
@@ -3366,11 +3459,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=QO1zNWOwme4&index=3&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=QO1zNWOwme4&index=3&list=PLw83Po3C1UpyG8-b47OjOQwxWruj-rF2y",
+            "author_url": "https://www.google.com/culturalinstitute/beta/",
             "title": {
-                "de": "Google Open Gallery: artist Berndnaut Smilde",
-                "ar": "Google Open Gallery: artist Berndnaut Smilde",
+                "de": "Google Open Gallery: K\u00fcnstler Berndnaut Smilde*",
+                "ar": "\u0645\u0639\u0631\u0636 \u062c\u0648\u062c\u0644 \u0627\u0644\u0645\u0641\u062a\u0648\u062d: \u0627\u0644\u0641\u0646\u0627\u0646 \u0628\u0631\u0646\u062f\u0648\u062a \u0633\u0645\u064a\u0644\u062f",
                 "en": "Google Open Gallery: artist Berndnaut Smilde"
             },
             "lang_support": {
@@ -3388,10 +3482,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=4xtEp55MKRE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=4xtEp55MKRE",
+            "author_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en",
             "title": {
-                "de": "Introducing Tap to Translate",
+                "de": "Die Einf\u00fchrung Tippen \u00dcbersetzen*",
                 "ar": "Introducing Tap to Translate",
                 "en": "Introducing Tap to Translate"
             },
@@ -3410,10 +3505,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=2RB4yWmzG-4",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=2RB4yWmzG-4",
+            "author_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en",
             "title": {
-                "de": "From Syria to Canada",
+                "de": "Von Syrien nach Kanada*",
                 "ar": "\u0645\u0646 \u0633\u0648\u0631\u064a\u0627 \u0625\u0644\u0649 \u0643\u0646\u062f\u0627",
                 "en": "From Syria to Canada"
             },
@@ -3432,11 +3528,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=qnZZInDyrZo",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=qnZZInDyrZo",
+            "author_url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en",
             "title": {
-                "de": "Goals in Google Calendar",
-                "ar": "Goals in Google Calendar",
+                "de": "Tore in Google Kalender*",
+                "ar": "\u0627\u0644\u0623\u0647\u062f\u0627\u0641 \u0641\u064a \u062a\u0642\u0648\u064a\u0645 \u062c\u0648\u062c\u0644",
                 "en": "Goals in Google Calendar"
             },
             "lang_support": {
@@ -3449,16 +3546,16 @@
             "author": "Google",
             "type": "video",
             "categories": [
-                "technology",
-                "vocational"
+                "technology"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=cPuvf2lzZMY",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=cPuvf2lzZMY",
+            "author_url": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en",
             "title": {
-                "de": "Reminders in Google Calendar",
-                "ar": "Reminders in Google Calendar",
+                "de": "Erinnerungen in Google Kalender*",
+                "ar": "\u0627\u0644\u062a\u0630\u0643\u064a\u0631 \u0641\u064a \u062a\u0642\u0648\u064a\u0645 \u062c\u0648\u062c\u0644",
                 "en": "Reminders in Google Calendar"
             },
             "lang_support": {
@@ -3471,15 +3568,15 @@
             "author": "Google",
             "type": "video",
             "categories": [
-                "technology",
-                "professional"
+                "technology"
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=nE09oh1ARZ8&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=15",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=nE09oh1ARZ8&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=15",
+            "author_url": "https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A/channels",
             "title": {
-                "de": "This Satellite Is In Space Now!",
+                "de": "Dieser Satellit ist im Raum Now!*",
                 "ar": "\u0647\u0630\u0627 \u0627\u0644\u0642\u0645\u0631 \u0627\u0644\u0635\u0646\u0627\u0639\u064a \u0641\u064a \u0627\u0644\u0641\u0636\u0627\u0621 \u0627\u0644\u0622\u0646!",
                 "en": "This Satellite Is In Space Now!"
             },
@@ -3499,10 +3596,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=bHvf7Tagt18&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=10",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=bHvf7Tagt18&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g&index=10",
+            "author_url": "https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A/channels",
             "title": {
-                "de": "How Does Your Phone Know This Is A Dog?",
+                "de": "Wie wei\u00df Telefon Dies ist ein Hund?*",
                 "ar": "\u0643\u064a\u0641 \u064a\u0639\u0631\u0641 \u0647\u0627\u062a\u0641\u0643 \u0623\u0646 \u0647\u0630\u0627 \u0643\u0644\u0628\u061f",
                 "en": "How Does Your Phone Know This Is A Dog?"
             },
@@ -3523,11 +3621,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=spO3ugXq6Po&index=1&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=spO3ugXq6Po&index=1&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g",
+            "author_url": "https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A/channels",
             "title": {
-                "de": "Can You Teach A Phone To See?",
-                "ar": "Can You Teach A Phone To See?",
+                "de": "K\u00f6nnen Sie eine Telefon Teach zu sehen?*",
+                "ar": "\u0647\u0644 \u064a\u0645\u0643\u0646\u0643 \u062a\u0639\u0644\u064a\u0645 \u0647\u0627\u062a\u0641\u0643 \u0627\u0644\u0631\u0624\u064a\u0629\u061f",
                 "en": "Can You Teach A Phone To See?"
             },
             "lang_support": {
@@ -3547,10 +3646,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=kQDQ3Ps_-b4&index=8&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=kQDQ3Ps_-b4&index=8&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g",
+            "author_url": "https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A/channels",
             "title": {
-                "de": "We Popped A Giant Internet Balloon!",
+                "de": "Wir gingen ein Riese Internet Ballon!*",
                 "ar": "We Popped A Giant Internet Balloon!",
                 "en": "We Popped A Giant Internet Balloon!"
             },
@@ -3570,10 +3670,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=JhHMJCUmq28",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=JhHMJCUmq28",
+            "author_url": "https://www.youtube.com/user/Kurzgesagt",
             "title": {
-                "de": "Quantum Computers Explained \u2013 Limits of Human Technology",
+                "de": "Quantencomputer erkl\u00e4rt - Grenzen der Human Technology*",
                 "ar": "Quantum Computers Explained \u2013 Limits of Human Technology",
                 "en": "Quantum Computers Explained \u2013 Limits of Human Technology"
             },
@@ -3591,10 +3692,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=QAa2O_8wBUQ",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=QAa2O_8wBUQ",
+            "author_url": "https://www.youtube.com/user/Kurzgesagt",
             "title": {
-                "de": "What is Dark Matter and Dark Energy?",
+                "de": "Was ist Dunkle Materie und Dunkle Energie?*",
                 "ar": "What is Dark Matter and Dark Energy?",
                 "en": "What is Dark Matter and Dark Energy?"
             },
@@ -3612,10 +3714,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=ZL4yYHdDSWs&list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=ZL4yYHdDSWs&list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF",
+            "author_url": "https://www.youtube.com/user/Kurzgesagt",
             "title": {
-                "de": "How Far Can We Go? Limits of Humanity.",
+                "de": "Wie weit wir gehen k\u00f6nnen? Grenzen der Menschheit.*",
                 "ar": "\u0625\u0644\u0649 \u0623\u064a \u0645\u062f\u0649 \u064a\u0645\u0643\u0646\u0646\u0627 \u0627\u0644\u0630\u0647\u0627\u0628\u061f \u062d\u062f\u0648\u062f \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u064a\u0629.",
                 "en": "How Far Can We Go? Limits of Humanity."
             },
@@ -3633,10 +3736,11 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=9eKc5kgPVrA",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=9eKc5kgPVrA",
+            "author_url": "https://www.youtube.com/user/minutephysics",
             "title": {
-                "de": "Immovable Object vs. Unstoppable Force - Which Wins?",
+                "de": "Das unbewegliche Objekt gegen Unstoppable Kraft - Welche gewinnt?*",
                 "ar": "Immovable Object vs. Unstoppable Force - Which Wins?",
                 "en": "Immovable Object vs. Unstoppable Force - Which Wins?"
             },
@@ -3654,8 +3758,9 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=tmNXKqeUtJM",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=tmNXKqeUtJM",
+            "author_url": "https://www.youtube.com/user/minutephysics",
             "title": {
                 "de": "Why is the Solar System Flat?",
                 "ar": "\u0644\u0645\u0627\u0630\u0627 \u0627\u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0634\u0645\u0633\u064a \u0645\u0633\u0637\u062d\u061f",
@@ -3675,11 +3780,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=gxJ4M7tyLRE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=gxJ4M7tyLRE",
+            "author_url": "https://www.youtube.com/user/minutephysics",
             "title": {
                 "de": "Why is it Dark at Night?",
-                "ar": "Why is it Dark at Night?",
+                "ar": "\u0644\u0645\u0627\u0630\u0627 \u0647\u0646\u0627\u0643 \u0638\u0644\u0627\u0645 \u0641\u064a \u0627\u0644\u0644\u064a\u0644\u061f",
                 "en": "Why is it Dark at Night?"
             },
             "lang_support": {
@@ -3696,11 +3802,12 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=3gNkgj9h2oM",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=3gNkgj9h2oM",
+            "author_url": "https://www.youtube.com/user/minutephysics",
             "title": {
-                "de": "Why Isn't It Faster To Fly West?",
-                "ar": "Why Isn't It Faster To Fly West?",
+                "de": "Warum ist es nicht schneller Westen fliegen?*",
+                "ar": "\u0644\u0645\u0627\u0630\u0627 \u0644\u0627 \u064a\u062a\u0645 \u0627\u0644\u0637\u064a\u0631\u0627\u0646 \u0623\u0633\u0631\u0639 \u0625\u0644\u0649 \u0627\u0644\u063a\u0631\u0628\u061f",
                 "en": "Why Isn't It Faster To Fly West?"
             },
             "lang_support": {
@@ -3717,8 +3824,9 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=FAivtXJOsiI",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=FAivtXJOsiI",
+            "author_url": "https://www.youtube.com/user/minutephysics",
             "title": {
                 "de": "The Speed of Light in Glass",
                 "ar": "\u0633\u0631\u0639\u0629 \u0627\u0644\u0636\u0648\u0621 \u0641\u064a \u0627\u0644\u0632\u062c\u0627\u062c",
@@ -3738,8 +3846,9 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=kif4ON6QOPE",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=kif4ON6QOPE",
+            "author_url": "https://www.youtube.com/user/minutephysics",
             "title": {
                 "de": "Where Do Galaxies Come From?",
                 "ar": "\u0645\u0646 \u0623\u064a\u0646 \u062a\u0623\u062a\u064a \u0627\u0644\u0645\u062c\u0631\u0627\u062a",
@@ -3759,8 +3868,9 @@
             ]
         },
         {
-            "url": "https://www.youtube.com/watch?v=A-QoutHCu4o",
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=A-QoutHCu4o",
+            "author_url": "https://www.youtube.com/user/minutephysics",
             "title": {
                 "de": "How to Count Infinity",
                 "ar": "\u0643\u064a\u0641\u064a\u0629 \u0639\u062f \u0627\u0644\u0645\u0627\u0644\u0627 \u0646\u0647\u0627\u064a\u0629",
