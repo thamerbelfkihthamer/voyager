@@ -23,8 +23,8 @@
             "name": "space",
             "title": {
                 "de": "fix-Space",
-                "ar": "fix-Space",
-                "en": "fix-Space"
+                "ar": "الفضاء",
+                "en": "Space"
             }
         },
         {
@@ -50,8 +50,8 @@
             "name": "environmental",
             "title": {
                 "de": "fix-Environmental",
-                "ar": "fix-Environmental",
-                "en": "fix-Environmental"
+                "ar": "بيئي",
+                "en": "Environmental"
             }
         },
         {
@@ -95,8 +95,8 @@
             "name": "graphics_design",
             "title": {
                 "de": "fix-Graphic Design",
-                "ar": "fix-Graphic Design",
-                "en": "fix-Graphic Design"
+                "ar": "التصميم الجرافيكي",
+                "en": "Graphic Design"
             }
         },
         {
