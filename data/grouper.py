@@ -23,25 +23,12 @@ import string
 import sys
 
 CATEGORIES = {
-    "Agriculture": "agriculture",
-    "Architecture": "architecture",
-    "Cars": "cars",
     "Coding": "coding",
-    "Comics": "comics",
-    "Culinary": "culinary",
     "Design and Art": "design_art",
-    "Education": "education",
-    "Environmental": "environmental",
-    "Game Design": "game_design",
-    "Games": "games",
-    "Graphic Design": "graphics_design",
     "Language": "language",
     "Math and Science": "math_science",
-    "Professional Development": "professional",
-    "Robotics": "robotics",
-    "Space": "space",
+    "Other": "other",
     "Technology": "technology",
-    "Vocational and Trade Skills": "vocational",
 }
 
 def categoryjson():

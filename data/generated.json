@@ -66,7 +66,9 @@
             "duration": "2:11",
             "author": "Kiva",
             "type": "video",
-            "categories": []
+            "categories": [
+                "other"
+            ]
         },
         {
             "org": "google",
@@ -88,7 +90,8 @@
             "type": "video",
             "categories": [
                 "design_art",
-                "math_science"
+                "math_science",
+                "other"
             ]
         },
         {
@@ -138,6 +141,7 @@
                 "coding",
                 "technology",
                 "language",
+                "other",
                 "design_art",
                 "math_science"
             ]
@@ -210,7 +214,8 @@
             "type": "video",
             "categories": [
                 "technology",
-                "design_art"
+                "design_art",
+                "other"
             ]
         },
         {
@@ -258,7 +263,8 @@
             "type": "video",
             "categories": [
                 "technology",
-                "design_art"
+                "design_art",
+                "other"
             ]
         },
         {
@@ -305,6 +311,7 @@
             "type": "video",
             "categories": [
                 "technology",
+                "other",
                 "design_art"
             ]
         },
@@ -700,7 +707,8 @@
             "categories": [
                 "coding",
                 "technology",
-                "design_art"
+                "design_art",
+                "other"
             ]
         },
         {
@@ -725,6 +733,7 @@
                 "coding",
                 "technology",
                 "language",
+                "other",
                 "design_art",
                 "math_science"
             ]
@@ -1124,7 +1133,8 @@
             "type": "video",
             "categories": [
                 "design_art",
-                "math_science"
+                "math_science",
+                "other"
             ]
         },
         {
@@ -1147,7 +1157,8 @@
             "type": "video",
             "categories": [
                 "technology",
-                "math_science"
+                "math_science",
+                "other"
             ]
         },
         {
@@ -1170,8 +1181,7 @@
             "type": "video",
             "categories": [
                 "technology",
-                "math_science",
-                "environmental"
+                "math_science"
             ]
         },
         {
@@ -1811,8 +1821,7 @@
             "type": "video",
             "categories": [
                 "technology",
-                "design_art",
-                "comics"
+                "design_art"
             ]
         },
         {
@@ -1977,7 +1986,8 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "design_art"
+                "design_art",
+                "other"
             ]
         },
         {
@@ -1998,7 +2008,9 @@
             "duration": "1:47",
             "author": "WIRED",
             "type": "video",
-            "categories": []
+            "categories": [
+                "other"
+            ]
         },
         {
             "org": "google",
@@ -2020,8 +2032,7 @@
             "type": "video",
             "categories": [
                 "technology",
-                "math_science",
-                "space"
+                "math_science"
             ]
         },
         {
@@ -2156,7 +2167,8 @@
             "type": "video",
             "categories": [
                 "technology",
-                "design_art"
+                "design_art",
+                "other"
             ]
         },
         {
@@ -2224,7 +2236,8 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "design_art"
+                "design_art",
+                "other"
             ]
         },
         {
@@ -2271,6 +2284,7 @@
                 "coding",
                 "technology",
                 "language",
+                "other",
                 "design_art",
                 "math_science"
             ]
@@ -2339,7 +2353,8 @@
             "type": "video",
             "categories": [
                 "design_art",
-                "math_science"
+                "math_science",
+                "other"
             ]
         },
         {
@@ -2383,7 +2398,8 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "design_art"
+                "design_art",
+                "other"
             ]
         },
         {
@@ -2866,7 +2882,8 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "design_art"
+                "design_art",
+                "other"
             ]
         },
         {
@@ -3008,7 +3025,8 @@
             "categories": [
                 "technology",
                 "language",
-                "design_art"
+                "design_art",
+                "other"
             ]
         },
         {
@@ -3030,7 +3048,8 @@
             "author": "Google for Education",
             "type": "video",
             "categories": [
-                "technology"
+                "technology",
+                "other"
             ]
         },
         {
@@ -3123,8 +3142,7 @@
             "type": "video",
             "categories": [
                 "design_art",
-                "math_science",
-                "robotics"
+                "math_science"
             ]
         },
         {
@@ -3146,7 +3164,8 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "math_science"
+                "math_science",
+                "other"
             ]
         },
         {
@@ -3191,8 +3210,7 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "math_science",
-                "environmental"
+                "math_science"
             ]
         },
         {
@@ -3214,8 +3232,7 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "math_science",
-                "robotics"
+                "math_science"
             ]
         },
         {
@@ -3261,8 +3278,7 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "math_science",
-                "agriculture"
+                "math_science"
             ]
         },
         {
@@ -3546,7 +3562,8 @@
             "author": "Google",
             "type": "video",
             "categories": [
-                "technology"
+                "technology",
+                "other"
             ]
         },
         {
@@ -3568,7 +3585,8 @@
             "author": "Google",
             "type": "video",
             "categories": [
-                "technology"
+                "technology",
+                "other"
             ]
         },
         {
@@ -3939,101 +3957,11 @@
     "categories": [
         {
             "image": "",
-            "name": "space",
-            "title": {
-                "de": "fix-Space",
-                "ar": "\u0627\u0644\u0641\u0636\u0627\u0621",
-                "en": "Space"
-            }
-        },
-        {
-            "image": "",
-            "name": "math_science",
-            "title": {
-                "de": "Mathe und Wissenschaft",
-                "ar": "\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0648\u0627\u0644\u0639\u0644\u0648\u0645",
-                "en": "Math and Science"
-            }
-        },
-        {
-            "image": "",
-            "name": "language",
-            "title": {
-                "de": "Sprache",
-                "ar": "\u0644\u063a\u0627\u062a",
-                "en": "Language"
-            }
-        },
-        {
-            "image": "",
-            "name": "environmental",
-            "title": {
-                "de": "fix-Environmental",
-                "ar": "\u0628\u064a\u0626\u064a",
-                "en": "Environmental"
-            }
-        },
-        {
-            "image": "",
-            "name": "comics",
-            "title": {
-                "de": "Comics",
-                "ar": "\u0631\u0633\u0648\u0645 \u0647\u0632\u0644\u064a\u0629",
-                "en": "Comics"
-            }
-        },
-        {
-            "image": "",
-            "name": "cars",
-            "title": {
-                "de": "Autos",
-                "ar": "\u0633\u064a\u0627\u0631\u0627\u062a",
-                "en": "Cars"
-            }
-        },
-        {
-            "image": "",
-            "name": "robotics",
-            "title": {
-                "de": "Robotik",
-                "ar": "\u0631\u0648\u0628\u0648\u062a\u0627\u062a",
-                "en": "Robotics"
-            }
-        },
-        {
-            "image": "",
             "name": "coding",
             "title": {
                 "de": "Programmierung",
                 "ar": "\u0628\u0631\u0645\u062c\u0629 ",
                 "en": "Coding"
-            }
-        },
-        {
-            "image": "",
-            "name": "graphics_design",
-            "title": {
-                "de": "fix-Graphic Design",
-                "ar": "\u0627\u0644\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u062c\u0631\u0627\u0641\u064a\u0643\u064a",
-                "en": "Graphic Design"
-            }
-        },
-        {
-            "image": "",
-            "name": "culinary",
-            "title": {
-                "de": "Kulinarisch",
-                "ar": "\u0627\u0644\u0637\u0628\u062e",
-                "en": "Culinary"
-            }
-        },
-        {
-            "image": "",
-            "name": "game_design",
-            "title": {
-                "de": "Spieldesign",
-                "ar": "\u062a\u0635\u0645\u064a\u0645 \u0623\u0644\u0639\u0627\u0628",
-                "en": "Game Design"
             }
         },
         {
@@ -4047,56 +3975,29 @@
         },
         {
             "image": "",
-            "name": "architecture",
+            "name": "language",
             "title": {
-                "de": "Architektur",
-                "ar": "\u0647\u0646\u062f\u0633\u0629 \u0645\u0639\u0645\u0627\u0631\u064a\u0629",
-                "en": "Architecture"
+                "de": "Sprache",
+                "ar": "\u0644\u063a\u0627\u062a",
+                "en": "Language"
             }
         },
         {
             "image": "",
-            "name": "games",
+            "name": "math_science",
             "title": {
-                "de": "Spiele",
-                "ar": "\u0623\u0644\u0639\u0627\u0628",
-                "en": "Games"
+                "de": "Mathe und Wissenschaft",
+                "ar": "\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0648\u0627\u0644\u0639\u0644\u0648\u0645",
+                "en": "Math and Science"
             }
         },
         {
             "image": "",
-            "name": "education",
+            "name": "other",
             "title": {
-                "de": "Ausbildung",
-                "ar": "\u0627\u0644\u062a\u0639\u0644\u064a\u0645",
-                "en": "Education"
-            }
-        },
-        {
-            "image": "",
-            "name": "agriculture",
-            "title": {
-                "de": "Landwirtschaft",
-                "ar": "\u0632\u0631\u0627\u0639\u0629",
-                "en": "Agriculture"
-            }
-        },
-        {
-            "image": "",
-            "name": "vocational",
-            "title": {
-                "de": "Berufs- und Fachkenntnisse",
-                "ar": "\u0627\u0644\u0645\u0647\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u0647\u0646\u064a\u0629 \u0648\u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629",
-                "en": "Vocational and Trade Skills"
-            }
-        },
-        {
-            "image": "",
-            "name": "professional",
-            "title": {
-                "de": "Berufliche Entwicklung",
-                "ar": "\u062a\u0646\u0645\u064a\u0629 \u0645\u0647\u0646\u064a\u0629",
-                "en": "Professional Development"
+                "de": "fix-Other",
+                "ar": "\u0622\u062e\u0631",
+                "en": "Other"
             }
         },
         {

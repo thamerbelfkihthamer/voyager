@@ -32,25 +32,12 @@ EXPECTED_LANGUAGES = ['ar', 'de', 'en']
 EXPECTED_LABELS = ['strings', 'orgs', 'categories']
 
 CATEGORIES = {
-    "Agriculture": "agriculture",
-    "Architecture": "architecture",
-    "Cars": "cars",
     "Coding": "coding",
-    "Comics": "comics",
-    "Culinary": "culinary",
     "Design and Art": "design_art",
-    "Education": "education",
-    "Environmental": "environmental",
-    "Game Design": "game_design",
-    "Games": "games",
-    "Graphic Design": "graphics_design",
     "Language": "language",
     "Math and Science": "math_science",
-    "Professional Development": "professional",
-    "Robotics": "robotics",
-    "Space": "space",
+    "Other": "other",
     "Technology": "technology",
-    "Vocational and Trade Skills": "vocational",
 }
 
 # Returns true if all expected languages are present in object
