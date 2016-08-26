@@ -162,7 +162,8 @@ def parseContent(i, fields):
         "author":       fields[11].strip(),
         "logo":         fields[12].strip(),
         "duration":     fields[13].strip(),
-        "org":          fields[14].strip(),
+        "author_url":   fields[14].strip(),
+        "org":          fields[15].strip(),
     }
     return record
 
