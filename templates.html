@@ -168,7 +168,7 @@
             <div class="card{{#if_eq @index 0}} fullwidth{{/if_eq}}" id="card-{{@index}}">
               {{#if_eq this.type "video"}}
                 <div class="yt-video-image-container{{#if_eq @index 0}} first{{/if_eq}}">
-                  <img class="yt-video-image load-image video-link" id="feature-img-{{@index}}" data-index="{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
+                  <img class="yt-video-image load-image video-link" id="feature-img-{{@index}}" data-index="{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}?fs=0" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
                 </div>
               {{/if_eq}}
               <div class="metadata">
@@ -179,7 +179,7 @@
                   <div class="author"><a href="{{this.author_url}}" target="_blank">{{this.author}}</a></div>
                   <div class="title">
                     {{#if_eq this.type "video"}}
-                      <a class="video-link" data-index="{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}">
+                      <a class="video-link" data-index="{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}?fs=0">
                     {{else}}
                       <a href="{{this.url}}" target="_blank">
                     {{/if_eq}}
