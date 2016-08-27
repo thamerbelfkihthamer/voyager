@@ -192,10 +192,13 @@ img.yt-video-image {
 
 .metadata .author {
   font-weight: 100;
-  color: #82A8E3;
   font-size: 10pt;
   text-transform: uppercase;
   margin-bottom: 3px;
+}
+
+.metadata .author a {
+  color: #82A8E3;
 }
 
 .video-modal {

@@ -176,7 +176,7 @@
                   <img class="logo load-image" id="logo-{{@index}}" data-src="{{this.logo}}"/>
                 </div>
                 <div class="author-title-container">
-                  <div class="author">{{this.author}}</div>
+                  <div class="author"><a href="{{this.author_url}}" target="_blank">{{this.author}}</a></div>
                   <div class="title">
                     {{#if_eq this.type "video"}}
                       <a class="video-link" data-index="{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}">
