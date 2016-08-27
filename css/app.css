@@ -137,9 +137,21 @@ a {
   width: 920px;
 }
 
-.card img.yt-video-image {
+img.yt-video-image {
   width: inherit;
   cursor: pointer;
+}
+
+.yt-video-image-container {
+  display: flex;
+  align-items: center;
+  height: 240px;
+  overflow: hidden;
+  width: inherit;
+}
+
+.yt-video-image-container.first {
+  height: 450px;
 }
 
 .metadata {
