@@ -19,6 +19,8 @@ chrome.app.runtime.onLaunched.addListener(function() {
   chrome.app.window.create('../app.html',
     {
       id: "mainwin",
-      state: "maximized"
+      state: "maximized",
+      minWidth: 960,
+      minHeight: 660
     });
 });
