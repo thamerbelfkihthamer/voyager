@@ -120,6 +120,10 @@ a {
   font-size: 12pt;
 }
 
+.card-sizer {
+  width: 450px;
+}
+
 .card {
   width: 450px;
   background-color: #ffffff;
@@ -127,6 +131,10 @@ a {
   margin-top: 20px;
   border: 1px solid #DDD;
   border-right: none;
+}
+
+.fullwidth {
+  width: 900px;
 }
 
 .card img.yt-video-image {

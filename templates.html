@@ -163,8 +163,9 @@
       <div id="main_content">
         <div class=".category-title">{{lookup category.title lang}}</div>
         <div id="cards-container">
+            <div class="card-sizer"></div>
           {{#each content}}
-            <div class="card" id="card-{{@index}}">
+            <div class="card{{#if_eq @index 0}} fullwidth{{/if_eq}}" id="card-{{@index}}">
               {{#if_eq this.type "video"}}
                 <img class="yt-video-image load-image video-link" id="feature-img-{{@index}}" data-index="{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
               {{/if_eq}}

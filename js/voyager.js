@@ -279,7 +279,7 @@ var VOYAGER;
             $("#cards-container img").on('load', function() {
                 $("#cards-container").masonry({
                     itemSelector: ".card",
-                    columnWidth: ".card",
+                    columnWidth: ".card-sizer",
                     gutter: 20,
                     columns: 2
                 });
