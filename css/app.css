@@ -26,19 +26,27 @@ a {
     margin: 20px 20px 0px 0px;
 }
 
-#navigation .home-label {
-  font-size: 1.2em;
-  margin-top: 0px;
-}
-
 .nav-label {
     float: left;
-    margin-right: 40px;
+    margin-right: 30px;
+    padding-left: 10px;
 }
-
+.nav-label.active {
+    border-bottom: 5px solid #673AB7;
+    padding-bottom: 20px;
+}
 .nav-label:hover {
     cursor: pointer;
     color: #333;
+}
+
+#navigation .home-label {
+    font-size: 1.2em;
+    margin-top: 0px;
+    padding-left: 0;
+}
+#navigation .home-label img {
+    width: 16px;
 }
 
 #orgs_label #orgs_uparrow {
@@ -77,86 +85,46 @@ a {
   border-bottom: 5px solid #673AB7;
 }
 
-/*.drawer {*/
-  /*display: none;*/
-  /*position: fixed;*/
-  /*top: 60px;*/
-  /*width: 100%;*/
-  /*z-index: 2;*/
-  /*background-color: white;*/
-  /*box-shadow: 0 7px 10px -4px #aaaaaa;*/
-  /*border-top: 1px solid #ccc;*/
-  /*overflow: auto;*/
-  /*white-space: nowrap;*/
-/*}*/
-
-/*.drawer div {*/
-    /*display: inline-block;*/
-    /*height: 100px;*/
-    /*width: 150px;*/
-    /*box-shadow: 0 2px 1px rgba(0,0,0,0.1),0 0 1px rgba(0,0,0,0.1);*/
-    /*text-align: center;*/
-    /*cursor: pointer;*/
-/*}*/
-
-#orgs_drawer {
-    display: none;
+.drawer {
     text-align: justify;
     background-color: white;
-
+    overflow: hidden;
+    height: 180px;
 }
-#orgs_drawer > .org {
-    width: 45%; /* Declare your value. Can be in relative units. */
-    height: 150px;
+.drawer .drawer-item {
     display: inline-block;
-    vertical-align: top;
     cursor: pointer;
 }
-#orgs_drawer > .org > img {
+.drawer .drawer-item.active {
+    border: 5px solid #673AB7;
+}
+.drawer .drawer-item > img {
     width: 100%;
     height: 90%;
 }
-
-#orgs_drawer > .org > .titleBox {
+.drawer .drawer-item > .titleBox {
     width: 100%;
     padding: 2px 5px;
 }
-
-#orgs_drawer:after {
+.drawer:after {
     content: "";
     width: 100%;
     display: inline-block;
+}
+
+#orgs_drawer {
+    display: none;
+}
+#orgs_drawer > .org {
+    width: 45%;
 }
 
 #categories_drawer {
     display: none;
-    text-align: justify;
-    background-color: white;
-
 }
 #categories_drawer > .category {
-    width: 15%; /* Declare your value. Can be in relative units. */
-    height: 150px;
-    display: inline-block;
-    vertical-align: top;
-    cursor: pointer;
+    width: 15%;
 }
-#categories_drawer > .category > img {
-    width: 100%;
-    height: 90%;
-}
-
-#categories_drawer > .category > .titleBox {
-    width: 100%;
-    padding: 2px 5px;
-}
-
-#categories_drawer:after {
-    content: "";
-    width: 100%;
-    display: inline-block;
-}
-
 
 #main_navbar {
   position: fixed;

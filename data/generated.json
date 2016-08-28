@@ -3910,31 +3910,22 @@
     ],
     "orgs": [
         {
-            "image": "",
-            "name": "google",
+            "name": "aida_erding",
             "title": {
-                "de": "Google",
-                "en": "Google",
-                "ar": "Google"
-            }
+                "en": "AIDA Erding",
+                "de": "de-aida_erding",
+                "ar": "ar-aida_erding"
+            },
+            "image": ""
         },
         {
-            "image": "",
-            "name": "unicef",
+            "name": "asyl_plus",
             "title": {
-                "de": "de-Unicef",
-                "en": "Unicef",
-                "ar": "ar-Unicef"
-            }
-        },
-        {
-            "image": "",
-            "name": "stanford",
-            "title": {
-                "de": "de-Stanford",
-                "en": "Stanford",
-                "ar": "ar-Stanford"
-            }
+                "en": "ASYL Plus",
+                "de": "de-asyl_plus",
+                "ar": "ar-asyl_plus"
+            },
+            "image": ""
         }
     ],
     "strings": {

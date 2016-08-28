@@ -131,6 +131,7 @@ var VOYAGER;
                 "lang": VOYAGER.language,
                 "org": VOYAGER.org,
                 "category": VOYAGER.category,
+                "content_title": VOYAGER.org ? VOYAGER.org.title[VOYAGER.language] : VOYAGER.category ? VOYAGER.category.title[VOYAGER.language] : "",
                 "content": VOYAGER.getContent()
             };
 
@@ -279,8 +280,10 @@ var VOYAGER;
             var context = {
                 "strings": VOYAGER.strings[VOYAGER.language],
                 "lang": VOYAGER.language,
-                "orgs": VOYAGER.orgs,
-                "categories": VOYAGER.categories,
+                "orgs": getCopyWithActive(VOYAGER.orgs, VOYAGER.org),
+                "categories": getCopyWithActive(VOYAGER.categories, VOYAGER.category),
+                "org_filter": VOYAGER.org ? "active" : "",
+                "category_filter": VOYAGER.category ? "active" : ""
             };
 
             var templateName = "template_navbar";
@@ -370,6 +373,18 @@ var VOYAGER;
 
     function isDefined(variable) {
         return (typeof variable !== 'undefined') && variable;
+    }
+
+    function getCopyWithActive(oldArray, selected) {
+        var newArr = [];
+        for (var i = 0, length = oldArray.length; i < length; i++) {
+            var newElement = jQuery.extend(true, {}, oldArray[i]);
+            if (selected && newElement.name == selected.name) {
+                newElement.active = "active";
+            }
+            newArr.push(newElement);
+        }
+        return newArr;
     }
 
 })(jQuery);
