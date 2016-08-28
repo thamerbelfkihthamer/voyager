@@ -97,7 +97,7 @@ var VOYAGER;
                 VOYAGER.language = "en";
             }
 
-            if (VOYAGER.category === undefined || VOYAGER.category === null) {
+            if (!isDefined(VOYAGER.category) && !isDefined(VOYAGER.org)) {
                 VOYAGER.category = {
                     "image": "",
                     "name": "math_science",
@@ -109,27 +109,18 @@ var VOYAGER;
                 };
             }
 
-            if (VOYAGER.org === undefined || VOYAGER.org === null) {
-                VOYAGER.org = {
-                    "name": "google",
-                      "title": {
-                          "en": "Google",
-                          "de": "Google",
-                          "ar": "Google"
-                    },
-                    "image": ""
-                };
-            }
-
-            if (VOYAGER.category != null && VOYAGER.org != null) {
-                for (var element in VOYAGER.content) {
-
-                    if (VOYAGER.content[element]["lang_support"][VOYAGER.language] &&
-                        VOYAGER.content[element]["categories"].indexOf(VOYAGER.category.name) >= 0 &&
-                        VOYAGER.content[element]["org"] === VOYAGER.org.name) {
-                       filteredContent.push(VOYAGER.content[element]);
-                    }
+            for (var element in VOYAGER.content) {
+                var content = VOYAGER.content[element];
+                if (isDefined(VOYAGER.language) && !isDefined(content.lang_support[VOYAGER.language])) {
+                    continue;
                 }
+                if (isDefined(VOYAGER.category) && content.categories.indexOf(VOYAGER.category.name) === -1) {
+                    continue;
+                }
+                if (isDefined(VOYAGER.org) && content.org !== VOYAGER.org.name) {
+                    continue;
+                }
+                filteredContent.push(content);
             }
 
             return filteredContent;
@@ -248,22 +239,22 @@ var VOYAGER;
 
             // Organization drawer click handler
             $(".org").on("click", function(e) {
+                delete VOYAGER.category;
+                var nodeId = $(e.target).closest('.org').attr('id');
                 // Strip off "org_" prefix from id
-                var org = e.target.id.split("_");
-                VOYAGER.org = VOYAGER.orgsObj[org[org.length - 1]];
-                VOYAGER.hideOrgsDrawer(function() {
-                    VOYAGER.refreshUI();
-                });
+                var orgId = nodeId.substring(nodeId.indexOf("_") + 1);
+                VOYAGER.org = VOYAGER.orgsObj[orgId];
+                VOYAGER.refreshUI();
             });
 
             // Category drawer click handler
             $(".category").on("click", function(e) {
+                delete VOYAGER.org;
+                var nodeId = $(e.target).closest('.category').attr('id');
                 // Strip off "category_" prefix from id
-                var category = e.target.id.split("_");
-                VOYAGER.category = VOYAGER.categoriesObj[category[category.length - 1]];
-                VOYAGER.hideCategoriesDrawer(function() {
-                    VOYAGER.refreshUI();
-                });
+                var categoryId = nodeId.substring(nodeId.indexOf("_") + 1);
+                VOYAGER.category = VOYAGER.categoriesObj[categoryId];
+                VOYAGER.refreshUI();
             });
         },
 
@@ -376,6 +367,11 @@ var VOYAGER;
             });
         }
     };
+
+    function isDefined(variable) {
+        return (typeof variable !== 'undefined') && variable;
+    }
+
 })(jQuery);
 
 jQuery(function($) {
