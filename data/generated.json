@@ -19,7 +19,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "technology",
                 "math_science"
             ]
         },
@@ -64,8 +63,6 @@
             "author": "Google Developers",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
                 "design_art"
             ]
         },
@@ -110,10 +107,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -135,7 +129,6 @@
             "author": "PBS Idea Channel",
             "type": "video",
             "categories": [
-                "technology",
                 "language"
             ]
         },
@@ -158,8 +151,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "coding",
-                "language",
                 "math_science"
             ]
         },
@@ -204,10 +195,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "language",
-                "design_art",
                 "math_science"
             ]
         },
@@ -252,9 +239,7 @@
             "author": "AI B",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art"
+                "coding"
             ]
         },
         {
@@ -276,10 +261,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -323,9 +305,7 @@
             "author": "Makeshift",
             "type": "video",
             "categories": [
-                "technology",
-                "math_science",
-                "other"
+                "math_science"
             ]
         },
         {
@@ -347,9 +327,7 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
-                "math_science"
+                "design_art"
             ]
         },
         {
@@ -393,12 +371,7 @@
             "author": "Android Developers",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "language",
-                "other",
-                "design_art",
-                "math_science"
+                "technology"
             ]
         },
         {
@@ -464,10 +437,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -489,9 +459,6 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -514,9 +481,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -605,7 +570,6 @@
             "author": "Google",
             "type": "video",
             "categories": [
-                "technology",
                 "language"
             ]
         },
@@ -650,8 +614,7 @@
             "author": "Google Cultural Institute",
             "type": "video",
             "categories": [
-                "technology",
-                "math_science"
+                "technology"
             ]
         },
         {
@@ -673,10 +636,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -698,30 +658,6 @@
             "author": "Google Design",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art"
-            ]
-        },
-        {
-            "org": "google",
-            "url": "https://www.youtube.com/watch?v=rrT6v5sOwJg",
-            "author_url": "https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA",
-            "title": {
-                "de": "Herstellung Material Design*",
-                "ar": "\u062c\u0639\u0644 \u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0645\u0648\u0627\u062f*",
-                "en": "Making Material Design"
-            },
-            "lang_support": {
-                "de": true,
-                "ar": true,
-                "en": true
-            },
-            "logo": "https://yt3.ggpht.com/-99RMkL32yk8/AAAAAAAAAAI/AAAAAAAAAAA/VRQkMbulnco/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "6:49",
-            "author": "Google Design",
-            "type": "video",
-            "categories": [
-                "technology",
                 "design_art"
             ]
         },
@@ -744,10 +680,7 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "design_art"
             ]
         },
         {
@@ -769,7 +702,6 @@
             "author": "Makeshift",
             "type": "video",
             "categories": [
-                "technology",
                 "math_science"
             ]
         },
@@ -792,7 +724,6 @@
             "author": "Google Design",
             "type": "video",
             "categories": [
-                "technology",
                 "design_art"
             ]
         },
@@ -842,6 +773,28 @@
         },
         {
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=rrT6v5sOwJg",
+            "author_url": "https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA",
+            "title": {
+                "de": "Herstellung Material Design*",
+                "ar": "\u062c\u0639\u0644 \u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0645\u0648\u0627\u062f*",
+                "en": "Making Material Design"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-99RMkL32yk8/AAAAAAAAAAI/AAAAAAAAAAA/VRQkMbulnco/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "6:49",
+            "author": "Google Design",
+            "type": "video",
+            "categories": [
+                "design_art"
+            ]
+        },
+        {
+            "org": "google",
             "url": "https://www.youtube.com/watch?v=UJIP3JGgjtE",
             "author_url": "https://www.youtube.com/user/wired",
             "title": {
@@ -859,9 +812,6 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -884,9 +834,7 @@
             "author": "Android Developers",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art"
+                "coding"
             ]
         },
         {
@@ -952,8 +900,7 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "design_art",
-                "other"
+                "design_art"
             ]
         },
         {
@@ -975,9 +922,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -1000,32 +944,7 @@
             "author": "MinutePhysics",
             "type": "video",
             "categories": [
-                "technology",
-                "math_science"
-            ]
-        },
-        {
-            "org": "google",
-            "url": "https://www.youtube.com/watch?v=GJ_Zki8e8Kw&index=4&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
-            "author_url": "https://www.youtube.com/user/wired",
-            "title": {
-                "de": "Diese Roboterhand zum Anfassen und F\u00fchlen, wie ein menschliches Hand | Cyborg Nation*",
-                "ar": "\u0647\u0630\u0627 \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u064a\u0629 \u0627\u0644\u064a\u062f \u064a\u0645\u0643\u0646 \u0644\u0645\u0633 \u0648\u0627\u0644\u0634\u0639\u0648\u0631\u060c \u062a\u0645\u0627\u0645\u0627 \u0645\u062b\u0644 \u0627\u0644\u064a\u062f \u0627\u0644\u0628\u0634\u0631\u064a\u0629 | \u0633\u0627\u064a\u0628\u0648\u0631\u063a \u0627\u0644\u0623\u0645\u0629*",
-                "en": "This Robotic Hand Can Touch and Feel, Just Like a Human Hand | Cyborg Nation"
-            },
-            "lang_support": {
-                "de": true,
-                "ar": true,
-                "en": true
-            },
-            "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "3:29:00",
-            "author": "WIRED",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art",
-                "math_science"
+                "technology"
             ]
         },
         {
@@ -1047,9 +966,6 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -1072,8 +988,29 @@
             "author": "Google",
             "type": "video",
             "categories": [
-                "technology",
                 "math_science"
+            ]
+        },
+        {
+            "org": "google",
+            "url": "https://www.youtube.com/watch?v=GJ_Zki8e8Kw&index=4&list=PLibNZv5Zd0dyS3k-CN2NCVjeWdJGYetZN",
+            "author_url": "https://www.youtube.com/user/wired",
+            "title": {
+                "de": "Diese Roboterhand zum Anfassen und F\u00fchlen, wie ein menschliches Hand | Cyborg Nation*",
+                "ar": "\u0647\u0630\u0627 \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u064a\u0629 \u0627\u0644\u064a\u062f \u064a\u0645\u0643\u0646 \u0644\u0645\u0633 \u0648\u0627\u0644\u0634\u0639\u0648\u0631\u060c \u062a\u0645\u0627\u0645\u0627 \u0645\u062b\u0644 \u0627\u0644\u064a\u062f \u0627\u0644\u0628\u0634\u0631\u064a\u0629 | \u0633\u0627\u064a\u0628\u0648\u0631\u063a \u0627\u0644\u0623\u0645\u0629*",
+                "en": "This Robotic Hand Can Touch and Feel, Just Like a Human Hand | Cyborg Nation"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-o-paLwGziS0/AAAAAAAAAAI/AAAAAAAAAAA/B0YaVg_Z8yk/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "3:29:00",
+            "author": "WIRED",
+            "type": "video",
+            "categories": [
+                "technology"
             ]
         },
         {
@@ -1161,9 +1098,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -1186,9 +1120,6 @@
             "author": "Google Stories",
             "type": "video",
             "categories": [
-                "technology",
-                "language",
-                "design_art",
                 "other"
             ]
         },
@@ -1211,10 +1142,7 @@
             "author": "Android Developers",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "language",
-                "design_art"
+                "coding"
             ]
         },
         {
@@ -1258,7 +1186,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "technology",
                 "math_science"
             ]
         },
@@ -1281,10 +1208,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -1306,9 +1230,7 @@
             "author": "Google",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
-                "other"
+                "design_art"
             ]
         },
         {
@@ -1330,10 +1252,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -1377,10 +1296,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -1424,7 +1340,6 @@
             "author": "Google Cultural Institute",
             "type": "video",
             "categories": [
-                "technology",
                 "design_art"
             ]
         },
@@ -1447,7 +1362,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "technology",
                 "math_science"
             ]
         },
@@ -1470,33 +1384,7 @@
             "author": "Nat and Lo",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "org": "google",
-            "url": "https://www.youtube.com/watch?v=kQDQ3Ps_-b4&index=8&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g",
-            "author_url": "https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A/channels",
-            "title": {
-                "de": "Wir liessen einen Riesigen Internet Ballon knallen!",
-                "ar": "\u0646\u062d\u0646 \u0628\u0631\u0632\u062a \u0639\u0645\u0644\u0627\u0642 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a \u0628\u0627\u0644\u0648\u0646!*",
-                "en": "We Popped A Giant Internet Balloon!"
-            },
-            "lang_support": {
-                "de": true,
-                "ar": true,
-                "en": true
-            },
-            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "6:12",
-            "author": "Nat and Lo",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art",
-                "math_science"
+                "technology"
             ]
         },
         {
@@ -1540,8 +1428,6 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -1564,10 +1450,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -1589,8 +1472,7 @@
             "author": "Google Cultural Institute",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art"
+                "technology"
             ]
         },
         {
@@ -1612,10 +1494,7 @@
             "author": "Google for Education",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -1638,6 +1517,28 @@
             "type": "video",
             "categories": [
                 "math_science"
+            ]
+        },
+        {
+            "org": "google",
+            "url": "https://www.youtube.com/watch?v=kQDQ3Ps_-b4&index=8&list=PLeqAcoTy5741GXa8rccolGQaj_nVGw76g",
+            "author_url": "https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A/channels",
+            "title": {
+                "de": "Wir liessen einen Riesigen Internet Ballon knallen!",
+                "ar": "\u0646\u062d\u0646 \u0628\u0631\u0632\u062a \u0639\u0645\u0644\u0627\u0642 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a \u0628\u0627\u0644\u0648\u0646!*",
+                "en": "We Popped A Giant Internet Balloon!"
+            },
+            "lang_support": {
+                "de": true,
+                "ar": true,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-S4ffyBpodNk/AAAAAAAAAAI/AAAAAAAAAAA/-_ojQ7rsFSA/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "6:12",
+            "author": "Nat and Lo",
+            "type": "video",
+            "categories": [
+                "technology"
             ]
         },
         {
@@ -1681,12 +1582,7 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "language",
-                "other",
-                "design_art",
-                "math_science"
+                "design_art"
             ]
         },
         {
@@ -1708,7 +1604,6 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "technology",
                 "math_science"
             ]
         },
@@ -1731,7 +1626,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "design_art",
                 "math_science"
             ]
         },
@@ -1754,9 +1648,6 @@
             "author": "Google Stories",
             "type": "video",
             "categories": [
-                "technology",
-                "language",
-                "design_art",
                 "math_science"
             ]
         },
@@ -1779,8 +1670,6 @@
             "author": "Makeshift",
             "type": "video",
             "categories": [
-                "design_art",
-                "math_science",
                 "other"
             ]
         },
@@ -1803,7 +1692,6 @@
             "author": "Google Cultural Institute",
             "type": "video",
             "categories": [
-                "technology",
                 "design_art"
             ]
         },
@@ -1826,7 +1714,6 @@
             "author": "World Science Festival",
             "type": "video",
             "categories": [
-                "design_art",
                 "math_science"
             ]
         },
@@ -1849,7 +1736,6 @@
             "author": "Google Design",
             "type": "video",
             "categories": [
-                "technology",
                 "design_art"
             ]
         },
@@ -1872,10 +1758,7 @@
             "author": "Google Developers",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -1897,9 +1780,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "coding",
-                "language",
-                "design_art",
                 "math_science"
             ]
         },
@@ -1944,10 +1824,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -1969,10 +1846,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -2038,8 +1912,6 @@
             "author": "Makeshift",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -2062,9 +1934,7 @@
             "author": "Android Developers Story",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art"
+                "coding"
             ]
         },
         {
@@ -2086,10 +1956,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -2111,8 +1978,7 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "math_science",
-                "other"
+                "math_science"
             ]
         },
         {
@@ -2134,9 +2000,7 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
-                "math_science"
+                "technology"
             ]
         },
         {
@@ -2158,7 +2022,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "design_art",
                 "math_science"
             ]
         },
@@ -2181,9 +2044,7 @@
             "author": "Android Developers",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art"
+                "coding"
             ]
         },
         {
@@ -2249,7 +2110,6 @@
             "author": "Google Cultural Institute",
             "type": "video",
             "categories": [
-                "technology",
                 "design_art"
             ]
         },
@@ -2272,8 +2132,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -2296,11 +2154,6 @@
             "author": "Google for Education",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "language",
-                "other",
-                "design_art",
                 "math_science"
             ]
         },
@@ -2345,7 +2198,6 @@
             "author": "Google Cultural Institute",
             "type": "video",
             "categories": [
-                "technology",
                 "design_art"
             ]
         },
@@ -2368,9 +2220,7 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
-                "other"
+                "technology"
             ]
         },
         {
@@ -2392,8 +2242,7 @@
             "author": "Google",
             "type": "video",
             "categories": [
-                "technology",
-                "other"
+                "technology"
             ]
         },
         {
@@ -2437,8 +2286,7 @@
             "author": "Android Developers",
             "type": "video",
             "categories": [
-                "coding",
-                "technology"
+                "coding"
             ]
         },
         {
@@ -2460,10 +2308,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "other"
+                "coding"
             ]
         },
         {
@@ -2507,7 +2352,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "design_art",
                 "math_science"
             ]
         },
@@ -2640,7 +2484,6 @@
             "author": "Google Developers",
             "type": "video",
             "categories": [
-                "technology",
                 "design_art"
             ]
         },
@@ -2685,10 +2528,7 @@
             "author": "Android Developers",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "language",
-                "design_art"
+                "coding"
             ]
         },
         {
@@ -2732,8 +2572,6 @@
             "author": "Google Stories",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
                 "other"
             ]
         },
@@ -2756,8 +2594,7 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "design_art",
-                "other"
+                "design_art"
             ]
         },
         {
@@ -2779,9 +2616,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art"
+                "coding"
             ]
         },
         {
@@ -2847,7 +2682,6 @@
             "author": "Google",
             "type": "video",
             "categories": [
-                "technology",
                 "language"
             ]
         },
@@ -2892,7 +2726,6 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "technology",
                 "design_art"
             ]
         },
@@ -2915,33 +2748,7 @@
             "author": "Google",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
-                "math_science"
-            ]
-        },
-        {
-            "org": "google",
-            "url": "https://www.youtube.com/watch?v=TEwbFu6H0CE&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=2",
-            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
-            "title": {
-                "de": "EARTHRISE: Die erste Mondreise",
-                "ar": "EARTHRISE: \u0623\u0648\u0644 \u0631\u062d\u0644\u0629 \u0642\u0645\u0631\u064a\u0629",
-                "en": "EARTHRISE: The First Lunar Voyage"
-            },
-            "lang_support": {
-                "de": false,
-                "ar": false,
-                "en": true
-            },
-            "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
-            "duration": "7:29",
-            "author": "XiveTV Documentaries",
-            "type": "video",
-            "categories": [
-                "technology",
-                "design_art",
-                "math_science"
+                "technology"
             ]
         },
         {
@@ -2985,10 +2792,7 @@
             "author": "Nat and Lo",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "technology"
             ]
         },
         {
@@ -3010,9 +2814,7 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
-                "math_science"
+                "technology"
             ]
         },
         {
@@ -3056,10 +2858,7 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "technology",
-                "language",
-                "design_art",
-                "math_science"
+                "technology"
             ]
         },
         {
@@ -3103,10 +2902,7 @@
             "author": "Nat and Lo",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "technology"
             ]
         },
         {
@@ -3128,7 +2924,6 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "technology",
                 "math_science"
             ]
         },
@@ -3315,6 +3110,30 @@
         },
         {
             "org": "google",
+            "url": "https://www.youtube.com/watch?v=TEwbFu6H0CE&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=2",
+            "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
+            "title": {
+                "de": "EARTHRISE: Die erste Mondreise",
+                "ar": "EARTHRISE: \u0623\u0648\u0644 \u0631\u062d\u0644\u0629 \u0642\u0645\u0631\u064a\u0629",
+                "en": "EARTHRISE: The First Lunar Voyage"
+            },
+            "lang_support": {
+                "de": false,
+                "ar": false,
+                "en": true
+            },
+            "logo": "https://yt3.ggpht.com/-3QSaQa74Ids/AAAAAAAAAAI/AAAAAAAAAAA/tb3yzKTWgGY/s88-c-k-no-rj-c0xffffff/photo.jpg",
+            "duration": "7:29",
+            "author": "XiveTV Documentaries",
+            "type": "video",
+            "categories": [
+                "technology",
+                "design_art",
+                "math_science"
+            ]
+        },
+        {
+            "org": "google",
             "url": "https://www.youtube.com/watch?v=smD6ijXeW4Y&list=PL5UsyVL1WN7gOiampy3Ha-nNyncfNofSK&index=6",
             "author_url": "https://www.youtube.com/channel/UC62NeTy6Ocd5Jmh_963mLFg",
             "title": {
@@ -3398,8 +3217,6 @@
             "author": "WIRED",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -3422,8 +3239,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -3627,8 +3442,6 @@
             "author": "Google Science Fair",
             "type": "video",
             "categories": [
-                "technology",
-                "design_art",
                 "math_science"
             ]
         },
@@ -3673,10 +3486,7 @@
             "author": "Made with Code",
             "type": "video",
             "categories": [
-                "coding",
-                "technology",
-                "design_art",
-                "math_science"
+                "coding"
             ]
         },
         {
@@ -3949,6 +3759,15 @@
     "categories": [
         {
             "image": "",
+            "name": "math_science",
+            "title": {
+                "de": "Mathe und Wissenschaft",
+                "ar": "\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0648\u0627\u0644\u0639\u0644\u0648\u0645",
+                "en": "Math and Science"
+            }
+        },
+        {
+            "image": "",
             "name": "coding",
             "title": {
                 "de": "Programmierung",
@@ -3967,6 +3786,15 @@
         },
         {
             "image": "",
+            "name": "technology",
+            "title": {
+                "de": "Technologie",
+                "ar": "\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627",
+                "en": "Technology"
+            }
+        },
+        {
+            "image": "",
             "name": "language",
             "title": {
                 "de": "Sprache",
@@ -3976,29 +3804,11 @@
         },
         {
             "image": "",
-            "name": "math_science",
-            "title": {
-                "de": "Mathe und Wissenschaft",
-                "ar": "\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0648\u0627\u0644\u0639\u0644\u0648\u0645",
-                "en": "Math and Science"
-            }
-        },
-        {
-            "image": "",
             "name": "other",
             "title": {
                 "de": "Andere",
                 "ar": "\u0622\u062e\u0631",
                 "en": "Other"
-            }
-        },
-        {
-            "image": "",
-            "name": "technology",
-            "title": {
-                "de": "Technologie",
-                "ar": "\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627",
-                "en": "Technology"
             }
         }
     ]

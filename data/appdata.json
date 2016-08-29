@@ -20,6 +20,15 @@
     "categories": [
         {
             "image": "",
+            "name": "math_science",
+            "title": {
+                "de": "Mathe und Wissenschaft",
+                "ar": "الرياضيات والعلوم",
+                "en": "Math and Science"
+            }
+        },
+        {
+            "image": "",
             "name": "coding",
             "title": {
                 "de": "Programmierung",
@@ -38,6 +47,15 @@
         },
         {
             "image": "",
+            "name": "technology",
+            "title": {
+                "de": "Technologie",
+                "ar": "تكنولوجيا",
+                "en": "Technology"
+            }
+        },
+        {
+            "image": "",
             "name": "language",
             "title": {
                 "de": "Sprache",
@@ -47,29 +65,11 @@
         },
         {
             "image": "",
-            "name": "math_science",
-            "title": {
-                "de": "Mathe und Wissenschaft",
-                "ar": "الرياضيات والعلوم",
-                "en": "Math and Science"
-            }
-        },
-        {
-            "image": "",
             "name": "other",
             "title": {
                 "de": "Andere",
                 "ar": "آخر",
                 "en": "Other"
-            }
-        },
-        {
-            "image": "",
-            "name": "technology",
-            "title": {
-                "de": "Technologie",
-                "ar": "تكنولوجيا",
-                "en": "Technology"
             }
         }
     ],
