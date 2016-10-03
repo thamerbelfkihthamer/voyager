@@ -146,10 +146,20 @@ var VOYAGER;
 
         showCategoriesDrawer: function(callback) {
             if ($("#categories_drawer").css("display") === "none") {
-                $("#categories_drawer").slideDown("fast", function() {
-                    if (callback) {
-                        callback();
+                $("#categories_drawer").slideDown({
+                    duration: "fast",
+                    queue: false,
+                    complete: function() {
+                        if (callback) {
+                            callback();
+                        }
                     }
+                });
+                $("#main_content").animate({
+                    "padding-top": "242px"
+                }, {
+                    duration: "fast",
+                    queue: false
                 });
                 $("#categories_downarrow").hide();
                 $("#categories_uparrow").show();
@@ -160,10 +170,20 @@ var VOYAGER;
 
         hideCategoriesDrawer: function(callback) {
             if ($("#categories_drawer").css("display") !== "none") {
-                $("#categories_drawer").slideUp("fast", function() {
-                    if (callback) {
-                        callback();
+                $("#categories_drawer").slideUp({
+                    duration: "fast",
+                    queue: false,
+                    complete: function() {
+                        if (callback) {
+                            callback();
+                        }
                     }
+                });
+                $("#main_content").animate({
+                    "padding-top": "100px"
+                }, {
+                    duration: "fast",
+                    queue: false
                 });
                 $("#categories_downarrow").show();
                 $("#categories_uparrow").hide();
@@ -174,10 +194,20 @@ var VOYAGER;
 
         showOrgsDrawer: function(callback) {
             if ($("#orgs_drawer").css("display") === "none") {
-                $("#orgs_drawer").slideDown("fast", function() {
-                    if (callback) {
-                        callback();
+                $("#orgs_drawer").slideDown({
+                    duration: "fast",
+                    queue: false,
+                    complete: function() {
+                        if (callback) {
+                            callback();
+                        }
                     }
+                });
+                $("#main_content").animate({
+                    "padding-top": "242px"
+                }, {
+                    duration: "fast",
+                    queue: false
                 });
                 $("#orgs_downarrow").hide();
                 $("#orgs_uparrow").show();
@@ -188,10 +218,20 @@ var VOYAGER;
 
         hideOrgsDrawer: function(callback) {
             if ($("#orgs_drawer").css("display") !== "none") {
-                $("#orgs_drawer").slideUp("fast", function() {
-                    if (callback) {
-                        callback();
+                $("#orgs_drawer").slideUp({
+                    duration: "fast",
+                    queue: false,
+                    complete: function() {
+                        if (callback) {
+                            callback();
+                        }
                     }
+                });
+                $("#main_content").animate({
+                    "padding-top": "100px"
+                }, {
+                    duration: "fast",
+                    queue: false
                 });
                 $("#orgs_downarrow").show();
                 $("#orgs_uparrow").hide();
