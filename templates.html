@@ -116,7 +116,7 @@
           </span>
         </div>
         <div class="home-label nav-label">
-          <img src="img/logo_16x16.png" width="16" height="16">&nbsp;Voyager
+          <img src="img/logo_16x16.png">&nbsp;Voyager
         </div>
       </div>
 
@@ -137,7 +137,10 @@
       <div id="categories_drawer" class="drawer">
         {{#each categories}}
         <div class="drawer-item category {{this.active}}" id="category_{{this.name}}">
-          <img src="img/category_{{this.name}}.png">
+          <div class="category_bg category_bg_{{this.name}}"></div>
+          <!-- Remove this until we have permission to include images
+              <img src="img/category_{{this.name}}.png">
+          -->
           <div class="titleBox">{{lookup this.title ../lang}}</div>
         </div>
         {{/each}}
