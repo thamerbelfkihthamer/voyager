@@ -30,6 +30,8 @@ var VOYAGER;
         category: null,
         language: null,
 
+        categoriesDrawerOpened: false,
+
         init: function() {
             // Initialize local storage
             chrome.storage.local.get([
@@ -144,23 +146,29 @@ var VOYAGER;
 
         },
 
-        showCategoriesDrawer: function(callback) {
+        showCategoriesDrawer: function(shouldAnimate, callback) {
             if ($("#categories_drawer").css("display") === "none") {
-                $("#categories_drawer").slideDown({
-                    duration: "fast",
-                    queue: false,
-                    complete: function() {
-                        if (callback) {
-                            callback();
+                if (shouldAnimate === undefined || shouldAnimate === false) {
+                    $("#categories_drawer").css("display", "block");
+                    $("#main_content").css("padding-top", "242px");
+                } else {
+                    $("#categories_drawer").slideDown({
+                        duration: "fast",
+                        queue: false,
+                        complete: function() {
+                            VOYAGER.categoriesDrawerOpened = true;
+                            if (callback) {
+                                callback();
+                            }
                         }
-                    }
-                });
-                $("#main_content").animate({
-                    "padding-top": "242px"
-                }, {
-                    duration: "fast",
-                    queue: false
-                });
+                    });
+                    $("#main_content").animate({
+                        "padding-top": "242px"
+                    }, {
+                        duration: "fast",
+                        queue: false
+                    });
+                }
                 $("#categories_downarrow").hide();
                 $("#categories_uparrow").show();
             } else if (callback) {
@@ -174,6 +182,7 @@ var VOYAGER;
                     duration: "fast",
                     queue: false,
                     complete: function() {
+                        VOYAGER.categoriesDrawerOpened = false;
                         if (callback) {
                             callback();
                         }
@@ -259,7 +268,7 @@ var VOYAGER;
                     if ($("#categories_drawer").css("display") != "none") {
                         VOYAGER.hideCategoriesDrawer();
                     } else {
-                        VOYAGER.showCategoriesDrawer();
+                        VOYAGER.showCategoriesDrawer(true);
                     }
                 });
             });
@@ -297,6 +306,11 @@ var VOYAGER;
                 VOYAGER.category = VOYAGER.categoriesObj[categoryId];
                 VOYAGER.refreshUI();
             });
+
+            // Keep the categories drawer open if it was previously open
+            if (VOYAGER.categoriesDrawerOpened) {
+                VOYAGER.showCategoriesDrawer(false);
+            }
         },
 
         showMain: function(rendered) {
