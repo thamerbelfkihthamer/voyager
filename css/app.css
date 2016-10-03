@@ -141,7 +141,6 @@ a {
 #main_navbar {
   position: fixed;
   top: 0px;
-  height: 60px;
   width: 100%;
   box-shadow: 0 7px 10px -4px #aaaaaa;
   z-index: 3;
