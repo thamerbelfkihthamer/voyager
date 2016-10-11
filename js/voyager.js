@@ -59,7 +59,7 @@ var VOYAGER;
 
             $.getJSON("/data/generated.json", function(data) {
                 VOYAGER.strings = data.strings;
-                VOYAGER.content = VOYAGER.transformContent(data.content);
+                VOYAGER.content = data.content;
                 VOYAGER.orgs = data.orgs;
                 VOYAGER.categories = data.categories;
 
@@ -125,16 +125,31 @@ var VOYAGER;
                 filteredContent.push(content);
             }
 
-            return filteredContent;
+            return VOYAGER.transformContent(filteredContent);
         },
 
         refreshUI: function() {
+            var content = VOYAGER.getContent();
+
+            // Construct map for video navigation
+            var videos = content.filter(function(entry) {
+                return entry.type == "video";
+            });
+            VOYAGER.videoNavigation = {}
+            for (var i = 0; i < videos.length; i++) {
+                VOYAGER.videoNavigation[videos[i].index] = {
+                    up: i == 0 ? undefined : videos[i - 1].index,
+                    down: i == videos.length - 1 ? undefined : videos[i + 1].index
+                };
+            }
+
             var context = {
+                "layout": VOYAGER.language === "ar" ? "rtl" : "ltr",
                 "lang": VOYAGER.language,
                 "org": VOYAGER.org,
                 "category": VOYAGER.category,
                 "content_title": VOYAGER.org ? VOYAGER.org.title[VOYAGER.language] : VOYAGER.category ? VOYAGER.category.title[VOYAGER.language] : "",
-                "content": VOYAGER.getContent()
+                "content": content
             };
 
             var message = {
@@ -363,6 +378,7 @@ var VOYAGER;
                 if (content[i].type == "video") {
                     content[i].youtube_id = VOYAGER.extractYoutubeId(content[i].url);
                 }
+                content[i].index = i;
             }
             return content;
         },
@@ -390,7 +406,10 @@ var VOYAGER;
 
         registerVideoLinkHandlers: function() {
             $("body").on("click", ".video-link", function() {
+                var modal = $(".video-modal");
                 var modalContent = $(".video-modal-content");
+
+                modalContent.empty();
                 modalContent.append('<span class="close">×</span>');
                 modalContent.append('<webview id="embedded-video" src="'
                     + $(this).attr("data-url") + '"></webview>');
@@ -414,13 +433,30 @@ var VOYAGER;
                   window.open(e.targetUrl, "_blank");
                 });
 
+                // Render up and down arrows
+                var navigation = VOYAGER.videoNavigation[$(this).attr("data-index")];
+                ["up", "down"].forEach(function(direction) {
+                    var arrow = modal.find("." + direction);
+                    if (navigation[direction] != undefined) {
+                        var navigationElement = $("#feature-img-" + navigation[direction]);
+                        arrow.attr('data-index', navigationElement.attr('data-index'));
+                        arrow.attr('data-url', navigationElement.attr('data-url'));
+                        arrow.show();
+                    } else {
+                        arrow.hide();
+                    }
+                });
+
                 // Show the modal
-                $(".video-modal").show();
+                modal.show();
             });
 
-            $("body").on("click", ".video-modal-content .close, .video-modal", function() {
+            $("body").on("click", ".video-modal-content .close, .video-modal", function(e) {
+                var target = $(e.target);
+                if (target.hasClass("up") || target.hasClass("down")) {
+                    return;
+                }
                 $(".video-modal").hide();
-                $(".video-modal-content").empty();
             });
         }
     };

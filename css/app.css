@@ -202,11 +202,18 @@ img.yt-video-image {
     margin-top: -4px;
 }
 
-.metadata .logo-container {
+.metadata .logo-container.ltr {
     width: 40px;
     min-height: 54px;
     float: left;
     margin-right: 15px;
+}
+
+.metadata .logo-container.rtl {
+    width: 40px;
+    min-height: 54px;
+    float: right;
+    margin-left: 15px;
 }
 
 .metadata .author-title-container {
@@ -252,6 +259,26 @@ img.yt-video-image {
     height: 100%;
     overflow: hidden;
     background-color: rgba(0,0,0,0.8);
+}
+
+.video-modal .up {
+  position: absolute;
+  left: 50%;
+  top: 5%;
+  color: #DDD;
+  font-size: 28px;
+  font-weight: 100;
+  cursor: pointer;
+}
+
+.video-modal .down {
+  position: absolute;
+  left: 50%;
+  bottom: 12%;
+  color: #DDD;
+  font-size: 28px;
+  font-weight: 100;
+  cursor: pointer;
 }
 
 .video-modal-content {
