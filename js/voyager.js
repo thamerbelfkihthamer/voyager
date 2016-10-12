@@ -77,6 +77,7 @@ var VOYAGER;
 
             // Video click handler
             VOYAGER.registerVideoLinkHandlers();
+            VOYAGER.registerWebLinkHandlers();
         },
 
         sendMessage: function(message) {
@@ -405,7 +406,7 @@ var VOYAGER;
         },
 
         registerVideoLinkHandlers: function() {
-            $("body").on("click", ".video-link", function() {
+            $("body").on("click", ".video-link", function(e) {
                 var modal = $(".video-modal");
                 var modalContent = $(".video-modal-content-inner");
 
@@ -457,6 +458,31 @@ var VOYAGER;
                 }
                 $(".video-modal").hide();
             });
+        },
+
+        registerWebLinkHandlers: function() {
+            $("body").on("click", ".web-link", function(e) {
+                var modalContent = $(".web-modal .content");
+                modalContent.empty();
+                modalContent.append('<webview id="embedded-webpage" src="'
+                    + $(this).attr("data-url") + '"></webview>');
+
+                // Give permissions to embedded webview
+                var webview = document.getElementById('embedded-webpage');
+                webview.addEventListener('newwindow', function(e) {
+                  e.preventDefault();
+                  window.open(e.targetUrl, "_blank");
+                });
+
+                $("html").css("overflow-y", "hidden");
+                $(".web-modal").show();
+            });
+
+            $("body").on("click", ".web-modal .top-bar .back", function(e) {
+                $(".web-modal").hide();
+                $("html").css("overflow-y", "auto");
+            });
+
         }
     };
 

@@ -14,6 +14,7 @@ body {
 
 a {
     text-decoration: none;
+    cursor: pointer;
 }
 
 #navigation {
@@ -184,15 +185,16 @@ img.yt-video-image {
     cursor: pointer;
 }
 
-.yt-video-image-container {
+.feature-image-container {
     display: flex;
+    justify-content: center;
     align-items: center;
     height: 240px;
     overflow: hidden;
     width: inherit;
 }
 
-.yt-video-image-container.first {
+.feature-image-container.first {
     height: 450px;
 }
 
@@ -295,6 +297,40 @@ img.yt-video-image {
 }
 
 #embedded-video {
+    width: 100%;
+    height: inherit;
+    z-index: 11;
+}
+
+.web-modal {
+    display: none;
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.web-modal .top-bar {
+    background-color: #111;
+    color: #DDD;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 15px;
+}
+
+.web-modal .top-bar .back {
+    cursor: pointer;
+}
+
+.web-modal .content {
+    height: 100%;
+    display: flex;
+}
+
+#embedded-webpage {
     width: 100%;
     height: inherit;
     z-index: 11;
