@@ -407,10 +407,9 @@ var VOYAGER;
         registerVideoLinkHandlers: function() {
             $("body").on("click", ".video-link", function() {
                 var modal = $(".video-modal");
-                var modalContent = $(".video-modal-content");
+                var modalContent = $(".video-modal-content-inner");
 
                 modalContent.empty();
-                modalContent.append('<span class="close">×</span>');
                 modalContent.append('<webview id="embedded-video" src="'
                     + $(this).attr("data-url") + '"></webview>');
 
@@ -441,9 +440,9 @@ var VOYAGER;
                         var navigationElement = $("#feature-img-" + navigation[direction]);
                         arrow.attr('data-index', navigationElement.attr('data-index'));
                         arrow.attr('data-url', navigationElement.attr('data-url'));
-                        arrow.show();
+                        arrow.find("svg").show();
                     } else {
-                        arrow.hide();
+                        arrow.find("svg").hide();
                     }
                 });
 
@@ -451,9 +450,9 @@ var VOYAGER;
                 modal.show();
             });
 
-            $("body").on("click", ".video-modal-content .close, .video-modal", function(e) {
+            $("body").on("click", ".video-modal", function(e) {
                 var target = $(e.target);
-                if (target.hasClass("up") || target.hasClass("down")) {
+                if (target.parents(".up, .down").length > 0) {
                     return;
                 }
                 $(".video-modal").hide();

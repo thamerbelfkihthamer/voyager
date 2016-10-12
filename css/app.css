@@ -249,10 +249,9 @@ img.yt-video-image {
 }
 
 .video-modal {
-    display: none; 
+    display: none;
     position: fixed;
     z-index: 10;
-    padding-top: 100px;
     left: 0;
     top: 0;
     width: 100%;
@@ -261,40 +260,38 @@ img.yt-video-image {
     background-color: rgba(0,0,0,0.8);
 }
 
-.video-modal .up {
-  position: absolute;
-  left: 50%;
-  top: 5%;
-  color: #DDD;
-  font-size: 28px;
-  font-weight: 100;
-  cursor: pointer;
-}
-
-.video-modal .down {
-  position: absolute;
-  left: 50%;
-  bottom: 12%;
-  color: #DDD;
-  font-size: 28px;
-  font-weight: 100;
-  cursor: pointer;
-}
-
 .video-modal-content {
     margin: auto;
     width: 80%;
-    height: 80%;
+    height: 95%;
+}
+
+.video-modal-content .up {
+    margin-bottom: -14px;
+    margin-top: 20px;
+    text-align: center;
+    cursor: pointer;
+    height: 10%;
 }
 
 .video-modal-content .close {
-    color: #DDD;
+    color: #BBB;
     float: right;
     font-size: 28px;
     font-weight: 100;
     text-decoration: none;
     cursor: pointer;
-    z-index: 12;
+}
+
+.video-modal-content .down {
+    text-align: center;
+    cursor: pointer;
+    height: 10%;
+    margin-top: 10px;
+}
+
+.video-modal-content-inner {
+    height: 80%;
 }
 
 #embedded-video {
