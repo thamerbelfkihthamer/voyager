@@ -269,27 +269,31 @@ img.yt-video-image {
 }
 
 .video-modal-content .up {
+    cursor: pointer;
+    height: 10%;
+    margin: auto;
     margin-bottom: -14px;
     margin-top: 20px;
     text-align: center;
-    cursor: pointer;
-    height: 10%;
+    width: 64px;
 }
 
 .video-modal-content .close {
     color: #BBB;
+    cursor: pointer;
     float: right;
     font-size: 28px;
     font-weight: 100;
     text-decoration: none;
-    cursor: pointer;
 }
 
 .video-modal-content .down {
-    text-align: center;
     cursor: pointer;
     height: 10%;
+    margin: auto;
     margin-top: 10px;
+    text-align: center;
+    width: 64px;
 }
 
 .video-modal-content-inner {

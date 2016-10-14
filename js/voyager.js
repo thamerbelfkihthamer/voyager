@@ -75,7 +75,7 @@ var VOYAGER;
                 VOYAGER.refreshUI();
             });
 
-            // Video click handler
+            // Register link handlers
             VOYAGER.registerVideoLinkHandlers();
             VOYAGER.registerWebLinkHandlers();
         },
@@ -406,7 +406,7 @@ var VOYAGER;
         },
 
         registerVideoLinkHandlers: function() {
-            $("body").on("click", ".video-link", function(e) {
+            $(document).on("click", ".video-link", function(e) {
                 var modal = $(".video-modal");
                 var modalContent = $(".video-modal-content-inner");
 
@@ -441,27 +441,34 @@ var VOYAGER;
                         var navigationElement = $("#feature-img-" + navigation[direction]);
                         arrow.attr('data-index', navigationElement.attr('data-index'));
                         arrow.attr('data-url', navigationElement.attr('data-url'));
+                        arrow.addClass('video-link');
                         arrow.find("svg").show();
                     } else {
+                        arrow.removeClass('video-link');
                         arrow.find("svg").hide();
                     }
                 });
+
+                // Register key bindings
+                $(document).off('keydown', VOYAGER.videoKeyHandler).on('keydown', VOYAGER.videoKeyHandler);
 
                 // Show the modal
                 modal.show();
             });
 
-            $("body").on("click", ".video-modal", function(e) {
-                var target = $(e.target);
-                if (target.parents(".up, .down").length > 0) {
-                    return;
-                }
+            $(document).on("click", ".video-modal .up, .video-modal .down", function(e) {
+                e.stopPropagation();
+            });
+
+            $(document).on("click", ".video-modal", function(e) {
+                $(document).off('keydown', VOYAGER.videoKeyHandler);
+                $(".video-modal-content-inner").empty();
                 $(".video-modal").hide();
             });
         },
 
         registerWebLinkHandlers: function() {
-            $("body").on("click", ".web-link", function(e) {
+            $(document).on("click", ".web-link", function(e) {
                 var modalContent = $(".web-modal .content");
                 modalContent.empty();
                 modalContent.append('<webview id="embedded-webpage" src="'
@@ -478,11 +485,27 @@ var VOYAGER;
                 $(".web-modal").show();
             });
 
-            $("body").on("click", ".web-modal .top-bar .back", function(e) {
+            $(document).on("click", ".web-modal .top-bar .back", function(e) {
                 $(".web-modal").hide();
                 $("html").css("overflow-y", "auto");
             });
+        },
 
+        videoKeyHandler: function(e) {
+            if (e.which == 8 || e.which == 27) { // backspace or escape key
+                $(".video-modal .close").click();
+                e.preventDefault();
+                return false;
+            } else if (e.which == 38) { // up key
+                $(".video-modal .up").click();
+                e.preventDefault();
+                return false;
+            } else if (e.which == 40) { // down key
+                $(".video-modal .down").click();
+                e.preventDefault();
+                return false;
+            }
+            return true;
         }
     };
 
