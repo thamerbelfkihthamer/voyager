@@ -377,7 +377,7 @@ var VOYAGER;
         transformContent: function(content) {
             for (var i = 0; i < content.length; i++) {
                 if (content[i].type == "video") {
-                    content[i].youtube_id = VOYAGER.extractYoutubeId(content[i].url);
+                    content[i].youtube_id = VOYAGER.extractYoutubeId(content[i].url[VOYAGER.language]);
                 }
                 content[i].index = i;
             }

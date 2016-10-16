@@ -161,7 +161,7 @@
                   <img class="yt-video-image load-image video-link" id="feature-img-{{@index}}" data-index="{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}?fs=0&autoplay=1" data-src="http://img.youtube.com/vi/{{this.youtube_id}}/0.jpg" src="img/placeholder.png"/>
                 </div>
               {{else if this.feature_img}}
-                <a class="web-link" data-url="{{this.url}}">
+                <a class="web-link" data-url="{{lookup this.url ../lang}}">
                   <div class="feature-image-container{{#if_eq @index 0}} first{{/if_eq}}">
                     <img class="load-image" id="feature-img-{{@index}}" data-index="{{@index}}" data-src="{{this.feature_img}}" src="img/placeholder.png"/>
                   </div>
@@ -177,7 +177,7 @@
                     {{#if_eq this.type "video"}}
                       <a class="video-link" data-index="{{@index}}" data-url="https://www.youtube.com/embed/{{this.youtube_id}}?fs=0&autoplay=1">
                     {{else}}
-                      <a class="web-link" data-url="{{this.url}}">
+                      <a class="web-link" data-url="{{lookup this.url ../lang}}">
                     {{/if_eq}}
                       {{lookup this.title ../lang}}
                     </a>

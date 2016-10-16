@@ -14,6 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+
 # Utility script to enumerate all possible categories and language support
 # responses from content tracker csv export
 
@@ -47,22 +48,26 @@ def categoryjson():
     print json.dumps(entries, indent=4, separators=(',', ': '))
 
 def parse(i, fields):
+    mtype = fields[13]
     ar = fields[5]
     de = fields[6]
     categories = [string.strip(x) for x in fields[4].split(',')]
-    return (categories, ar, de)
+    return (mtype, categories, ar, de)
 
 def main():
     with open(sys.argv[1], 'r') as f:
         csvreader = csv.reader(f)
 
+        types = {}
         categories = {}
         arabic = {}
         german = {}
         for i, line in enumerate(csvreader):
             if i <= 1:
                 continue
-            ctypes, ar, de = parse(i, line)
+            mtypes, ctypes, ar, de = parse(i, line)
+            if mtypes:
+                types[mtypes] = True
             if ctypes:
                 for ctype in ctypes:
                     categories[ctype] = True
@@ -70,6 +75,10 @@ def main():
                 arabic[ar] = True
             if de:
                 german[de] = True
+
+        print "\nMedia types:"
+        for mt in types.keys():
+            print mt
 
         print "\nCategories:"
         for category in sorted(categories.keys()):

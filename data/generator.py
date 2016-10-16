@@ -13,7 +13,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-#
+
 # Generate generated.json file used by Voyager Chrome app
 #
 # Usage:
@@ -101,10 +101,22 @@ def parseAppdataFile(file_path):
 
     return output
 
-def contentURL(url):
-    url = url.strip()
-    # TODO(ejpark): Add youtube URL sanitization and return URL as dict per lang
-    return url
+def contentURL(url_ar, url_de, url_en):
+    url_ar = url_ar.strip()
+    url_de = url_de.strip()
+    url_en = url_en.strip()
+
+    # Default to English if language specific content link is not provided
+    if url_ar == "":
+        url_ar = url_en
+    if url_de == "":
+        url_de = url_en
+
+    return {
+        "ar": url_ar,
+        "de": url_de,
+        "en": url_en,
+    }
 
 def contentCategories(categories):
     ctypes = [c.strip() for c in categories.split(',')]
@@ -141,16 +153,17 @@ def parseContent(i, fields):
     if fields[10] == "":
         return None
     record = {
-        "type": "video",
+        "type":         fields[13].strip(),
         "categories":   contentCategories(fields[4]),
         "lang_support": contentLangSupport(fields[5], fields[6]),
         "title":        contentTitle(fields[9], fields[8], fields[7]),
-        "url":          contentURL(fields[10]),
-        "author":       fields[11].strip(),
-        "logo":         fields[12].strip(),
-        "duration":     fields[13].strip(),
-        "author_url":   fields[14].strip(),
-        "org":          fields[15].strip(),
+        "url":          contentURL(fields[12], fields[11], fields[10]),
+        "author":       fields[14].strip(),
+        "logo":         fields[15].strip(),
+        "duration":     fields[16].strip(),
+        "author_url":   fields[17].strip(),
+        "feature_img":  fields[18].strip(),
+        "org":          fields[19].strip(),
     }
     return record
 
