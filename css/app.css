@@ -105,10 +105,10 @@ a {
     cursor: pointer;
     position: relative;
     margin-right: 10px;
+    border: 5px solid white;
 }
 .drawer .drawer-item.active {
     border: 5px solid #673AB7;
-    border-bottom: 1px solid #673AB7;
 }
 .drawer .drawer-item > img {
     width: 100%;
