@@ -94,11 +94,10 @@ a {
 
 .drawer {
     background-color: white;
-    padding-left: 30px;
     box-shadow: 0 7px 10px -4px #aaaaaa;
     border-top: 1px solid #ddd;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px 20px 10px 30px;
+    justify-content: space-between;
 }
 .drawer .drawer-item {
     display: inline-block;

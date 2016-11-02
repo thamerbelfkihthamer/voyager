@@ -165,13 +165,14 @@ var VOYAGER;
         showCategoriesDrawer: function(shouldAnimate, callback) {
             if ($("#categories_drawer").css("display") === "none") {
                 if (shouldAnimate === undefined || shouldAnimate === false) {
-                    $("#categories_drawer").css("display", "block");
+                    $("#categories_drawer").css("display", "flex");
                     $("#main_content").css("padding-top", "242px");
                 } else {
                     $("#categories_drawer").slideDown({
                         duration: "fast",
                         queue: false,
                         complete: function() {
+                            $("#categories_drawer").css("display", "flex");
                             VOYAGER.categoriesDrawerOpened = true;
                             if (callback) {
                                 callback();
