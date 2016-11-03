@@ -1,6 +1,6 @@
 {
   "name": "Voyager",
-  "description": "Ready to start your journey?",
+  "description": "Begin an educational journey that sparks curiosity, wonder, and passion!",
   "version": "0.2",
   "manifest_version": 2,
   "app": {
@@ -10,7 +10,8 @@
   },
   "icons": {
     "16": "img/logo_16x16.png",
-    "128": "img/logo_48x44.png"
+    "48": "img/logo_48x48.png",
+    "128": "img/logo_128x128.png"
   },
   "sandbox": {
     "pages": ["templates.html"]
